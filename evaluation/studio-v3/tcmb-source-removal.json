@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "kind": "source-removal-experiment",
+  "source_sha256": "cd5aa3b68f3816caefae1d7b2298f9cecbacad978ea01c0ce6bf533c34001911",
+  "source_document_id": "0664304b89ee4c209f2a625ad5a467d1",
+  "field": "decision_date",
+  "before": {
+    "field": "decision_date",
+    "status": "grounded",
+    "value": "17 Nisan 2025",
+    "evidence": [
+      {
+        "text": "17 Nisan 2025",
+        "bbox": [
+          0.11929,
+          0.217728,
+          0.249815,
+          0.235489
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s3"
+      }
+    ],
+    "alternatives": [],
+    "rejected_candidates": [],
+    "confidence": null,
+    "verification": "nemotron-review+literal-match",
+    "reason": "Literal source support found; review the cited context."
+  },
+  "after": {
+    "field": "decision_date",
+    "status": "abstained",
+    "value": null,
+    "evidence": [],
+    "alternatives": [],
+    "rejected_candidates": [],
+    "confidence": null,
+    "verification": "nemotron-review+literal-match",
+    "reason": "No sufficiently supported value. This does not prove the field is absent."
+  },
+  "outcome": "withdrew",
+  "removed_spans": [
+    {
+      "text": "17 Nisan 2025",
+      "bbox": [
+        0.11929,
+        0.217728,
+        0.249815,
+        0.235489
+      ],
+      "page": 1,
+      "source": "pdf-text",
+      "ocr_confidence": null,
+      "id": "p1-s3"
+    }
+  ],
+  "requested_span_ids": [
+    "p1-s3"
+  ],
+  "remaining_spans": 36,
+  "mode": "nvidia",
+  "model": "nvidia/nemotron-3-super-120b-a12b",
+  "model_calls": [
+    {
+      "model": "nvidia/nemotron-3-super-120b-a12b",
+      "response": {
+        "candidates": []
+      },
+      "elapsed_seconds": 1.28,
+      "usage": {
+        "prompt_tokens": 1622,
+        "completion_tokens": 7,
+        "total_tokens": 1629
+      },
+      "request_id": null
+    }
+  ],
+  "events": [
+    {
+      "stage": "read",
+      "message": "Read 1 pages and 36 source spans.",
+      "field": null
+    },
+    {
+      "stage": "extract",
+      "message": "Produced 0 candidates.",
+      "field": null,
+      "model": "nvidia/nemotron-3-super-120b-a12b"
+    },
+    {
+      "stage": "coverage",
+      "message": "0 of 1 fields resolved; 0 conflicts; 1 abstentions.",
+      "field": null
+    }
+  ],
+  "elapsed_seconds": 1.285,
+  "method": "Fresh extraction with selected evidence and overlapping text removed. Matching page regions are blacked out before any visual retry. The previous answer is not supplied to the model.",
+  "limitation": "Tests dependence on selected evidence, not truth. Unmasked duplicate evidence may support the same answer. The same model family is used; this is not an independent expert review.",
+  "experiment_sha256": "816f9d303f925bbb48fe5f0bb5d0484e630b1d45e7315858e291734e0501ca59",
+  "id": "14b2fa580d084e5d82490156d4154bd3"
+}

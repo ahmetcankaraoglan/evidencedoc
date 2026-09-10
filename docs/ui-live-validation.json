@@ -1,0 +1,58 @@
+{
+  "document": "tcmb-2025-24.pdf",
+  "test": "Upload and live NVIDIA review through redesigned browser UI",
+  "elapsed_seconds": 20.751,
+  "model_calls": 2,
+  "exact_matches": 8,
+  "requested": 8,
+  "checks": [
+    {
+      "field": "karar_tarihi",
+      "actual": "17 Nisan 2025",
+      "passed": true,
+      "status": "grounded"
+    },
+    {
+      "field": "karar_sayisi",
+      "actual": "2025-24",
+      "passed": true,
+      "status": "grounded"
+    },
+    {
+      "field": "kurul_baskani",
+      "actual": "Yaşar Fatih Karahan",
+      "passed": true,
+      "status": "grounded"
+    },
+    {
+      "field": "yeni_politika_faizi",
+      "actual": "46",
+      "passed": true,
+      "status": "grounded"
+    },
+    {
+      "field": "onceki_politika_faizi",
+      "actual": "42,5",
+      "passed": true,
+      "status": "grounded"
+    },
+    {
+      "field": "yeni_gecelik_borc_verme_faizi",
+      "actual": "49",
+      "passed": true,
+      "status": "grounded"
+    },
+    {
+      "field": "yeni_gecelik_borclanma_faizi",
+      "actual": "44,5",
+      "passed": true,
+      "status": "grounded"
+    },
+    {
+      "field": "kurul_toplanti_saati",
+      "actual": null,
+      "passed": true,
+      "status": "abstained"
+    }
+  ]
+}

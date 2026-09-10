@@ -1,0 +1,37 @@
+[
+  {
+    "id": "q3",
+    "file": "nvidia-q3-fy2026.pdf",
+    "title": "NVIDIA Q3 FY2026 financial results",
+    "url": "https://nvidianews.nvidia.com/_gallery/download_pdf/691e34d93d633290a88deeef/",
+    "page_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2026",
+    "pages": 10,
+    "sha256": "f3e6f0440d9fc72b552f5f1d9dea9b122f662a18bdfa5fa9be78c3b038685ee4",
+    "language": "English",
+    "source_type": "digital PDF",
+    "document_id": "ff0965ae84214e8e97222923492e5bf1"
+  },
+  {
+    "id": "q4",
+    "file": "nvidia-q4-fy2026.pdf",
+    "title": "NVIDIA Q4 and fiscal 2026 financial results",
+    "url": "https://nvidianews.nvidia.com/_gallery/download_pdf/699f6ab43d6332ccaa689907/",
+    "page_url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026",
+    "pages": 11,
+    "sha256": "89de999d7155649197672bf490c519607f1abbcdc96e2e4c6718bf6ecbb13564",
+    "language": "English",
+    "source_type": "digital PDF",
+    "document_id": "d6ed952d63154d139b133c16802f517d"
+  },
+  {
+    "id": "scanned",
+    "file": "worldbank-tf051711.pdf",
+    "title": "World Bank / IDA Afghanistan grant agreement TF051711",
+    "url": "https://documents1.worldbank.org/curated/en/549511516120883931/pdf/Grant-Agreement-TF051711.pdf",
+    "pages": 10,
+    "sha256": "a46f97184847e8d02e0ac9ba0081ff086677855c28673729cf7b646defc26e9b",
+    "language": "English",
+    "source_type": "scanned PDF with embedded OCR",
+    "document_id": "3e57b04d518c45f2a91b25414253ca0f"
+  }
+]

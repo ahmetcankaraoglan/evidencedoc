@@ -1,0 +1,12 @@
+[
+  "company_name",
+  "quarter_end_date",
+  "quarterly_revenue",
+  "quarterly_revenue_growth_qoq",
+  "gaap_gross_margin_quarter",
+  "gaap_eps_quarter",
+  "dividend_per_share",
+  "dividend_payment_date",
+  "dividend_record_date",
+  "external_auditor_name"
+]

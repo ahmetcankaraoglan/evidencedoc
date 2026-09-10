@@ -1,0 +1,15 @@
+{
+  "document_id": "tcmb-2025-24",
+  "title": "TCMB Para Politikası Kurulu Kararı 17 Nisan 2025",
+  "source_url": "https://www.tcmb.gov.tr/wps/wcm/connect/3203675d-3553-4bf0-bfc2-a21a660e739c/DUY2025-24.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-3203675d-3553-4bf0-bfc2-a21a660e739c-pp3pZv2",
+  "source_sha256": "cd5aa3b68f3816caefae1d7b2298f9cecbacad978ea01c0ce6bf533c34001911",
+  "source_type": "native_pdf",
+  "pages": 1,
+  "mode": "nvidia",
+  "job_id": "3c83818c22084d7595d1ad2734ef79aa",
+  "job_status": {
+    "status": "failed",
+    "message": "NVIDIA request failed (HTTP 503). Check API access and model availability."
+  },
+  "wall_seconds": 8.08
+}

@@ -1,0 +1,140 @@
+1
+00:00:00,090 --> 00:00:01,675
+An AI can give you an answer.
+
+2
+00:00:02,088 --> 00:00:04,111
+EvidenceDoc lets you interrogate it.
+
+3
+00:00:04,562 --> 00:00:07,668
+Here is a real document, and every step from
+
+4
+00:00:07,680 --> 00:00:09,562
+a claim back to its source.
+
+5
+00:00:10,863 --> 00:00:13,556
+Start with NVIDIA's original earnings report.
+
+6
+00:00:13,956 --> 00:00:19,033
+Nemotron reads the document, identifies useful entities, and suggests
+
+7
+00:00:19,046 --> 00:00:22,487
+an extraction schema. The source appears while the analysis
+
+8
+00:00:22,629 --> 00:00:23,479
+is still running.
+
+9
+00:00:24,763 --> 00:00:30,446
+People, organizations, dates, and amounts become searchable, source-linked
+entities.
+
+10
+00:00:30,833 --> 00:00:33,436
+Select a value and the reader opens the right
+
+11
+00:00:33,436 --> 00:00:37,237
+page, zooms in, and centers the cited occurrence.
+
+12
+00:00:38,523 --> 00:00:42,015
+The evidence graph shows how entities connect to source
+
+13
+00:00:42,028 --> 00:00:46,848
+pages. Filter to recurring entities, select a node, inspect
+
+14
+00:00:46,861 --> 00:00:50,121
+its quoted context, and jump back into the document.
+
+15
+00:00:50,546 --> 00:00:54,155
+These are source connections, not invented business relationships.
+
+16
+00:00:55,423 --> 00:00:59,070
+Now compare two real reporting periods using the same
+
+17
+00:00:59,070 --> 00:01:04,018
+fields. Quarterly revenue changes from fifty-seven billion to sixty-eight
+
+18
+00:01:04,031 --> 00:01:05,694
+point one billion dollars.
+
+19
+00:01:06,132 --> 00:01:08,645
+The dividend stays at one cent per share.
+
+20
+00:01:09,070 --> 00:01:12,627
+Every change can be checked against both original documents.
+
+21
+00:01:13,913 --> 00:01:16,362
+The most revealing test is subtraction.
+
+22
+00:01:16,774 --> 00:01:20,176
+Select the dividend payment date and withhold its cited
+
+23
+00:01:20,176 --> 00:01:21,722
+regions from a separate copy.
+
+24
+00:01:22,135 --> 00:01:26,478
+EvidenceDoc removes the matching text and image regions, then
+
+25
+00:01:26,594 --> 00:01:29,467
+asks the model again without its previous answer.
+
+26
+00:01:30,773 --> 00:01:34,330
+The original answer was April first, twenty twenty-six.
+
+27
+00:01:34,755 --> 00:01:38,299
+With that evidence withheld, this run returns no supported
+
+28
+00:01:38,299 --> 00:01:42,178
+value. That demonstrates dependence on the selected evidence.
+
+29
+00:01:42,590 --> 00:01:45,103
+It is an experiment you can inspect, not a
+
+30
+00:01:45,103 --> 00:01:47,204
+blanket guarantee of correctness.
+
+31
+00:01:48,493 --> 00:01:50,838
+EvidenceDoc. Discover what matters.
+
+32
+00:01:51,251 --> 00:01:54,498
+Inspect every claim. Test what the answer depends on.
+
+33
+00:01:54,924 --> 00:01:56,496
+Built with NVIDIA Nemotron.
+
+34
+00:01:56,895 --> 00:01:59,344
+Explore the project and try it on a document
+
+35
+00:01:59,356 --> 00:01:59,795
+of your own.

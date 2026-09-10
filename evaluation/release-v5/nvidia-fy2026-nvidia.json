@@ -1,0 +1,647 @@
+{
+  "document_id": "nvidia-fy2026",
+  "title": "NVIDIA Q4 and Fiscal 2026 financial results",
+  "source_url": "https://nvidianews.nvidia.com/_gallery/download_pdf/699f6ab43d6332ccaa689907/",
+  "source_sha256": "89de999d7155649197672bf490c519607f1abbcdc96e2e4c6718bf6ecbb13564",
+  "source_type": "native_pdf",
+  "pages": 11,
+  "mode": "nvidia",
+  "job_id": "985e35a10aad49899149bbce4db4a144",
+  "job_status": {
+    "status": "complete",
+    "message": "Evidence review complete."
+  },
+  "wall_seconds": 10.06,
+  "result": {
+    "fields": [
+      {
+        "field": "quarter_end_date",
+        "status": "grounded",
+        "value": "January 25, 2026",
+        "evidence": [
+          {
+            "text": "NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up",
+            "bbox": [
+              0.091195,
+              0.222424,
+              0.943616,
+              0.235985
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s7"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "q4_fy2026_revenue_billions",
+        "status": "grounded",
+        "value": "$68.1 billion",
+        "evidence": [
+          {
+            "text": "Record quarterly revenue of $68.1 billion, up 20% from Q3 and up 73% from a year ago",
+            "bbox": [
+              0.129948,
+              0.141395,
+              0.893897,
+              0.158124
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s3"
+          },
+          {
+            "text": "NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up",
+            "bbox": [
+              0.091195,
+              0.222424,
+              0.943616,
+              0.235985
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s7"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "full_year_fy2026_revenue_billions",
+        "status": "grounded",
+        "value": "$215.9 billion",
+        "evidence": [
+          {
+            "text": "Record full-year revenue of $215.9 billion, up 65%",
+            "bbox": [
+              0.129948,
+              0.192743,
+              0.568601,
+              0.209471
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s6"
+          },
+          {
+            "text": "20% from the previous quarter and up 73% from a year ago. For fiscal 2026, revenue was $215.9 billion, up 65% from a year",
+            "bbox": [
+              0.091195,
+              0.236801,
+              0.94405,
+              0.250362
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s8"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "q4_fy2026_gaap_diluted_eps",
+        "status": "grounded",
+        "value": "$1.76",
+        "evidence": [
+          {
+            "text": "For the quarter, GAAP and non-GAAP earnings per diluted share were $1.76 and $1.62, respectively. For fiscal 2026, GAAP",
+            "bbox": [
+              0.091195,
+              0.316219,
+              0.943383,
+              0.32978
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s12"
+          },
+          {
+            "text": "1.76  $",
+            "bbox": [
+              0.549459,
+              0.204623,
+              0.616146,
+              0.218184
+            ],
+            "page": 5,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p5-s376"
+          },
+          {
+            "text": "1.76  $",
+            "bbox": [
+              0.429322,
+              0.905005,
+              0.496009,
+              0.918566
+            ],
+            "page": 8,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p8-s876"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "q4_fy2026_non_gaap_diluted_eps",
+        "status": "grounded",
+        "value": "$1.62",
+        "evidence": [
+          {
+            "text": "For the quarter, GAAP and non-GAAP earnings per diluted share were $1.76 and $1.62, respectively. For fiscal 2026, GAAP",
+            "bbox": [
+              0.091195,
+              0.316219,
+              0.943383,
+              0.32978
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s12"
+          },
+          {
+            "text": "1.62  $",
+            "bbox": [
+              0.429322,
+              0.926229,
+              0.496009,
+              0.93979
+            ],
+            "page": 8,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p8-s883"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "dividend_payment_date",
+        "status": "grounded",
+        "value": "April 1, 2026",
+        "evidence": [
+          {
+            "text": "NVIDIA will pay its next quarterly cash dividend of $0.01 per share on April 1, 2026, to all shareholders of record on March",
+            "bbox": [
+              0.091195,
+              0.478477,
+              0.943616,
+              0.492039
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s21"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "dividend_record_date",
+        "status": "recovered",
+        "value": "March 11, 2026",
+        "evidence": [
+          {
+            "text": "of the end of the fourth quarter, the company had $58.5 billion remaining under its share repurchase authorization.",
+            "bbox": [
+              0.091195,
+              0.453146,
+              0.866674,
+              0.466707
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s20"
+          },
+          {
+            "text": "NVIDIA will pay its next quarterly cash dividend of $0.01 per share on April 1, 2026, to all shareholders of record on March",
+            "bbox": [
+              0.091195,
+              0.478477,
+              0.943616,
+              0.492039
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s21"
+          },
+          {
+            "text": "11, 2026.",
+            "bbox": [
+              0.091195,
+              0.492855,
+              0.155542,
+              0.506416
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s22"
+          },
+          {
+            "text": "Q4 Fiscal 2026 Summary",
+            "bbox": [
+              0.091195,
+              0.517901,
+              0.272206,
+              0.531989
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s23"
+          },
+          {
+            "text": "GAAP",
+            "bbox": [
+              0.490359,
+              0.547341,
+              0.535499,
+              0.561428
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s24"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "external_auditor_name",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [
+          ""
+        ],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      }
+    ],
+    "events": [
+      {
+        "stage": "read",
+        "message": "Read 11 pages and 1063 source spans.",
+        "field": null
+      },
+      {
+        "stage": "extract",
+        "message": "Produced 8 candidates.",
+        "field": null,
+        "model": "nvidia/nemotron-3-super-120b-a12b"
+      },
+      {
+        "stage": "review",
+        "message": "The text explicitly states: 'NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up' which directly matches the value 'January 25, 2026' for quarter_end_date.",
+        "field": "quarter_end_date",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The evidence includes two direct statements: 'Record quarterly revenue of $68.1 billion, up 20% from Q3 and up 73% from a year ago' and 'NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up', both confirming the value '$68.1 billion' for q4_fy2026_revenue_billions.",
+        "field": "q4_fy2026_revenue_billions",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The evidence contains 'Record full-year revenue of $215.9 billion, up 65%' and 'For fiscal 2026, revenue was $215.9 billion, up 65% from a year', both explicitly stating the value '$215.9 billion' for full_year_fy2026_revenue_billions.",
+        "field": "full_year_fy2026_revenue_billions",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The evidence includes: 'For the quarter, GAAP and non-GAAP earnings per diluted share were $1.76 and $1.62, respectively.' which explicitly states '$1.76' as the GAAP diluted EPS for the quarter, and two additional fragments '1.76  $' further confirm this value in context.",
+        "field": "q4_fy2026_gaap_diluted_eps",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The evidence includes: 'For the quarter, GAAP and non-GAAP earnings per diluted share were $1.76 and $1.62, respectively.' which explicitly states '$1.62' as the non-GAAP diluted EPS for the quarter, and the fragment '1.62  $' confirms this value.",
+        "field": "q4_fy2026_non_gaap_diluted_eps",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The evidence states: 'NVIDIA will pay its next quarterly cash dividend of $0.01 per share on April 1, 2026, to all shareholders of record on March' which explicitly includes the date 'April 1, 2026' as the dividend payment date.",
+        "field": "dividend_payment_date",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The evidence includes the fragment '11, 2026.' which, when combined with the preceding context 'to all shareholders of record on March' from nearby_context, forms the complete phrase 'to all shareholders of record on March 11, 2026.' This explicitly states the dividend record date as March 11, 2026.",
+        "field": "dividend_record_date",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "No evidence is provided in the nearby_context or evidence arrays to support a value for external_auditor_name. The field value is empty, and there is no textual basis in the provided context to confirm or deny any auditor name.",
+        "field": "external_auditor_name",
+        "supported": false
+      },
+      {
+        "stage": "repair",
+        "message": "Recovered the citation from adjacent source lines after semantic review.",
+        "field": "dividend_record_date",
+        "before": "March 11, 2026",
+        "after": "March 11, 2026"
+      },
+      {
+        "stage": "reject",
+        "message": "The requested date field requires a calendar date, not an incomplete fragment or non-date phrase.",
+        "field": "external_auditor_name",
+        "candidate": ""
+      },
+      {
+        "stage": "coverage",
+        "message": "7 of 8 fields resolved; 0 conflicts; 1 abstentions.",
+        "field": null
+      }
+    ],
+    "counts": {
+      "grounded": 6,
+      "recovered": 1,
+      "conflict": 0,
+      "abstained": 1
+    },
+    "requested": 8,
+    "mode": "nvidia",
+    "model": "nvidia/nemotron-3-super-120b-a12b",
+    "model_calls": [
+      {
+        "model": "nvidia/nemotron-3-super-120b-a12b",
+        "response": {
+          "candidates": [
+            {
+              "field": "quarter_end_date",
+              "value": "January 25, 2026",
+              "span_ids": [
+                "p1-s7"
+              ]
+            },
+            {
+              "field": "q4_fy2026_revenue_billions",
+              "value": "$68.1 billion",
+              "span_ids": [
+                "p1-s3",
+                "p1-s7"
+              ]
+            },
+            {
+              "field": "full_year_fy2026_revenue_billions",
+              "value": "$215.9 billion",
+              "span_ids": [
+                "p1-s6",
+                "p1-s8"
+              ]
+            },
+            {
+              "field": "q4_fy2026_gaap_diluted_eps",
+              "value": "$1.76",
+              "span_ids": [
+                "p1-s12",
+                "p5-s376",
+                "p8-s876"
+              ]
+            },
+            {
+              "field": "q4_fy2026_non_gaap_diluted_eps",
+              "value": "$1.62",
+              "span_ids": [
+                "p1-s12",
+                "p8-s883"
+              ]
+            },
+            {
+              "field": "dividend_payment_date",
+              "value": "April 1, 2026",
+              "span_ids": [
+                "p1-s21"
+              ]
+            },
+            {
+              "field": "dividend_record_date",
+              "value": "March 11, 2026",
+              "span_ids": [
+                "p1-s22"
+              ]
+            },
+            {
+              "field": "external_auditor_name",
+              "value": "",
+              "span_ids": []
+            }
+          ]
+        },
+        "elapsed_seconds": 4.09,
+        "usage": {
+          "prompt_tokens": 25339,
+          "completion_tokens": 335,
+          "total_tokens": 25674
+        },
+        "request_id": null
+      },
+      {
+        "model": "nvidia/nemotron-3-super-120b-a12b",
+        "response": {
+          "decisions": [
+            {
+              "index": 0,
+              "supported": true,
+              "reason": "The text explicitly states: 'NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up' which directly matches the value 'January 25, 2026' for quarter_end_date."
+            },
+            {
+              "index": 1,
+              "supported": true,
+              "reason": "The evidence includes two direct statements: 'Record quarterly revenue of $68.1 billion, up 20% from Q3 and up 73% from a year ago' and 'NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up', both confirming the value '$68.1 billion' for q4_fy2026_revenue_billions."
+            },
+            {
+              "index": 2,
+              "supported": true,
+              "reason": "The evidence contains 'Record full-year revenue of $215.9 billion, up 65%' and 'For fiscal 2026, revenue was $215.9 billion, up 65% from a year', both explicitly stating the value '$215.9 billion' for full_year_fy2026_revenue_billions."
+            },
+            {
+              "index": 3,
+              "supported": true,
+              "reason": "The evidence includes: 'For the quarter, GAAP and non-GAAP earnings per diluted share were $1.76 and $1.62, respectively.' which explicitly states '$1.76' as the GAAP diluted EPS for the quarter, and two additional fragments '1.76  $' further confirm this value in context."
+            },
+            {
+              "index": 4,
+              "supported": true,
+              "reason": "The evidence includes: 'For the quarter, GAAP and non-GAAP earnings per diluted share were $1.76 and $1.62, respectively.' which explicitly states '$1.62' as the non-GAAP diluted EPS for the quarter, and the fragment '1.62  $' confirms this value."
+            },
+            {
+              "index": 5,
+              "supported": true,
+              "reason": "The evidence states: 'NVIDIA will pay its next quarterly cash dividend of $0.01 per share on April 1, 2026, to all shareholders of record on March' which explicitly includes the date 'April 1, 2026' as the dividend payment date."
+            },
+            {
+              "index": 6,
+              "supported": true,
+              "reason": "The evidence includes the fragment '11, 2026.' which, when combined with the preceding context 'to all shareholders of record on March' from nearby_context, forms the complete phrase 'to all shareholders of record on March 11, 2026.' This explicitly states the dividend record date as March 11, 2026."
+            },
+            {
+              "index": 7,
+              "supported": false,
+              "reason": "No evidence is provided in the nearby_context or evidence arrays to support a value for external_auditor_name. The field value is empty, and there is no textual basis in the provided context to confirm or deny any auditor name."
+            }
+          ]
+        },
+        "elapsed_seconds": 5.23,
+        "usage": {
+          "prompt_tokens": 2709,
+          "completion_tokens": 780,
+          "total_tokens": 3489
+        },
+        "request_id": null
+      }
+    ],
+    "fault_injection": false,
+    "elapsed_seconds": 9.837,
+    "confidence_note": "Confidence is null: no calibrated probability model has been evaluated.",
+    "limitations": "Source support is not a guarantee of semantic correctness. OCR and correlated model errors remain possible.",
+    "pipeline_elapsed_seconds": 9.374,
+    "schema_version": "1.0"
+  },
+  "decisions": [
+    {
+      "field": "quarter_end_date",
+      "expected": [
+        "January 25, 2026"
+      ],
+      "reference_page": 1,
+      "actual": "January 25, 2026",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "q4_fy2026_revenue_billions",
+      "expected": [
+        "$68.1 billion",
+        "68.1 billion"
+      ],
+      "reference_page": 1,
+      "actual": "$68.1 billion",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "full_year_fy2026_revenue_billions",
+      "expected": [
+        "$215.9 billion",
+        "215.9 billion"
+      ],
+      "reference_page": 1,
+      "actual": "$215.9 billion",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "q4_fy2026_gaap_diluted_eps",
+      "expected": [
+        "$1.76",
+        "1.76"
+      ],
+      "reference_page": 1,
+      "actual": "$1.76",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "q4_fy2026_non_gaap_diluted_eps",
+      "expected": [
+        "$1.62",
+        "1.62"
+      ],
+      "reference_page": 1,
+      "actual": "$1.62",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "dividend_payment_date",
+      "expected": [
+        "April 1, 2026"
+      ],
+      "reference_page": 1,
+      "actual": "April 1, 2026",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "dividend_record_date",
+      "expected": [
+        "March 11, 2026"
+      ],
+      "reference_page": 1,
+      "actual": "March 11, 2026",
+      "status": "recovered",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": "Value wraps from March to 11, 2026 across two source lines."
+    },
+    {
+      "field": "external_auditor_name",
+      "expected": null,
+      "reference_page": null,
+      "actual": null,
+      "status": "abstained",
+      "correct": true,
+      "has_evidence": false,
+      "reference_note": "No external auditor is named in this press release."
+    }
+  ]
+}

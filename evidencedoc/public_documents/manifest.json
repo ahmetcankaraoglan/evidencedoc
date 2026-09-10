@@ -1,0 +1,71 @@
+[
+  {
+    "id": "nvidia-fy2026",
+    "title": "NVIDIA Q4 and Fiscal 2026 financial results",
+    "source_url": "https://nvidianews.nvidia.com/_gallery/download_pdf/699f6ab43d6332ccaa689907/",
+    "filename": "nvidia-fy2026.pdf",
+    "sha256": "89de999d7155649197672bf490c519607f1abbcdc96e2e4c6718bf6ecbb13564",
+    "fields": [
+      "quarter_end_date",
+      "q4_fy2026_revenue_billions",
+      "full_year_fy2026_revenue_billions",
+      "q4_fy2026_gaap_diluted_eps",
+      "q4_fy2026_non_gaap_diluted_eps",
+      "dividend_payment_date",
+      "dividend_record_date",
+      "external_auditor_name"
+    ]
+  },
+  {
+    "id": "tcmb-2025-24",
+    "title": "TCMB Para Politikası Kurulu Kararı 17 Nisan 2025",
+    "source_url": "https://www.tcmb.gov.tr/wps/wcm/connect/3203675d-3553-4bf0-bfc2-a21a660e739c/DUY2025-24.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-3203675d-3553-4bf0-bfc2-a21a660e739c-pp3pZv2",
+    "filename": "tcmb-2025-24.pdf",
+    "sha256": "cd5aa3b68f3816caefae1d7b2298f9cecbacad978ea01c0ce6bf533c34001911",
+    "fields": [
+      "karar_tarihi",
+      "karar_sayisi",
+      "kurul_baskani",
+      "yeni_politika_faizi",
+      "onceki_politika_faizi",
+      "yeni_gecelik_borc_verme_faizi",
+      "yeni_gecelik_borclanma_faizi",
+      "kurul_toplanti_saati"
+    ]
+  },
+  {
+    "id": "fomc-2025-01-29",
+    "title": "Federal Reserve FOMC statement and implementation decisions",
+    "source_url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20250129a1.pdf",
+    "filename": "fomc-2025-01-29.pdf",
+    "sha256": "fbb886257e82c1ef1c21b34f235dfe9435eefc902c04d53356874784d6691a21",
+    "fields": [
+      "release_date",
+      "implementation_effective_date",
+      "committee_chair",
+      "committee_vice_chair",
+      "federal_funds_target_range",
+      "reserve_balances_interest_rate",
+      "treasury_monthly_redemption_cap",
+      "policy_expiration_date"
+    ]
+  },
+  {
+    "id": "worldbank-tf",
+    "title": "World Bank / IDA Somalia Statistical Capacity Building grant",
+    "source_url": "https://documents1.worldbank.org/curated/en/126091487799296208/pdf/ITK171540-201701221631.pdf",
+    "filename": "worldbank-tf.pdf",
+    "sha256": "2e4564c202450210d5537fcf2c00d40e0a031c3dc8f382f5aa723b84c276dace",
+    "fields": [
+      "project_grant_number",
+      "project_title",
+      "total_grant_amount",
+      "grant_recipient",
+      "ida_signatory",
+      "recipient_addressee",
+      "grant_closing_date",
+      "recipient_tax_identifier",
+      "recipient_signature_date"
+    ]
+  }
+]

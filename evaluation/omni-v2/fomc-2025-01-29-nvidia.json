@@ -1,0 +1,430 @@
+{
+  "document_id": "fomc-2025-01-29",
+  "title": "Federal Reserve FOMC statement and implementation decisions",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20250129a1.pdf",
+  "source_sha256": "fbb886257e82c1ef1c21b34f235dfe9435eefc902c04d53356874784d6691a21",
+  "source_type": "native_pdf",
+  "pages": 4,
+  "mode": "nvidia",
+  "job_id": "b271e9ee173f4f19b06ea6b3e20316c3",
+  "job_status": {
+    "status": "complete",
+    "message": "Evidence review complete."
+  },
+  "wall_seconds": 30.2,
+  "result": {
+    "fields": [
+      {
+        "field": "release_date",
+        "status": "grounded",
+        "value": "January 29, 2025",
+        "evidence": [
+          {
+            "text": "January 29, 2025",
+            "bbox": [
+              0.705868,
+              0.145351,
+              0.885294,
+              0.16923
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s2"
+          },
+          {
+            "text": "January 29, 2025",
+            "bbox": [
+              0.647059,
+              0.104394,
+              0.86,
+              0.124803
+            ],
+            "page": 3,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p3-s33"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "implementation_effective_date",
+        "status": "recovered",
+        "value": "January 30, 2025",
+        "evidence": [
+          {
+            "text": "interest rate paid on reserve balances at 4.4 percent, effective January 30, 2025.",
+            "bbox": [
+              0.157647,
+              0.24197,
+              0.785488,
+              0.262379
+            ],
+            "page": 3,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p3-s39"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [
+          "January 30, 2025"
+        ],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "committee_chair",
+        "status": "recovered",
+        "value": "Jerome H. Powell",
+        "evidence": [
+          {
+            "text": "Voting for the monetary policy action were Jerome H. Powell, Chair; John C. Williams,",
+            "bbox": [
+              0.176471,
+              0.158939,
+              0.871372,
+              0.179348
+            ],
+            "page": 2,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p2-s25"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [
+          "Jerome H. Powell"
+        ],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "committee_vice_chair",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [
+          "John C. Williams"
+        ],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "federal_funds_target_range",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [
+          "4-1/4 to 4-1/2 percent"
+        ],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "reserve_balances_interest_rate",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [
+          "4.4 percent"
+        ],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "treasury_monthly_redemption_cap",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [
+          "$25 billion per month"
+        ],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "policy_expiration_date",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [
+          "Not answerable"
+        ],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      }
+    ],
+    "events": [
+      {
+        "stage": "read",
+        "message": "Read 4 pages and 77 source spans.",
+        "field": null
+      },
+      {
+        "stage": "extract",
+        "message": "Produced 8 candidates.",
+        "field": null,
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning"
+      },
+      {
+        "stage": "reject",
+        "message": "Semantic review did not support this field/value.",
+        "field": "implementation_effective_date",
+        "candidate": "January 30, 2025"
+      },
+      {
+        "stage": "retry",
+        "message": "Re-read the cited region.",
+        "field": "implementation_effective_date"
+      },
+      {
+        "stage": "repair",
+        "message": "Recovered a source-supported value.",
+        "field": "implementation_effective_date",
+        "before": "January 30, 2025",
+        "after": "January 30, 2025"
+      },
+      {
+        "stage": "reject",
+        "message": "Semantic review did not support this field/value.",
+        "field": "committee_chair",
+        "candidate": "Jerome H. Powell"
+      },
+      {
+        "stage": "retry",
+        "message": "Re-read the cited region.",
+        "field": "committee_chair"
+      },
+      {
+        "stage": "repair",
+        "message": "Recovered a source-supported value.",
+        "field": "committee_chair",
+        "before": "Jerome H. Powell",
+        "after": "Jerome H. Powell"
+      },
+      {
+        "stage": "reject",
+        "message": "Semantic review did not support this field/value.",
+        "field": "committee_vice_chair",
+        "candidate": "John C. Williams"
+      },
+      {
+        "stage": "retry",
+        "message": "Re-read the cited region.",
+        "field": "committee_vice_chair"
+      },
+      {
+        "stage": "reject",
+        "message": "Semantic review did not support this field/value.",
+        "field": "federal_funds_target_range",
+        "candidate": "4-1/4 to 4-1/2 percent"
+      },
+      {
+        "stage": "reject",
+        "message": "Semantic review did not support this field/value.",
+        "field": "reserve_balances_interest_rate",
+        "candidate": "4.4 percent"
+      },
+      {
+        "stage": "reject",
+        "message": "Semantic review did not support this field/value.",
+        "field": "treasury_monthly_redemption_cap",
+        "candidate": "$25 billion per month"
+      },
+      {
+        "stage": "reject",
+        "message": "Candidate is not a literal match in its cited source.",
+        "field": "policy_expiration_date",
+        "candidate": "Not answerable"
+      },
+      {
+        "stage": "coverage",
+        "message": "3 of 8 fields resolved; 0 conflicts; 5 abstentions.",
+        "field": null
+      }
+    ],
+    "counts": {
+      "grounded": 1,
+      "recovered": 2,
+      "conflict": 0,
+      "abstained": 5
+    },
+    "requested": 8,
+    "mode": "nvidia",
+    "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning",
+    "model_calls": [
+      {
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning",
+        "elapsed_seconds": 9.47,
+        "usage": {
+          "prompt_tokens": 2408,
+          "completion_tokens": 298,
+          "total_tokens": 2706
+        },
+        "request_id": null
+      },
+      {
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning",
+        "elapsed_seconds": 3.2,
+        "usage": {
+          "prompt_tokens": 621,
+          "completion_tokens": 47,
+          "total_tokens": 668
+        },
+        "request_id": null
+      },
+      {
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning",
+        "elapsed_seconds": 7.0,
+        "usage": {
+          "prompt_tokens": 147,
+          "completion_tokens": 20,
+          "total_tokens": 167
+        },
+        "request_id": null
+      },
+      {
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning",
+        "elapsed_seconds": 6.5,
+        "usage": {
+          "prompt_tokens": 141,
+          "completion_tokens": 15,
+          "total_tokens": 156
+        },
+        "request_id": null
+      },
+      {
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning",
+        "elapsed_seconds": 3.05,
+        "usage": {
+          "prompt_tokens": 426,
+          "completion_tokens": 11,
+          "total_tokens": 437
+        },
+        "request_id": null
+      }
+    ],
+    "fault_injection": false,
+    "elapsed_seconds": 29.402,
+    "confidence_note": "Confidence is null: no calibrated probability model has been evaluated.",
+    "limitations": "Source support is not a guarantee of semantic correctness. OCR and correlated model errors remain possible.",
+    "pipeline_elapsed_seconds": 29.281,
+    "schema_version": "1.0"
+  },
+  "decisions": [
+    {
+      "field": "release_date",
+      "expected": [
+        "January 29, 2025"
+      ],
+      "reference_page": 1,
+      "actual": "January 29, 2025",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "implementation_effective_date",
+      "expected": [
+        "January 30, 2025"
+      ],
+      "reference_page": 3,
+      "actual": "January 30, 2025",
+      "status": "recovered",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "committee_chair",
+      "expected": [
+        "Jerome H. Powell"
+      ],
+      "reference_page": 2,
+      "actual": "Jerome H. Powell",
+      "status": "recovered",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "committee_vice_chair",
+      "expected": [
+        "John C. Williams"
+      ],
+      "reference_page": 2,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "federal_funds_target_range",
+      "expected": [
+        "4-1/4 to 4-1/2 percent",
+        "4-1/4 to 4-1/2"
+      ],
+      "reference_page": 1,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "reserve_balances_interest_rate",
+      "expected": [
+        "4.4 percent",
+        "4.4"
+      ],
+      "reference_page": 3,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "treasury_monthly_redemption_cap",
+      "expected": [
+        "$25 billion"
+      ],
+      "reference_page": 3,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "policy_expiration_date",
+      "expected": null,
+      "reference_page": null,
+      "actual": null,
+      "status": "abstained",
+      "correct": true,
+      "has_evidence": false,
+      "reference_note": "No fixed expiration date is provided; implementation date is not an expiry."
+    }
+  ]
+}

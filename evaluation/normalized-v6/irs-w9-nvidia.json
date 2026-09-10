@@ -1,0 +1,526 @@
+{
+  "document_id": "irs-w9",
+  "title": "IRS Form W-9 revision March 2024 (official blank form)",
+  "source_url": "https://www.irs.gov/pub/irs-pdf/fw9.pdf",
+  "source_sha256": "2d420cbb4123dcf1fb82595b2359cfbb5d81f00b9df9d359fcc7af361d093f53",
+  "source_type": "native_blank_form_pdf",
+  "pages": 6,
+  "mode": "nvidia",
+  "job_id": "9bac6ff4f0614c94b384484b3010af70",
+  "job_status": {
+    "status": "complete",
+    "message": "Evidence review complete."
+  },
+  "wall_seconds": 24.24,
+  "result": {
+    "fields": [
+      {
+        "field": "form_number",
+        "status": "grounded",
+        "value": "Form W-9",
+        "evidence": [
+          {
+            "text": "Form  W-9",
+            "bbox": [
+              0.058826,
+              0.037638,
+              0.157219,
+              0.074064
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s1"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "revision_date",
+        "status": "grounded",
+        "value": "March 2024",
+        "evidence": [
+          {
+            "text": "(Rev. March 2024)",
+            "bbox": [
+              0.058826,
+              0.070577,
+              0.151843,
+              0.080883
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s2"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "catalog_number",
+        "status": "grounded",
+        "value": "Cat. No. 10231X",
+        "evidence": [
+          {
+            "text": "Cat. No. 10231X",
+            "bbox": [
+              0.387262,
+              0.943642,
+              0.471597,
+              0.953948
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s114"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "issuing_agency",
+        "status": "grounded",
+        "value": "Department of the Treasury Internal Revenue Service",
+        "evidence": [
+          {
+            "text": "Department of the Treasury",
+            "bbox": [
+              0.058826,
+              0.083252,
+              0.201044,
+              0.093558
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s5"
+          },
+          {
+            "text": "Internal Revenue Service",
+            "bbox": [
+              0.058826,
+              0.093859,
+              0.184989,
+              0.104165
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s6"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "completed_taxpayer_name",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [
+          ""
+        ],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "completed_taxpayer_tin",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [
+          ""
+        ],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "signature_date",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [
+          ""
+        ],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "completed_business_name",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [
+          ""
+        ],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      }
+    ],
+    "events": [
+      {
+        "stage": "read",
+        "message": "Read 6 pages and 731 source spans.",
+        "field": null
+      },
+      {
+        "stage": "extract",
+        "message": "Produced 8 candidates.",
+        "field": null,
+        "model": "nvidia/nemotron-3-super-120b-a12b"
+      },
+      {
+        "stage": "review",
+        "message": "The text 'Form  W-9' explicitly matches the field value 'Form W-9' after normalizing extra space.",
+        "field": "form_number",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The text '(Rev. March 2024)' explicitly contains the revision date 'March 2024'.",
+        "field": "revision_date",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The text 'Cat. No. 10231X' explicitly matches the catalog number.",
+        "field": "catalog_number",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The issuing agency is explicitly stated as 'Department of the Treasury' and 'Internal Revenue Service' on separate lines, which together form the full agency name.",
+        "field": "issuing_agency",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "No evidence provided for completed taxpayer name.",
+        "field": "completed_taxpayer_name",
+        "supported": false
+      },
+      {
+        "stage": "review",
+        "message": "No evidence provided for completed taxpayer TIN.",
+        "field": "completed_taxpayer_tin",
+        "supported": false
+      },
+      {
+        "stage": "review",
+        "message": "No evidence provided for signature date.",
+        "field": "signature_date",
+        "supported": false
+      },
+      {
+        "stage": "review",
+        "message": "No evidence provided for completed business name.",
+        "field": "completed_business_name",
+        "supported": false
+      },
+      {
+        "stage": "reject",
+        "message": "The requested date field requires a calendar date, not an incomplete fragment or non-date phrase.",
+        "field": "completed_taxpayer_name",
+        "candidate": ""
+      },
+      {
+        "stage": "reject",
+        "message": "The requested date field requires a calendar date, not an incomplete fragment or non-date phrase.",
+        "field": "completed_taxpayer_tin",
+        "candidate": ""
+      },
+      {
+        "stage": "reject",
+        "message": "The requested date field requires a calendar date, not an incomplete fragment or non-date phrase.",
+        "field": "signature_date",
+        "candidate": ""
+      },
+      {
+        "stage": "reject",
+        "message": "The requested date field requires a calendar date, not an incomplete fragment or non-date phrase.",
+        "field": "completed_business_name",
+        "candidate": ""
+      },
+      {
+        "stage": "coverage",
+        "message": "4 of 8 fields resolved; 0 conflicts; 4 abstentions.",
+        "field": null
+      }
+    ],
+    "counts": {
+      "grounded": 4,
+      "recovered": 0,
+      "conflict": 0,
+      "abstained": 4
+    },
+    "requested": 8,
+    "mode": "nvidia",
+    "model": "nvidia/nemotron-3-super-120b-a12b",
+    "model_calls": [
+      {
+        "model": "nvidia/nemotron-3-super-120b-a12b",
+        "response": {
+          "candidates": [
+            {
+              "field": "form_number",
+              "value": "Form W-9",
+              "span_ids": [
+                "p1-s1"
+              ]
+            },
+            {
+              "field": "revision_date",
+              "value": "March 2024",
+              "span_ids": [
+                "p1-s2"
+              ]
+            },
+            {
+              "field": "catalog_number",
+              "value": "Cat. No. 10231X",
+              "span_ids": [
+                "p1-s114"
+              ]
+            },
+            {
+              "field": "issuing_agency",
+              "value": "Department of the Treasury Internal Revenue Service",
+              "span_ids": [
+                "p1-s5",
+                "p1-s6"
+              ]
+            },
+            {
+              "field": "completed_taxpayer_name",
+              "value": "",
+              "span_ids": []
+            },
+            {
+              "field": "completed_taxpayer_tin",
+              "value": "",
+              "span_ids": []
+            },
+            {
+              "field": "signature_date",
+              "value": "",
+              "span_ids": []
+            },
+            {
+              "field": "completed_business_name",
+              "value": "",
+              "span_ids": []
+            }
+          ]
+        },
+        "elapsed_seconds": 18.38,
+        "usage": {
+          "prompt_tokens": 20742,
+          "completion_tokens": 215,
+          "total_tokens": 20957
+        },
+        "request_id": null
+      },
+      {
+        "model": "nvidia/nemotron-3-super-120b-a12b",
+        "response": {
+          "decisions": [
+            {
+              "index": 0,
+              "supported": true,
+              "reason": "The text 'Form  W-9' explicitly matches the field value 'Form W-9' after normalizing extra space.",
+              "value": "Form W-9",
+              "span_ids": [
+                "p1-s1"
+              ]
+            },
+            {
+              "index": 1,
+              "supported": true,
+              "reason": "The text '(Rev. March 2024)' explicitly contains the revision date 'March 2024'.",
+              "value": "March 2024",
+              "span_ids": [
+                "p1-s2"
+              ]
+            },
+            {
+              "index": 2,
+              "supported": true,
+              "reason": "The text 'Cat. No. 10231X' explicitly matches the catalog number.",
+              "value": "Cat. No. 10231X",
+              "span_ids": [
+                "p1-s114"
+              ]
+            },
+            {
+              "index": 3,
+              "supported": true,
+              "reason": "The issuing agency is explicitly stated as 'Department of the Treasury' and 'Internal Revenue Service' on separate lines, which together form the full agency name.",
+              "value": "Department of the Treasury Internal Revenue Service",
+              "span_ids": [
+                "p1-s5",
+                "p1-s6"
+              ]
+            },
+            {
+              "index": 4,
+              "supported": false,
+              "reason": "No evidence provided for completed taxpayer name.",
+              "value": null,
+              "span_ids": []
+            },
+            {
+              "index": 5,
+              "supported": false,
+              "reason": "No evidence provided for completed taxpayer TIN.",
+              "value": null,
+              "span_ids": []
+            },
+            {
+              "index": 6,
+              "supported": false,
+              "reason": "No evidence provided for signature date.",
+              "value": null,
+              "span_ids": []
+            },
+            {
+              "index": 7,
+              "supported": false,
+              "reason": "No evidence provided for completed business name.",
+              "value": null,
+              "span_ids": []
+            }
+          ]
+        },
+        "elapsed_seconds": 3.5,
+        "usage": {
+          "prompt_tokens": 960,
+          "completion_tokens": 477,
+          "total_tokens": 1437
+        },
+        "request_id": null
+      }
+    ],
+    "fault_injection": false,
+    "elapsed_seconds": 22.302,
+    "confidence_note": "Confidence is null: no calibrated probability model has been evaluated.",
+    "limitations": "Source support is not a guarantee of semantic correctness. OCR and correlated model errors remain possible.",
+    "pipeline_elapsed_seconds": 21.909,
+    "schema_version": "1.0"
+  },
+  "decisions": [
+    {
+      "field": "form_number",
+      "expected": [
+        "W-9",
+        "Form W-9",
+        "Form  W-9"
+      ],
+      "reference_page": 1,
+      "actual": "Form W-9",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "revision_date",
+      "expected": [
+        "March 2024",
+        "3-2024"
+      ],
+      "reference_page": 1,
+      "actual": "March 2024",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "catalog_number",
+      "expected": [
+        "10231X"
+      ],
+      "reference_page": 1,
+      "actual": "Cat. No. 10231X",
+      "status": "grounded",
+      "correct": false,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "issuing_agency",
+      "expected": [
+        "Internal Revenue Service"
+      ],
+      "reference_page": 1,
+      "actual": "Department of the Treasury Internal Revenue Service",
+      "status": "grounded",
+      "correct": false,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "completed_taxpayer_name",
+      "expected": null,
+      "reference_page": 1,
+      "actual": null,
+      "status": "abstained",
+      "correct": true,
+      "has_evidence": false,
+      "reference_note": "Blank form: instructions and example names are not completed values."
+    },
+    {
+      "field": "completed_taxpayer_tin",
+      "expected": null,
+      "reference_page": 1,
+      "actual": null,
+      "status": "abstained",
+      "correct": true,
+      "has_evidence": false,
+      "reference_note": "Blank form: no taxpayer TIN entered."
+    },
+    {
+      "field": "signature_date",
+      "expected": null,
+      "reference_page": 1,
+      "actual": null,
+      "status": "abstained",
+      "correct": true,
+      "has_evidence": false,
+      "reference_note": "Blank signature date."
+    },
+    {
+      "field": "completed_business_name",
+      "expected": null,
+      "reference_page": 1,
+      "actual": null,
+      "status": "abstained",
+      "correct": true,
+      "has_evidence": false,
+      "reference_note": "Blank business name field."
+    }
+  ]
+}

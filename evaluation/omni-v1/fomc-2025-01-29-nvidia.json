@@ -1,0 +1,15 @@
+{
+  "document_id": "fomc-2025-01-29",
+  "title": "Federal Reserve FOMC statement and implementation decisions",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20250129a1.pdf",
+  "source_sha256": "fbb886257e82c1ef1c21b34f235dfe9435eefc902c04d53356874784d6691a21",
+  "source_type": "native_pdf",
+  "pages": 4,
+  "mode": "nvidia",
+  "job_id": "2ab6b232efca4494a934769aa20dbe54",
+  "job_status": {
+    "status": "failed",
+    "message": "Invalid or oversized candidate list from NVIDIA."
+  },
+  "wall_seconds": 12.08
+}

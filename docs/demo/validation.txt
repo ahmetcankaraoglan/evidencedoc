@@ -1,0 +1,8 @@
+Both MP4s decoded from beginning to end without decoder errors.
+1920x1080 H.264 video, AAC English narration.
+Full cut: approximately 183 seconds. Social cut: approximately 121 seconds.
+English subtitle wording aligned to the narration transcript and word timestamps.
+Final audio check: mean -17.0 dB, maximum -1.4 dB; no clipped peak detected.
+Source PDF hashes match all three saved reviews.
+Featured comparison values and source-removal withdrawal checked against saved JSON.
+All video chapters visually sampled. Waiting time and still-frame holds are edits, not runtime measurements.

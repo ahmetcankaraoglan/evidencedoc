@@ -1,0 +1,485 @@
+{
+  "title": "EvidenceDoc real public document evaluation",
+  "frozen_before_first_model_run": true,
+  "methodology": "Source-based expected answers authored before model runs. Exact match after whitespace/case normalization and declared alternatives. Source boxes are inspected separately. This is a small convenience sample, not a representative or independent benchmark. No synthetic documents or injected candidate errors in this set.",
+  "documents": [
+    {
+      "id": "fomc-2025-01-29",
+      "title": "Federal Reserve FOMC statement and implementation decisions",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20250129a1.pdf",
+      "source_type": "native_pdf",
+      "language": "en",
+      "fields": [
+        {
+          "field": "release_date",
+          "accepted_values": [
+            "January 29, 2025"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "implementation_effective_date",
+          "accepted_values": [
+            "January 30, 2025"
+          ],
+          "reference_page": 3,
+          "reference_note": ""
+        },
+        {
+          "field": "committee_chair",
+          "accepted_values": [
+            "Jerome H. Powell"
+          ],
+          "reference_page": 2,
+          "reference_note": ""
+        },
+        {
+          "field": "committee_vice_chair",
+          "accepted_values": [
+            "John C. Williams"
+          ],
+          "reference_page": 2,
+          "reference_note": ""
+        },
+        {
+          "field": "federal_funds_target_range",
+          "accepted_values": [
+            "4-1/4 to 4-1/2 percent",
+            "4-1/4 to 4-1/2"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "reserve_balances_interest_rate",
+          "accepted_values": [
+            "4.4 percent",
+            "4.4"
+          ],
+          "reference_page": 3,
+          "reference_note": ""
+        },
+        {
+          "field": "treasury_monthly_redemption_cap",
+          "accepted_values": [
+            "$25 billion"
+          ],
+          "reference_page": 3,
+          "reference_note": ""
+        },
+        {
+          "field": "policy_expiration_date",
+          "accepted_values": null,
+          "reference_page": null,
+          "reference_note": "No fixed expiration date is provided; implementation date is not an expiry."
+        }
+      ],
+      "sha256": "fbb886257e82c1ef1c21b34f235dfe9435eefc902c04d53356874784d6691a21",
+      "pages": 4,
+      "file": "fomc-2025-01-29.pdf"
+    },
+    {
+      "id": "nvidia-fy2026",
+      "title": "NVIDIA Q4 and Fiscal 2026 financial results",
+      "source_url": "https://nvidianews.nvidia.com/_gallery/download_pdf/699f6ab43d6332ccaa689907/",
+      "source_type": "native_pdf",
+      "language": "en",
+      "fields": [
+        {
+          "field": "quarter_end_date",
+          "accepted_values": [
+            "January 25, 2026"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "q4_fy2026_revenue_billions",
+          "accepted_values": [
+            "$68.1 billion",
+            "68.1 billion"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "full_year_fy2026_revenue_billions",
+          "accepted_values": [
+            "$215.9 billion",
+            "215.9 billion"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "q4_fy2026_gaap_diluted_eps",
+          "accepted_values": [
+            "$1.76",
+            "1.76"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "q4_fy2026_non_gaap_diluted_eps",
+          "accepted_values": [
+            "$1.62",
+            "1.62"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "dividend_payment_date",
+          "accepted_values": [
+            "April 1, 2026"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "dividend_record_date",
+          "accepted_values": [
+            "March 11, 2026"
+          ],
+          "reference_page": 1,
+          "reference_note": "Value wraps from March to 11, 2026 across two source lines."
+        },
+        {
+          "field": "external_auditor_name",
+          "accepted_values": null,
+          "reference_page": null,
+          "reference_note": "No external auditor is named in this press release."
+        }
+      ],
+      "sha256": "89de999d7155649197672bf490c519607f1abbcdc96e2e4c6718bf6ecbb13564",
+      "pages": 11,
+      "file": "nvidia-fy2026.pdf"
+    },
+    {
+      "id": "tcmb-2025-24",
+      "title": "TCMB Para Politikası Kurulu Kararı 17 Nisan 2025",
+      "source_url": "https://www.tcmb.gov.tr/wps/wcm/connect/3203675d-3553-4bf0-bfc2-a21a660e739c/DUY2025-24.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-3203675d-3553-4bf0-bfc2-a21a660e739c-pp3pZv2",
+      "source_type": "native_pdf",
+      "language": "tr",
+      "fields": [
+        {
+          "field": "karar_tarihi",
+          "accepted_values": [
+            "17 Nisan 2025"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "karar_sayisi",
+          "accepted_values": [
+            "2025-24"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "kurul_baskani",
+          "accepted_values": [
+            "Yaşar Fatih Karahan"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "yeni_politika_faizi",
+          "accepted_values": [
+            "yüzde 46",
+            "46",
+            "46’ya"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "onceki_politika_faizi",
+          "accepted_values": [
+            "yüzde 42,5",
+            "42,5",
+            "42,5’ten"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "yeni_gecelik_borc_verme_faizi",
+          "accepted_values": [
+            "yüzde 49",
+            "49",
+            "49’a"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "yeni_gecelik_borclanma_faizi",
+          "accepted_values": [
+            "yüzde 44,5",
+            "44,5",
+            "44,5’e"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "kurul_toplanti_saati",
+          "accepted_values": null,
+          "reference_page": null,
+          "reference_note": "The release does not state a meeting time."
+        }
+      ],
+      "sha256": "cd5aa3b68f3816caefae1d7b2298f9cecbacad978ea01c0ce6bf533c34001911",
+      "pages": 1,
+      "file": "tcmb-2025-24.pdf"
+    },
+    {
+      "id": "worldbank-tf051711",
+      "title": "World Bank / IDA Afghanistan grant agreement TF051711",
+      "source_url": "https://documents1.worldbank.org/curated/en/549511516120883931/pdf/Grant-Agreement-TF051711.pdf",
+      "source_type": "scanned_pdf_with_embedded_ocr",
+      "language": "en",
+      "fields": [
+        {
+          "field": "project_grant_number",
+          "accepted_values": [
+            "TF051711"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "grant_recipient",
+          "accepted_values": [
+            "Transitional Islamic State of Afghanistan"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "total_grant_amount",
+          "accepted_values": [
+            "US$500,000",
+            "US$ 500,000",
+            "$500,000",
+            "500,000"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "recipient_finance_minister",
+          "accepted_values": [
+            "Ashraf Ghani",
+            "His Excellency Ashraf Ghani"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "part_a_estimated_budget",
+          "accepted_values": [
+            "US$ 150,000",
+            "US$150,000",
+            "$150,000",
+            "150,000"
+          ],
+          "reference_page": 2,
+          "reference_note": ""
+        },
+        {
+          "field": "part_b_estimated_budget",
+          "accepted_values": [
+            "US$ 350,000",
+            "US$350,000",
+            "$350,000",
+            "350,000"
+          ],
+          "reference_page": 2,
+          "reference_note": ""
+        },
+        {
+          "field": "grant_closing_date",
+          "accepted_values": [
+            "January 31, 2005"
+          ],
+          "reference_page": 3,
+          "reference_note": ""
+        },
+        {
+          "field": "loan_interest_rate",
+          "accepted_values": null,
+          "reference_page": null,
+          "reference_note": "This is a grant; no loan interest rate is stated."
+        }
+      ],
+      "sha256": "a46f97184847e8d02e0ac9ba0081ff086677855c28673729cf7b646defc26e9b",
+      "pages": 10,
+      "file": "worldbank-tf051711.pdf"
+    },
+    {
+      "id": "worldbank-tf",
+      "title": "World Bank / IDA Somalia Statistical Capacity Building grant",
+      "source_url": "https://documents1.worldbank.org/curated/en/126091487799296208/pdf/ITK171540-201701221631.pdf",
+      "source_type": "scanned_pdf_with_embedded_ocr",
+      "language": "en",
+      "fields": [
+        {
+          "field": "project_grant_number",
+          "accepted_values": [
+            "TF017789"
+          ],
+          "reference_page": 1,
+          "reference_note": "TF070561 is the parent trust fund, not this project grant number."
+        },
+        {
+          "field": "project_title",
+          "accepted_values": [
+            "Somalia Statistical Capacity Building Project"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "total_grant_amount",
+          "accepted_values": [
+            "$500,000",
+            "500,000"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "grant_recipient",
+          "accepted_values": [
+            "Federal Republic of Somalia",
+            "FEDERAL REPUBLIC OF SOMALIA"
+          ],
+          "reference_page": 2,
+          "reference_note": ""
+        },
+        {
+          "field": "ida_signatory",
+          "accepted_values": [
+            "Bella Bird"
+          ],
+          "reference_page": 2,
+          "reference_note": ""
+        },
+        {
+          "field": "recipient_addressee",
+          "accepted_values": [
+            "Mohamed Adan Ibrahim",
+            "H.E. Mohamed Adan Ibrahim"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "grant_closing_date",
+          "accepted_values": [
+            "April 30, 2019"
+          ],
+          "reference_page": 4,
+          "reference_note": ""
+        },
+        {
+          "field": "recipient_tax_identifier",
+          "accepted_values": null,
+          "reference_page": null,
+          "reference_note": "No recipient tax identifier is given."
+        },
+        {
+          "field": "recipient_signature_date",
+          "accepted_values": [
+            "16 FEBRUARY 2017",
+            "16 February 2017",
+            "16 FEBRUARY, 2017"
+          ],
+          "reference_page": 2,
+          "reference_note": "Visually read handwriting; embedded OCR is corrupt. This intentionally tests a known difficult case."
+        }
+      ],
+      "sha256": "2e4564c202450210d5537fcf2c00d40e0a031c3dc8f382f5aa723b84c276dace",
+      "pages": 4,
+      "file": "worldbank-tf.pdf"
+    },
+    {
+      "id": "irs-w9",
+      "title": "IRS Form W-9 revision March 2024 (official blank form)",
+      "source_url": "https://www.irs.gov/pub/irs-pdf/fw9.pdf",
+      "source_type": "native_blank_form_pdf",
+      "language": "en",
+      "fields": [
+        {
+          "field": "form_number",
+          "accepted_values": [
+            "W-9",
+            "Form W-9",
+            "Form  W-9"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "revision_date",
+          "accepted_values": [
+            "March 2024",
+            "3-2024"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "catalog_number",
+          "accepted_values": [
+            "10231X"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "issuing_agency",
+          "accepted_values": [
+            "Internal Revenue Service"
+          ],
+          "reference_page": 1,
+          "reference_note": ""
+        },
+        {
+          "field": "completed_taxpayer_name",
+          "accepted_values": null,
+          "reference_page": 1,
+          "reference_note": "Blank form: instructions and example names are not completed values."
+        },
+        {
+          "field": "completed_taxpayer_tin",
+          "accepted_values": null,
+          "reference_page": 1,
+          "reference_note": "Blank form: no taxpayer TIN entered."
+        },
+        {
+          "field": "signature_date",
+          "accepted_values": null,
+          "reference_page": 1,
+          "reference_note": "Blank signature date."
+        },
+        {
+          "field": "completed_business_name",
+          "accepted_values": null,
+          "reference_page": 1,
+          "reference_note": "Blank business name field."
+        }
+      ],
+      "sha256": "2d420cbb4123dcf1fb82595b2359cfbb5d81f00b9df9d359fcc7af361d093f53",
+      "pages": 6,
+      "file": "irs-w9.pdf"
+    }
+  ]
+}

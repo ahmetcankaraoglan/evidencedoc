@@ -1,0 +1,640 @@
+{
+  "document_id": "tcmb-2025-24",
+  "title": "TCMB Para Politikası Kurulu Kararı 17 Nisan 2025",
+  "source_url": "https://www.tcmb.gov.tr/wps/wcm/connect/3203675d-3553-4bf0-bfc2-a21a660e739c/DUY2025-24.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-3203675d-3553-4bf0-bfc2-a21a660e739c-pp3pZv2",
+  "source_sha256": "cd5aa3b68f3816caefae1d7b2298f9cecbacad978ea01c0ce6bf533c34001911",
+  "source_type": "native_pdf",
+  "pages": 1,
+  "mode": "nvidia",
+  "job_id": "ef3de0ed890246a2a7077df340e2b684",
+  "job_status": {
+    "status": "complete",
+    "message": "Evidence review complete."
+  },
+  "wall_seconds": 8.08,
+  "result": {
+    "fields": [
+      {
+        "field": "karar_tarihi",
+        "status": "grounded",
+        "value": "17 Nisan 2025",
+        "evidence": [
+          {
+            "text": "17 Nisan 2025",
+            "bbox": [
+              0.11929,
+              0.217728,
+              0.249815,
+              0.235489
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s3"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "karar_sayisi",
+        "status": "grounded",
+        "value": "2025-24",
+        "evidence": [
+          {
+            "text": "Sayı: 2025-24",
+            "bbox": [
+              0.754966,
+              0.217728,
+              0.876114,
+              0.235489
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s4"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "kurul_baskani",
+        "status": "grounded",
+        "value": "Yaşar Fatih Karahan",
+        "evidence": [
+          {
+            "text": "Yaşar Fatih Karahan (Başkan), Osman Cevdet Akçay, Elif Haykır Hobikoğlu, Hatice Karahan, Fatma",
+            "bbox": [
+              0.119189,
+              0.291376,
+              0.885197,
+              0.307073
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s6"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "yeni_politika_faizi",
+        "status": "recovered",
+        "value": "46",
+        "evidence": [
+          {
+            "text": "Yaşar Fatih Karahan (Başkan), Osman Cevdet Akçay, Elif Haykır Hobikoğlu, Hatice Karahan, Fatma",
+            "bbox": [
+              0.119189,
+              0.291376,
+              0.885197,
+              0.307073
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s6"
+          },
+          {
+            "text": "Özkul.",
+            "bbox": [
+              0.119189,
+              0.307549,
+              0.172369,
+              0.323245
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s7"
+          },
+          {
+            "text": "Para Politikası Kurulu (Kurul), politika faizi olan bir hafta vadeli repo ihale faiz oranının yüzde",
+            "bbox": [
+              0.119189,
+              0.33085,
+              0.88518,
+              0.346547
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s8"
+          },
+          {
+            "text": "42,5’ten yüzde 46’ya yükseltilmesine karar vermiştir. Kurul ayrıca, Merkez Bankası gecelik vadede",
+            "bbox": [
+              0.119172,
+              0.347023,
+              0.885177,
+              0.362719
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s9"
+          },
+          {
+            "text": "borç verme faiz oranını yüzde 46’dan yüzde 49’a, gecelik vadede borçlanma faiz oranını ise yüzde",
+            "bbox": [
+              0.119155,
+              0.363195,
+              0.885155,
+              0.378892
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s10"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "onceki_politika_faizi",
+        "status": "recovered",
+        "value": "42,5",
+        "evidence": [
+          {
+            "text": "Yaşar Fatih Karahan (Başkan), Osman Cevdet Akçay, Elif Haykır Hobikoğlu, Hatice Karahan, Fatma",
+            "bbox": [
+              0.119189,
+              0.291376,
+              0.885197,
+              0.307073
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s6"
+          },
+          {
+            "text": "Özkul.",
+            "bbox": [
+              0.119189,
+              0.307549,
+              0.172369,
+              0.323245
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s7"
+          },
+          {
+            "text": "Para Politikası Kurulu (Kurul), politika faizi olan bir hafta vadeli repo ihale faiz oranının yüzde",
+            "bbox": [
+              0.119189,
+              0.33085,
+              0.88518,
+              0.346547
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s8"
+          },
+          {
+            "text": "42,5’ten yüzde 46’ya yükseltilmesine karar vermiştir. Kurul ayrıca, Merkez Bankası gecelik vadede",
+            "bbox": [
+              0.119172,
+              0.347023,
+              0.885177,
+              0.362719
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s9"
+          },
+          {
+            "text": "borç verme faiz oranını yüzde 46’dan yüzde 49’a, gecelik vadede borçlanma faiz oranını ise yüzde",
+            "bbox": [
+              0.119155,
+              0.363195,
+              0.885155,
+              0.378892
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s10"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "yeni_gecelik_borc_verme_faizi",
+        "status": "grounded",
+        "value": "49",
+        "evidence": [
+          {
+            "text": "borç verme faiz oranını yüzde 46’dan yüzde 49’a, gecelik vadede borçlanma faiz oranını ise yüzde",
+            "bbox": [
+              0.119155,
+              0.363195,
+              0.885155,
+              0.378892
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s10"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "yeni_gecelik_borclanma_faizi",
+        "status": "grounded",
+        "value": "44,5",
+        "evidence": [
+          {
+            "text": "41’den yüzde 44,5’e yükseltmiştir.",
+            "bbox": [
+              0.119155,
+              0.379368,
+              0.389324,
+              0.395065
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s11"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "kurul_toplanti_saati",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [
+          ""
+        ],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      }
+    ],
+    "events": [
+      {
+        "stage": "read",
+        "message": "Read 1 pages and 37 source spans.",
+        "field": null
+      },
+      {
+        "stage": "extract",
+        "message": "Produced 8 candidates.",
+        "field": null,
+        "model": "nvidia/nemotron-3-super-120b-a12b"
+      },
+      {
+        "stage": "review",
+        "message": "The text '17 Nisan 2025' appears in nearby_context p1-s3 and matches the value exactly.",
+        "field": "karar_tarihi",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The text 'Sayı: 2025-24' appears in nearby_context p1-s4 and contains the value '2025-24' as the decision number.",
+        "field": "karar_sayisi",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The text 'Yaşar Fatih Karahan (Başkan)' in nearby_context p1-s6 explicitly states Yaşar Fatih Karahan as the chairman (Başkan).",
+        "field": "kurul_baskani",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The text '42,5’ten yüzde 46’ya yükseltilmesine karar vermiştir' in nearby_context p1-s9 explicitly states the policy interest rate was raised to 46 percent.",
+        "field": "yeni_politika_faizi",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The text '42,5’ten yüzde 46’ya yükseltilmesine karar vermiştir' in nearby_context p1-s9 explicitly states the previous policy interest rate was 42.5 percent.",
+        "field": "onceki_politika_faizi",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The text 'borç verme faiz oranını yüzde 46’dan yüzde 49’a' in nearby_context p1-s10 explicitly states the new overnight lending rate was raised to 49 percent.",
+        "field": "yeni_gecelik_borc_verme_faizi",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The text '41’den yüzde 44,5’e yükseltmiştir.' in nearby_context p1-s11 explicitly states the new overnight borrowing rate was raised to 44.5 percent.",
+        "field": "yeni_gecelik_borclanma_faizi",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "No nearby_context or evidence is provided for the field 'kurul_toplanti_saati', so the value cannot be verified.",
+        "field": "kurul_toplanti_saati",
+        "supported": false
+      },
+      {
+        "stage": "repair",
+        "message": "Recovered the citation from adjacent source lines after semantic review.",
+        "field": "yeni_politika_faizi",
+        "before": "46",
+        "after": "46"
+      },
+      {
+        "stage": "repair",
+        "message": "Recovered the citation from adjacent source lines after semantic review.",
+        "field": "onceki_politika_faizi",
+        "before": "42,5",
+        "after": "42,5"
+      },
+      {
+        "stage": "reject",
+        "message": "The requested date field requires a calendar date, not an incomplete fragment or non-date phrase.",
+        "field": "kurul_toplanti_saati",
+        "candidate": ""
+      },
+      {
+        "stage": "coverage",
+        "message": "7 of 8 fields resolved; 0 conflicts; 1 abstentions.",
+        "field": null
+      }
+    ],
+    "counts": {
+      "grounded": 5,
+      "recovered": 2,
+      "conflict": 0,
+      "abstained": 1
+    },
+    "requested": 8,
+    "mode": "nvidia",
+    "model": "nvidia/nemotron-3-super-120b-a12b",
+    "model_calls": [
+      {
+        "model": "nvidia/nemotron-3-super-120b-a12b",
+        "response": {
+          "candidates": [
+            {
+              "field": "karar_tarihi",
+              "value": "17 Nisan 2025",
+              "span_ids": [
+                "p1-s3"
+              ]
+            },
+            {
+              "field": "karar_sayisi",
+              "value": "2025-24",
+              "span_ids": [
+                "p1-s4"
+              ]
+            },
+            {
+              "field": "kurul_baskani",
+              "value": "Yaşar Fatih Karahan",
+              "span_ids": [
+                "p1-s6"
+              ]
+            },
+            {
+              "field": "yeni_politika_faizi",
+              "value": "46",
+              "span_ids": [
+                "p1-s8"
+              ]
+            },
+            {
+              "field": "onceki_politika_faizi",
+              "value": "42,5",
+              "span_ids": [
+                "p1-s8"
+              ]
+            },
+            {
+              "field": "yeni_gecelik_borc_verme_faizi",
+              "value": "49",
+              "span_ids": [
+                "p1-s10"
+              ]
+            },
+            {
+              "field": "yeni_gecelik_borclanma_faizi",
+              "value": "44,5",
+              "span_ids": [
+                "p1-s11"
+              ]
+            },
+            {
+              "field": "kurul_toplanti_saati",
+              "value": "",
+              "span_ids": []
+            }
+          ]
+        },
+        "elapsed_seconds": 3.52,
+        "usage": {
+          "prompt_tokens": 1723,
+          "completion_tokens": 323,
+          "total_tokens": 2046
+        },
+        "request_id": null
+      },
+      {
+        "model": "nvidia/nemotron-3-super-120b-a12b",
+        "response": {
+          "decisions": [
+            {
+              "index": 0,
+              "supported": true,
+              "reason": "The text '17 Nisan 2025' appears in nearby_context p1-s3 and matches the value exactly."
+            },
+            {
+              "index": 1,
+              "supported": true,
+              "reason": "The text 'Sayı: 2025-24' appears in nearby_context p1-s4 and contains the value '2025-24' as the decision number."
+            },
+            {
+              "index": 2,
+              "supported": true,
+              "reason": "The text 'Yaşar Fatih Karahan (Başkan)' in nearby_context p1-s6 explicitly states Yaşar Fatih Karahan as the chairman (Başkan)."
+            },
+            {
+              "index": 3,
+              "supported": true,
+              "reason": "The text '42,5’ten yüzde 46’ya yükseltilmesine karar vermiştir' in nearby_context p1-s9 explicitly states the policy interest rate was raised to 46 percent."
+            },
+            {
+              "index": 4,
+              "supported": true,
+              "reason": "The text '42,5’ten yüzde 46’ya yükseltilmesine karar vermiştir' in nearby_context p1-s9 explicitly states the previous policy interest rate was 42.5 percent."
+            },
+            {
+              "index": 5,
+              "supported": true,
+              "reason": "The text 'borç verme faiz oranını yüzde 46’dan yüzde 49’a' in nearby_context p1-s10 explicitly states the new overnight lending rate was raised to 49 percent."
+            },
+            {
+              "index": 6,
+              "supported": true,
+              "reason": "The text '41’den yüzde 44,5’e yükseltmiştir.' in nearby_context p1-s11 explicitly states the new overnight borrowing rate was raised to 44.5 percent."
+            },
+            {
+              "index": 7,
+              "supported": false,
+              "reason": "No nearby_context or evidence is provided for the field 'kurul_toplanti_saati', so the value cannot be verified."
+            }
+          ]
+        },
+        "elapsed_seconds": 3.69,
+        "usage": {
+          "prompt_tokens": 1922,
+          "completion_tokens": 452,
+          "total_tokens": 2374
+        },
+        "request_id": null
+      }
+    ],
+    "fault_injection": false,
+    "elapsed_seconds": 7.282,
+    "confidence_note": "Confidence is null: no calibrated probability model has been evaluated.",
+    "limitations": "Source support is not a guarantee of semantic correctness. OCR and correlated model errors remain possible.",
+    "pipeline_elapsed_seconds": 7.213,
+    "schema_version": "1.0"
+  },
+  "decisions": [
+    {
+      "field": "karar_tarihi",
+      "expected": [
+        "17 Nisan 2025"
+      ],
+      "reference_page": 1,
+      "actual": "17 Nisan 2025",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "karar_sayisi",
+      "expected": [
+        "2025-24"
+      ],
+      "reference_page": 1,
+      "actual": "2025-24",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "kurul_baskani",
+      "expected": [
+        "Yaşar Fatih Karahan"
+      ],
+      "reference_page": 1,
+      "actual": "Yaşar Fatih Karahan",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "yeni_politika_faizi",
+      "expected": [
+        "yüzde 46",
+        "46",
+        "46’ya"
+      ],
+      "reference_page": 1,
+      "actual": "46",
+      "status": "recovered",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "onceki_politika_faizi",
+      "expected": [
+        "yüzde 42,5",
+        "42,5",
+        "42,5’ten"
+      ],
+      "reference_page": 1,
+      "actual": "42,5",
+      "status": "recovered",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "yeni_gecelik_borc_verme_faizi",
+      "expected": [
+        "yüzde 49",
+        "49",
+        "49’a"
+      ],
+      "reference_page": 1,
+      "actual": "49",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "yeni_gecelik_borclanma_faizi",
+      "expected": [
+        "yüzde 44,5",
+        "44,5",
+        "44,5’e"
+      ],
+      "reference_page": 1,
+      "actual": "44,5",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "kurul_toplanti_saati",
+      "expected": null,
+      "reference_page": null,
+      "actual": null,
+      "status": "abstained",
+      "correct": true,
+      "has_evidence": false,
+      "reference_note": "The release does not state a meeting time."
+    }
+  ]
+}

@@ -1,0 +1,1453 @@
+{
+  "schema_version": "1.0",
+  "mode": "nvidia",
+  "model": "nvidia/nemotron-3-super-120b-a12b",
+  "document_type": "Central Bank Monetary Policy Decision",
+  "summary": "The Monetary Policy Board decided to increase the one-week repo auction interest rate from 42.5% to 46%, the overnight lending rate from 46% to 49%, and the overnight borrowing rate from 41% to 44.5%. The decision was made on April 17, 2025, under decision number 2025-24. The Board noted that underlying inflation trends declined in March, with core inflation expected to rise slightly in April due to financial market developments, while services inflation is expected to move sideways. Underlying inflation expectations and pricing behavior remain a risk to the disinflation process. The firm monetary policy stance supports disinflation through domestic demand stabilization, real appreciation of the Turkish lira, and improved inflation expectations, with fiscal policy coordination providing additional support. A tight monetary policy stance will be maintained until a sustained decline in inflation and price stability are achieved. Policy rates will be set based on inflation outcomes, trends, and expectations to deliver the required tightness in the disinflation process. The Board will determine policy rate steps using an inflation outlook-focused, cautious, and meeting-by-meeting approach, and will tighten the policy stance if a significant and persistent deterioration in inflation is anticipated. Recent developments in financial markets have led to additional steps to support the monetary transmission mechanism, with liquidity conditions closely monitored and liquidity managemen",
+  "suggested_fields": [
+    "decision_date",
+    "decision_number",
+    "policy_rate_one_week_repo",
+    "policy_rate_overnight_lending",
+    "policy_rate_overnight_borrowing",
+    "inflation_target_medium_term",
+    "core_inflation_outlook",
+    "services_inflation_outlook"
+  ],
+  "entities": [
+    {
+      "id": "e-d681b9dcb8d97dc5",
+      "value": "17 Nisan 2025",
+      "category": "date",
+      "role": "decision_date",
+      "evidence": [
+        {
+          "text": "17 Nisan 2025",
+          "bbox": [
+            0.11929,
+            0.217728,
+            0.245386,
+            0.235489
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s3",
+          "context_bbox": [
+            0.11929,
+            0.217728,
+            0.249815,
+            0.235489
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-f105a0a7190c9865",
+      "value": "2025-24",
+      "category": "identifier",
+      "role": "decision_number",
+      "evidence": [
+        {
+          "text": "Sayı: 2025-24",
+          "bbox": [
+            0.802563,
+            0.217728,
+            0.871684,
+            0.235489
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s4",
+          "context_bbox": [
+            0.754966,
+            0.217728,
+            0.876114,
+            0.235489
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-b3be0c335cfe65a3",
+      "value": "46",
+      "category": "percentage",
+      "role": "current_policy_rate_one_week_repo",
+      "evidence": [
+        {
+          "text": "Para Politikası Kurulu (Kurul), politika faizi olan bir hafta vadeli repo ihale faiz oranının yüzde",
+          "bbox": [
+            0.237152,
+            0.347023,
+            0.256467,
+            0.362719
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s8",
+          "context_bbox": [
+            0.119189,
+            0.33085,
+            0.88518,
+            0.346547
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "borç verme faiz oranını yüzde 46’dan yüzde 49’a, gecelik vadede borçlanma faiz oranını ise yüzde",
+          "bbox": [
+            0.237152,
+            0.347023,
+            0.256467,
+            0.362719
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s10",
+          "context_bbox": [
+            0.119155,
+            0.363195,
+            0.885155,
+            0.378892
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "borç verme faiz oranını yüzde 46’dan yüzde 49’a, gecelik vadede borçlanma faiz oranını ise yüzde",
+          "bbox": [
+            0.357649,
+            0.363195,
+            0.376964,
+            0.378892
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s10",
+          "context_bbox": [
+            0.119155,
+            0.363195,
+            0.885155,
+            0.378892
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-69671242b86c42f8",
+      "value": "46",
+      "category": "percentage",
+      "role": "previous_policy_rate_overnight_lending",
+      "evidence": [
+        {
+          "text": "borç verme faiz oranını yüzde 46’dan yüzde 49’a, gecelik vadede borçlanma faiz oranını ise yüzde",
+          "bbox": [
+            0.237152,
+            0.347023,
+            0.256467,
+            0.362719
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s10",
+          "context_bbox": [
+            0.119155,
+            0.363195,
+            0.885155,
+            0.378892
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "borç verme faiz oranını yüzde 46’dan yüzde 49’a, gecelik vadede borçlanma faiz oranını ise yüzde",
+          "bbox": [
+            0.357649,
+            0.363195,
+            0.376964,
+            0.378892
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s10",
+          "context_bbox": [
+            0.119155,
+            0.363195,
+            0.885155,
+            0.378892
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-6e5bda61e6086313",
+      "value": "49",
+      "category": "percentage",
+      "role": "current_policy_rate_overnight_lending",
+      "evidence": [
+        {
+          "text": "borç verme faiz oranını yüzde 46’dan yüzde 49’a, gecelik vadede borçlanma faiz oranını ise yüzde",
+          "bbox": [
+            0.465735,
+            0.363195,
+            0.48505,
+            0.378892
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s10",
+          "context_bbox": [
+            0.119155,
+            0.363195,
+            0.885155,
+            0.378892
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-ce442221f4b16a25",
+      "value": "41",
+      "category": "percentage",
+      "role": "previous_policy_rate_overnight_borrowing",
+      "evidence": [
+        {
+          "text": "41’den yüzde 44,5’e yükseltmiştir.",
+          "bbox": [
+            0.119155,
+            0.379368,
+            0.138471,
+            0.395065
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s11",
+          "context_bbox": [
+            0.119155,
+            0.379368,
+            0.389324,
+            0.395065
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-44b457526b90cec6",
+      "value": "44,5",
+      "category": "percentage",
+      "role": "current_policy_rate_overnight_borrowing",
+      "evidence": [
+        {
+          "text": "41’den yüzde 44,5’e yükseltmiştir.",
+          "bbox": [
+            0.226344,
+            0.379368,
+            0.259374,
+            0.395065
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s11",
+          "context_bbox": [
+            0.119155,
+            0.379368,
+            0.389324,
+            0.395065
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-cff66bde218b7d7a",
+      "value": "5",
+      "category": "percentage",
+      "role": "inflation_target_medium_term",
+      "evidence": [
+        {
+          "text": "ana eğilimini geriletecek ve enflasyonu orta vadede yüzde 5 hedefine ulaştıracak parasal ve",
+          "bbox": [
+            0.607949,
+            0.763612,
+            0.617581,
+            0.779309
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s33",
+          "context_bbox": [
+            0.119088,
+            0.763612,
+            0.885088,
+            0.779309
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-ba0bf22ba976707e",
+      "value": "mart",
+      "category": "date",
+      "role": "month_of_underlying_inflation_decline",
+      "evidence": [
+        {
+          "text": "Enflasyonun ana eğilimi mart ayında gerilemiştir. Aylık temel mal enflasyonunun finansal",
+          "bbox": [
+            0.329806,
+            0.402669,
+            0.367613,
+            0.418366
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s12",
+          "context_bbox": [
+            0.119155,
+            0.402669,
+            0.885159,
+            0.418366
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-41c5523673886668",
+      "value": "nisan",
+      "category": "date",
+      "role": "month_of_expected_core_inflation_increase",
+      "evidence": [
+        {
+          "text": "piyasalardaki gelişmelerin etkisiyle nisan ayında bir miktar yükseleceği, hizmet enflasyonunun ise",
+          "bbox": [
+            0.394637,
+            0.418842,
+            0.436844,
+            0.434539
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s13",
+          "context_bbox": [
+            0.119155,
+            0.418842,
+            0.885146,
+            0.434539
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-e3db035af1e92dad",
+      "value": "Yaşar Fatih Karahan",
+      "category": "person",
+      "role": "chairperson_of_monetary_policy_board",
+      "evidence": [
+        {
+          "text": "Yaşar Fatih Karahan (Başkan), Osman Cevdet Akçay, Elif Haykır Hobikoğlu, Hatice Karahan, Fatma",
+          "bbox": [
+            0.119189,
+            0.291376,
+            0.276244,
+            0.307073
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s6",
+          "context_bbox": [
+            0.119189,
+            0.291376,
+            0.885197,
+            0.307073
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-479467f3ca077ae7",
+      "value": "Osman Cevdet Akçay",
+      "category": "person",
+      "role": "member_of_monetary_policy_board",
+      "evidence": [
+        {
+          "text": "Yaşar Fatih Karahan (Başkan), Osman Cevdet Akçay, Elif Haykır Hobikoğlu, Hatice Karahan, Fatma",
+          "bbox": [
+            0.356561,
+            0.291376,
+            0.521944,
+            0.307073
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s6",
+          "context_bbox": [
+            0.119189,
+            0.291376,
+            0.885197,
+            0.307073
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-8ae88cf14dc59a62",
+      "value": "Elif Haykır Hobikoğlu",
+      "category": "person",
+      "role": "member_of_monetary_policy_board",
+      "evidence": [
+        {
+          "text": "Yaşar Fatih Karahan (Başkan), Osman Cevdet Akçay, Elif Haykır Hobikoğlu, Hatice Karahan, Fatma",
+          "bbox": [
+            0.530802,
+            0.291376,
+            0.694123,
+            0.307073
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s6",
+          "context_bbox": [
+            0.119189,
+            0.291376,
+            0.885197,
+            0.307073
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-b7fc16d6312ef550",
+      "value": "Hatice Karahan",
+      "category": "person",
+      "role": "member_of_monetary_policy_board",
+      "evidence": [
+        {
+          "text": "Yaşar Fatih Karahan (Başkan), Osman Cevdet Akçay, Elif Haykır Hobikoğlu, Hatice Karahan, Fatma",
+          "bbox": [
+            0.703045,
+            0.291376,
+            0.822993,
+            0.307073
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s6",
+          "context_bbox": [
+            0.119189,
+            0.291376,
+            0.885197,
+            0.307073
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-eff97c7138a35678",
+      "value": "Fatma Özkul",
+      "category": "person",
+      "role": "member_of_monetary_policy_board",
+      "evidence": [
+        {
+          "text": "Yaşar Fatih Karahan (Başkan), Osman Cevdet Akçay, Elif Haykır Hobikoğlu, Hatice Karahan, Fatma",
+          "bbox": [
+            0.831913,
+            0.291376,
+            0.885197,
+            0.307073
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s6",
+          "context_bbox": [
+            0.119189,
+            0.291376,
+            0.885197,
+            0.307073
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "Yaşar Fatih Karahan (Başkan), Osman Cevdet Akçay, Elif Haykır Hobikoğlu, Hatice Karahan, Fatma",
+          "bbox": [
+            0.119189,
+            0.307549,
+            0.163675,
+            0.323245
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s6",
+          "context_bbox": [
+            0.119189,
+            0.291376,
+            0.885197,
+            0.307073
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "Özkul.",
+          "bbox": [
+            0.119189,
+            0.307549,
+            0.163675,
+            0.323245
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s7",
+          "context_bbox": [
+            0.119189,
+            0.307549,
+            0.172369,
+            0.323245
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-58eb40083ae2d7fc",
+      "value": "Merkez Bankası",
+      "category": "organization",
+      "role": "central_bank",
+      "evidence": [
+        {
+          "text": "42,5’ten yüzde 46’ya yükseltilmesine karar vermiştir. Kurul ayrıca, Merkez Bankası gecelik vadede",
+          "bbox": [
+            0.636254,
+            0.347023,
+            0.76001,
+            0.362719
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s9",
+          "context_bbox": [
+            0.119172,
+            0.347023,
+            0.885177,
+            0.362719
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "borç verme faiz oranını yüzde 46’dan yüzde 49’a, gecelik vadede borçlanma faiz oranını ise yüzde",
+          "bbox": [
+            0.636254,
+            0.347023,
+            0.76001,
+            0.362719
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s10",
+          "context_bbox": [
+            0.119155,
+            0.363195,
+            0.885155,
+            0.378892
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-e569e93e4cc552c3",
+      "value": "ana eğilimi",
+      "category": "term",
+      "role": "underlying_inflation_trend",
+      "evidence": [
+        {
+          "text": "Enflasyonun ana eğilimi mart ayında gerilemiştir. Aylık temel mal enflasyonunun finansal",
+          "bbox": [
+            0.226952,
+            0.402669,
+            0.260473,
+            0.418366
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s12",
+          "context_bbox": [
+            0.119155,
+            0.402669,
+            0.885159,
+            0.418366
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "Enflasyonun ana eğilimi mart ayında gerilemiştir. Aylık temel mal enflasyonunun finansal",
+          "bbox": [
+            0.267287,
+            0.402669,
+            0.318639,
+            0.418366
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s12",
+          "context_bbox": [
+            0.119155,
+            0.402669,
+            0.885159,
+            0.418366
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "piyasalardaki gelişmelerin etkisiyle nisan ayında bir miktar yükseleceği, hizmet enflasyonunun ise",
+          "bbox": [
+            0.226952,
+            0.402669,
+            0.260473,
+            0.418366
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s13",
+          "context_bbox": [
+            0.119155,
+            0.418842,
+            0.885146,
+            0.434539
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "piyasalardaki gelişmelerin etkisiyle nisan ayında bir miktar yükseleceği, hizmet enflasyonunun ise",
+          "bbox": [
+            0.267287,
+            0.402669,
+            0.318639,
+            0.418366
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s13",
+          "context_bbox": [
+            0.119155,
+            0.418842,
+            0.885146,
+            0.434539
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "faizi; enflasyon gerçekleşmeleri, ana eğilimi ve beklentileri göz önünde bulundurularak öngörülen",
+          "bbox": [
+            0.372202,
+            0.6038,
+            0.457032,
+            0.619497
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s24",
+          "context_bbox": [
+            0.119105,
+            0.6038,
+            0.885133,
+            0.619497
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "ana eğilimini geriletecek ve enflasyonu orta vadede yüzde 5 hedefine ulaştıracak parasal ve",
+          "bbox": [
+            0.119088,
+            0.763612,
+            0.152609,
+            0.779309
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s33",
+          "context_bbox": [
+            0.119088,
+            0.763612,
+            0.885088,
+            0.779309
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "ana eğilimini geriletecek ve enflasyonu orta vadede yüzde 5 hedefine ulaştıracak parasal ve",
+          "bbox": [
+            0.156701,
+            0.763612,
+            0.208059,
+            0.779309
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s33",
+          "context_bbox": [
+            0.119088,
+            0.763612,
+            0.885088,
+            0.779309
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-87ce57adcc3b8f44",
+      "value": "fiyatlama davranışları",
+      "category": "term",
+      "role": "pricing_behavior",
+      "evidence": [
+        {
+          "text": "Enflasyon beklentileri ve fiyatlama davranışları dezenflasyon süreci açısından risk unsuru olmaya",
+          "bbox": [
+            0.315669,
+            0.499706,
+            0.484693,
+            0.515403
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s18",
+          "context_bbox": [
+            0.119139,
+            0.499706,
+            0.885154,
+            0.515403
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-71f6a778d045a5b9",
+      "value": "likidite koşulları",
+      "category": "term",
+      "role": "liquidity_conditions",
+      "evidence": [
+        {
+          "text": "destekleyen ilave adımlar ivedilikle atılmıştır. Likidite koşulları yakından izlenmeye ve likidite",
+          "bbox": [
+            0.494118,
+            0.707965,
+            0.554565,
+            0.723662
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s30",
+          "context_bbox": [
+            0.119105,
+            0.707965,
+            0.885111,
+            0.723662
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "destekleyen ilave adımlar ivedilikle atılmıştır. Likidite koşulları yakından izlenmeye ve likidite",
+          "bbox": [
+            0.559061,
+            0.707965,
+            0.625337,
+            0.723662
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s30",
+          "context_bbox": [
+            0.119105,
+            0.707965,
+            0.885111,
+            0.723662
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "yönetimi araçları etkili şekilde kullanılmaya devam edilecektir.",
+          "bbox": [
+            0.494118,
+            0.707965,
+            0.554565,
+            0.723662
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s31",
+          "context_bbox": [
+            0.119105,
+            0.724138,
+            0.604865,
+            0.739835
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "yönetimi araçları etkili şekilde kullanılmaya devam edilecektir.",
+          "bbox": [
+            0.559061,
+            0.707965,
+            0.625337,
+            0.723662
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s31",
+          "context_bbox": [
+            0.119105,
+            0.724138,
+            0.604865,
+            0.739835
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-a8fded39b503642f",
+      "value": "likidite yönetimi araçları",
+      "category": "term",
+      "role": "liquidity_management_tools",
+      "evidence": [
+        {
+          "text": "destekleyen ilave adımlar ivedilikle atılmıştır. Likidite koşulları yakından izlenmeye ve likidite",
+          "bbox": [
+            0.829204,
+            0.707965,
+            0.885111,
+            0.723662
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s30",
+          "context_bbox": [
+            0.119105,
+            0.707965,
+            0.885111,
+            0.723662
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "destekleyen ilave adımlar ivedilikle atılmıştır. Likidite koşulları yakından izlenmeye ve likidite",
+          "bbox": [
+            0.119105,
+            0.724138,
+            0.250206,
+            0.739835
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s30",
+          "context_bbox": [
+            0.119105,
+            0.707965,
+            0.885111,
+            0.723662
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "yönetimi araçları etkili şekilde kullanılmaya devam edilecektir.",
+          "bbox": [
+            0.119105,
+            0.724138,
+            0.250206,
+            0.739835
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s31",
+          "context_bbox": [
+            0.119105,
+            0.724138,
+            0.604865,
+            0.739835
+          ],
+          "precision": "text-match"
+        }
+      ]
+    },
+    {
+      "id": "e-e77ab39cc257f47e",
+      "value": "parasal ve finansal koşulları",
+      "category": "term",
+      "role": "monetary_and_financial_conditions",
+      "evidence": [
+        {
+          "text": "Kurul, politika kararlarını parasal sıkılaştırmanın gecikmeli etkilerini de dikkate alarak, enflasyonun",
+          "bbox": [
+            0.797014,
+            0.763612,
+            0.85887,
+            0.779309
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s32",
+          "context_bbox": [
+            0.119088,
+            0.74744,
+            0.88509,
+            0.763136
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "Kurul, politika kararlarını parasal sıkılaştırmanın gecikmeli etkilerini de dikkate alarak, enflasyonun",
+          "bbox": [
+            0.863063,
+            0.763612,
+            0.885088,
+            0.779309
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s32",
+          "context_bbox": [
+            0.119088,
+            0.74744,
+            0.88509,
+            0.763136
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "ana eğilimini geriletecek ve enflasyonu orta vadede yüzde 5 hedefine ulaştıracak parasal ve",
+          "bbox": [
+            0.797014,
+            0.763612,
+            0.85887,
+            0.779309
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s33",
+          "context_bbox": [
+            0.119088,
+            0.763612,
+            0.885088,
+            0.779309
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "ana eğilimini geriletecek ve enflasyonu orta vadede yüzde 5 hedefine ulaştıracak parasal ve",
+          "bbox": [
+            0.863063,
+            0.763612,
+            0.885088,
+            0.779309
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s33",
+          "context_bbox": [
+            0.119088,
+            0.763612,
+            0.885088,
+            0.779309
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "ana eğilimini geriletecek ve enflasyonu orta vadede yüzde 5 hedefine ulaştıracak parasal ve",
+          "bbox": [
+            0.119088,
+            0.779785,
+            0.254234,
+            0.795482
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s33",
+          "context_bbox": [
+            0.119088,
+            0.763612,
+            0.885088,
+            0.779309
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "finansal koşulları sağlayacak şekilde belirleyecektir. Bu doğrultuda, tüm para politikası araçları",
+          "bbox": [
+            0.797014,
+            0.763612,
+            0.85887,
+            0.779309
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s34",
+          "context_bbox": [
+            0.119088,
+            0.779785,
+            0.885085,
+            0.795482
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "finansal koşulları sağlayacak şekilde belirleyecektir. Bu doğrultuda, tüm para politikası araçları",
+          "bbox": [
+            0.863063,
+            0.763612,
+            0.885088,
+            0.779309
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s34",
+          "context_bbox": [
+            0.119088,
+            0.779785,
+            0.885085,
+            0.795482
+          ],
+          "precision": "text-match"
+        },
+        {
+          "text": "finansal koşulları sağlayacak şekilde belirleyecektir. Bu doğrultuda, tüm para politikası araçları",
+          "bbox": [
+            0.119088,
+            0.779785,
+            0.254234,
+            0.795482
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s34",
+          "context_bbox": [
+            0.119088,
+            0.779785,
+            0.885085,
+            0.795482
+          ],
+          "precision": "text-match"
+        }
+      ]
+    }
+  ],
+  "pages_analyzed": 1,
+  "page_limit": 90,
+  "pages_at_entity_limit": [],
+  "rejected_unanchored_candidates": 11,
+  "model_calls": [
+    {
+      "model": "nvidia/nemotron-3-super-120b-a12b",
+      "response": {
+        "document_type": "Central Bank Monetary Policy Decision",
+        "summary": "The Monetary Policy Board decided to increase the one-week repo auction interest rate from 42.5% to 46%, the overnight lending rate from 46% to 49%, and the overnight borrowing rate from 41% to 44.5%. The decision was made on April 17, 2025, under decision number 2025-24. The Board noted that underlying inflation trends declined in March, with core inflation expected to rise slightly in April due to financial market developments, while services inflation is expected to move sideways. Underlying inflation expectations and pricing behavior remain a risk to the disinflation process. The firm monetary policy stance supports disinflation through domestic demand stabilization, real appreciation of the Turkish lira, and improved inflation expectations, with fiscal policy coordination providing additional support. A tight monetary policy stance will be maintained until a sustained decline in inflation and price stability are achieved. Policy rates will be set based on inflation outcomes, trends, and expectations to deliver the required tightness in the disinflation process. The Board will determine policy rate steps using an inflation outlook-focused, cautious, and meeting-by-meeting approach, and will tighten the policy stance if a significant and persistent deterioration in inflation is anticipated. Recent developments in financial markets have led to additional steps to support the monetary transmission mechanism, with liquidity conditions closely monitored and liquidity management tools used effectively. The Board will set policy rates to ensure monetary and financial conditions that will reduce underlying inflation and bring inflation to the 5% medium-term target, using all monetary policy tools resolutely. Decisions will be made in a predictable, data-driven, and transparent framework. The Monetary Policy Board Meeting Summary will be published within five business days.",
+        "suggested_fields": [
+          "decision_date",
+          "decision_number",
+          "policy_rate_one_week_repo",
+          "policy_rate_overnight_lending",
+          "policy_rate_overnight_borrowing",
+          "inflation_target_medium_term",
+          "core_inflation_outlook",
+          "services_inflation_outlook"
+        ],
+        "entities": [
+          {
+            "value": "17 Nisan 2025",
+            "category": "date",
+            "role": "decision_date",
+            "span_ids": [
+              "p1-s3"
+            ]
+          },
+          {
+            "value": "2025-24",
+            "category": "identifier",
+            "role": "decision_number",
+            "span_ids": [
+              "p1-s4"
+            ]
+          },
+          {
+            "value": "42,5",
+            "category": "percentage",
+            "role": "previous_policy_rate_one_week_repo",
+            "span_ids": [
+              "p1-s8"
+            ]
+          },
+          {
+            "value": "46",
+            "category": "percentage",
+            "role": "current_policy_rate_one_week_repo",
+            "span_ids": [
+              "p1-s8",
+              "p1-s10"
+            ]
+          },
+          {
+            "value": "46",
+            "category": "percentage",
+            "role": "previous_policy_rate_overnight_lending",
+            "span_ids": [
+              "p1-s10"
+            ]
+          },
+          {
+            "value": "49",
+            "category": "percentage",
+            "role": "current_policy_rate_overnight_lending",
+            "span_ids": [
+              "p1-s10"
+            ]
+          },
+          {
+            "value": "41",
+            "category": "percentage",
+            "role": "previous_policy_rate_overnight_borrowing",
+            "span_ids": [
+              "p1-s11"
+            ]
+          },
+          {
+            "value": "44,5",
+            "category": "percentage",
+            "role": "current_policy_rate_overnight_borrowing",
+            "span_ids": [
+              "p1-s11"
+            ]
+          },
+          {
+            "value": "5",
+            "category": "percentage",
+            "role": "inflation_target_medium_term",
+            "span_ids": [
+              "p1-s33"
+            ]
+          },
+          {
+            "value": "mart",
+            "category": "date",
+            "role": "month_of_underlying_inflation_decline",
+            "span_ids": [
+              "p1-s12"
+            ]
+          },
+          {
+            "value": "nisan",
+            "category": "date",
+            "role": "month_of_expected_core_inflation_increase",
+            "span_ids": [
+              "p1-s13"
+            ]
+          },
+          {
+            "value": "Yaşar Fatih Karahan",
+            "category": "person",
+            "role": "chairperson_of_monetary_policy_board",
+            "span_ids": [
+              "p1-s6"
+            ]
+          },
+          {
+            "value": "Osman Cevdet Akçay",
+            "category": "person",
+            "role": "member_of_monetary_policy_board",
+            "span_ids": [
+              "p1-s6"
+            ]
+          },
+          {
+            "value": "Elif Haykır Hobikoğlu",
+            "category": "person",
+            "role": "member_of_monetary_policy_board",
+            "span_ids": [
+              "p1-s6"
+            ]
+          },
+          {
+            "value": "Hatice Karahan",
+            "category": "person",
+            "role": "member_of_monetary_policy_board",
+            "span_ids": [
+              "p1-s6"
+            ]
+          },
+          {
+            "value": "Fatma Özkul",
+            "category": "person",
+            "role": "member_of_monetary_policy_board",
+            "span_ids": [
+              "p1-s6",
+              "p1-s7"
+            ]
+          },
+          {
+            "value": "Para Politikası Kurulu",
+            "category": "organization",
+            "role": "monetary_policy_board",
+            "span_ids": [
+              "p1-s2",
+              "p1-s8",
+              "p1-s10",
+              "p1-s11",
+              "p1-s24",
+              "p1-s25",
+              "p1-s26",
+              "p1-s27",
+              "p1-s28",
+              "p1-s32",
+              "p1-s33",
+              "p1-s34",
+              "p1-s35",
+              "p1-s36",
+              "p1-s37"
+            ]
+          },
+          {
+            "value": "Merkez Bankası",
+            "category": "organization",
+            "role": "central_bank",
+            "span_ids": [
+              "p1-s9",
+              "p1-s10"
+            ]
+          },
+          {
+            "value": "Türk lirası",
+            "category": "location",
+            "role": "currency_subject_to_real_appreciation",
+            "span_ids": [
+              "p1-s20"
+            ]
+          },
+          {
+            "value": "bir hafta vadeli repo ihale faiz oranı",
+            "category": "term",
+            "role": "policy_instrument_one_week_repo",
+            "span_ids": [
+              "p1-s8"
+            ]
+          },
+          {
+            "value": "gecelik vadede borç verme faiz oranı",
+            "category": "term",
+            "role": "policy_instrument_overnight_lending",
+            "span_ids": [
+              "p1-s9",
+              "p1-s10"
+            ]
+          },
+          {
+            "value": "gecelik vadede borçlanma faiz oranı",
+            "category": "term",
+            "role": "policy_instrument_overnight_borrowing",
+            "span_ids": [
+              "p1-s10",
+              "p1-s11"
+            ]
+          },
+          {
+            "value": "ana eğilimi",
+            "category": "term",
+            "role": "underlying_inflation_trend",
+            "span_ids": [
+              "p1-s12",
+              "p1-s13",
+              "p1-s14",
+              "p1-s15",
+              "p1-s16",
+              "p1-s24",
+              "p1-s33"
+            ]
+          },
+          {
+            "value": "temel mal enflasyonu",
+            "category": "term",
+            "role": "core_inflation",
+            "span_ids": [
+              "p1-s12",
+              "p1-s13"
+            ]
+          },
+          {
+            "value": "hizmet enflasyonu",
+            "category": "term",
+            "role": "services_inflation",
+            "span_ids": [
+              "p1-s13",
+              "p1-s14"
+            ]
+          },
+          {
+            "value": "dezenflasyon süreci",
+            "category": "term",
+            "role": "disinflation_process",
+            "span_ids": [
+              "p1-s15",
+              "p1-s16",
+              "p1-s17",
+              "p1-s18",
+              "p1-s19",
+              "p1-s20",
+              "p1-s21",
+              "p1-s22",
+              "p1-s23",
+              "p1-s24",
+              "p1-s25",
+              "p1-s26",
+              "p1-s27",
+              "p1-s28",
+              "p1-s29",
+              "p1-s30",
+              "p1-s31",
+              "p1-s32",
+              "p1-s33",
+              "p1-s34",
+              "p1-s35",
+              "p1-s36"
+            ]
+          },
+          {
+            "value": "enflasyon beklentileri",
+            "category": "term",
+            "role": "inflation_expectations",
+            "span_ids": [
+              "p1-s15",
+              "p1-s18",
+              "p1-s19",
+              "p1-s20",
+              "p1-s21",
+              "p1-s22",
+              "p1-s23",
+              "p1-s24",
+              "p1-s25",
+              "p1-s26",
+              "p1-s27",
+              "p1-s28",
+              "p1-s29",
+              "p1-s30",
+              "p1-s31",
+              "p1-s32",
+              "p1-s33",
+              "p1-s34",
+              "p1-s35",
+              "p1-s36"
+            ]
+          },
+          {
+            "value": "fiyatlama davranışları",
+            "category": "term",
+            "role": "pricing_behavior",
+            "span_ids": [
+              "p1-s18"
+            ]
+          },
+          {
+            "value": "parasal aktarım mekanizması",
+            "category": "term",
+            "role": "monetary_transmission_mechanism",
+            "span_ids": [
+              "p1-s29",
+              "p1-s30",
+              "p1-s31"
+            ]
+          },
+          {
+            "value": "likidite koşulları",
+            "category": "term",
+            "role": "liquidity_conditions",
+            "span_ids": [
+              "p1-s30",
+              "p1-s31"
+            ]
+          },
+          {
+            "value": "likidite yönetimi araçları",
+            "category": "term",
+            "role": "liquidity_management_tools",
+            "span_ids": [
+              "p1-s30",
+              "p1-s31"
+            ]
+          },
+          {
+            "value": "parasal ve finansal koşulları",
+            "category": "term",
+            "role": "monetary_and_financial_conditions",
+            "span_ids": [
+              "p1-s32",
+              "p1-s33",
+              "p1-s34"
+            ]
+          }
+        ]
+      },
+      "elapsed_seconds": 41.83,
+      "usage": {
+        "prompt_tokens": 1682,
+        "completion_tokens": 2349,
+        "total_tokens": 4031
+      },
+      "request_id": null
+    }
+  ],
+  "elapsed_seconds": 42.04,
+  "limitation": "Model-discovered entities with literal source anchors. Categories and roles are model interpretations, not independently verified. Discovery may miss entities; up to 90 candidates per page.",
+  "geometry_revision": "0.3.2; recomputed source geometry from unchanged model citations",
+  "rejected_format_candidates": 0,
+  "source_sha256": "cd5aa3b68f3816caefae1d7b2298f9cecbacad978ea01c0ce6bf533c34001911"
+}

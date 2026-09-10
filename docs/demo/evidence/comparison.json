@@ -1,0 +1,586 @@
+[
+  {
+    "field": "company_name",
+    "baseline": {
+      "field": "company_name",
+      "status": "grounded",
+      "value": "NVIDIA",
+      "evidence": [
+        {
+          "text": "NVIDIA Announces Financial Results for Third Quarter",
+          "bbox": [
+            0.091195,
+            0.069695,
+            0.902459,
+            0.097869
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s1"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    "comparison": {
+      "field": "company_name",
+      "status": "grounded",
+      "value": "NVIDIA",
+      "evidence": [
+        {
+          "text": "NVIDIA Announces Financial Results for Fourth Quarter",
+          "bbox": [
+            0.091195,
+            0.069695,
+            0.923774,
+            0.097869
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s1"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    }
+  },
+  {
+    "field": "quarter_end_date",
+    "baseline": {
+      "field": "quarter_end_date",
+      "status": "grounded",
+      "value": "October 26, 2025",
+      "evidence": [
+        {
+          "text": "NVIDIA (NASDAQ: NVDA) today reported record revenue for the third quarter ended October 26, 2025, of $57.0 billion, up",
+          "bbox": [
+            0.091195,
+            0.203939,
+            0.943616,
+            0.2175
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s5"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    "comparison": {
+      "field": "quarter_end_date",
+      "status": "grounded",
+      "value": "January 25, 2026",
+      "evidence": [
+        {
+          "text": "NVIDIA (NASDAQ: NVDA) today reported record revenue for the fourth quarter ended January 25, 2026, of $68.1 billion, up",
+          "bbox": [
+            0.091195,
+            0.222424,
+            0.943616,
+            0.235985
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s7"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    }
+  },
+  {
+    "field": "quarterly_revenue",
+    "baseline": {
+      "field": "quarterly_revenue",
+      "status": "grounded",
+      "value": "$57.0 billion",
+      "evidence": [
+        {
+          "text": "Record revenue of $57.0 billion, up 22% from Q2 and up 62% from a year ago",
+          "bbox": [
+            0.129948,
+            0.141637,
+            0.659744,
+            0.155198
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s3"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    "comparison": {
+      "field": "quarterly_revenue",
+      "status": "grounded",
+      "value": "$68.1 billion",
+      "evidence": [
+        {
+          "text": "Record quarterly revenue of $68.1 billion, up 20% from Q3 and up 73% from a year ago",
+          "bbox": [
+            0.129948,
+            0.141395,
+            0.893897,
+            0.158124
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s3"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    }
+  },
+  {
+    "field": "quarterly_revenue_growth_qoq",
+    "baseline": {
+      "field": "quarterly_revenue_growth_qoq",
+      "status": "grounded",
+      "value": "22%",
+      "evidence": [
+        {
+          "text": "Record revenue of $57.0 billion, up 22% from Q2 and up 62% from a year ago",
+          "bbox": [
+            0.129948,
+            0.141637,
+            0.659744,
+            0.155198
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s3"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    "comparison": {
+      "field": "quarterly_revenue_growth_qoq",
+      "status": "grounded",
+      "value": "20%",
+      "evidence": [
+        {
+          "text": "Record quarterly revenue of $68.1 billion, up 20% from Q3 and up 73% from a year ago",
+          "bbox": [
+            0.129948,
+            0.141395,
+            0.893897,
+            0.158124
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s3"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    }
+  },
+  {
+    "field": "gaap_gross_margin_quarter",
+    "baseline": {
+      "field": "gaap_gross_margin_quarter",
+      "status": "grounded",
+      "value": "73.4%",
+      "evidence": [
+        {
+          "text": "For the quarter, GAAP and non-GAAP gross margins were 73.4% and 73.6%, respectively.",
+          "bbox": [
+            0.091195,
+            0.243647,
+            0.709721,
+            0.257209
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s7"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    "comparison": {
+      "field": "gaap_gross_margin_quarter",
+      "status": "grounded",
+      "value": "75.0%",
+      "evidence": [
+        {
+          "text": "For the quarter, GAAP and non-GAAP gross margins were 75.0% and 75.2%, respectively. For fiscal 2026, GAAP and non-",
+          "bbox": [
+            0.091195,
+            0.27651,
+            0.94405,
+            0.290071
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s10"
+        },
+        {
+          "text": "75.0 %",
+          "bbox": [
+            0.405101,
+            0.626359,
+            0.487855,
+            0.63992
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s39"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    }
+  },
+  {
+    "field": "gaap_eps_quarter",
+    "baseline": {
+      "field": "gaap_eps_quarter",
+      "status": "grounded",
+      "value": "$1.30",
+      "evidence": [
+        {
+          "text": "For the quarter, GAAP and non-GAAP earnings per diluted share were both $1.30.",
+          "bbox": [
+            0.091195,
+            0.268979,
+            0.653528,
+            0.28254
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s8"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    "comparison": {
+      "field": "gaap_eps_quarter",
+      "status": "grounded",
+      "value": "$1.76",
+      "evidence": [
+        {
+          "text": "For the quarter, GAAP and non-GAAP earnings per diluted share were $1.76 and $1.62, respectively. For fiscal 2026, GAAP",
+          "bbox": [
+            0.091195,
+            0.316219,
+            0.943383,
+            0.32978
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s12"
+        },
+        {
+          "text": "$1.76",
+          "bbox": [
+            0.444823,
+            0.711253,
+            0.487855,
+            0.724815
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s63"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    }
+  },
+  {
+    "field": "dividend_per_share",
+    "baseline": {
+      "field": "dividend_per_share",
+      "status": "grounded",
+      "value": "$0.01",
+      "evidence": [
+        {
+          "text": "NVIDIA will pay its next quarterly cash dividend of $0.01 per share on December 26, 2025, to all shareholders of record on",
+          "bbox": [
+            0.091195,
+            0.41686,
+            0.943616,
+            0.430421
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s16"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    "comparison": {
+      "field": "dividend_per_share",
+      "status": "grounded",
+      "value": "$0.01",
+      "evidence": [
+        {
+          "text": "NVIDIA will pay its next quarterly cash dividend of $0.01 per share on April 1, 2026, to all shareholders of record on March",
+          "bbox": [
+            0.091195,
+            0.478477,
+            0.943616,
+            0.492039
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s21"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    }
+  },
+  {
+    "field": "dividend_payment_date",
+    "baseline": {
+      "field": "dividend_payment_date",
+      "status": "grounded",
+      "value": "December 26, 2025",
+      "evidence": [
+        {
+          "text": "NVIDIA will pay its next quarterly cash dividend of $0.01 per share on December 26, 2025, to all shareholders of record on",
+          "bbox": [
+            0.091195,
+            0.41686,
+            0.943616,
+            0.430421
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s16"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    "comparison": {
+      "field": "dividend_payment_date",
+      "status": "grounded",
+      "value": "April 1, 2026",
+      "evidence": [
+        {
+          "text": "NVIDIA will pay its next quarterly cash dividend of $0.01 per share on April 1, 2026, to all shareholders of record on March",
+          "bbox": [
+            0.091195,
+            0.478477,
+            0.943616,
+            0.492039
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s21"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    }
+  },
+  {
+    "field": "dividend_record_date",
+    "baseline": {
+      "field": "dividend_record_date",
+      "status": "grounded",
+      "value": "December 4, 2025",
+      "evidence": [
+        {
+          "text": "December 4, 2025.",
+          "bbox": [
+            0.091195,
+            0.431238,
+            0.222392,
+            0.444799
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s17"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    "comparison": {
+      "field": "dividend_record_date",
+      "status": "recovered",
+      "value": "March 11, 2026",
+      "evidence": [
+        {
+          "text": "of the end of the fourth quarter, the company had $58.5 billion remaining under its share repurchase authorization.",
+          "bbox": [
+            0.091195,
+            0.453146,
+            0.866674,
+            0.466707
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s20"
+        },
+        {
+          "text": "NVIDIA will pay its next quarterly cash dividend of $0.01 per share on April 1, 2026, to all shareholders of record on March",
+          "bbox": [
+            0.091195,
+            0.478477,
+            0.943616,
+            0.492039
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s21"
+        },
+        {
+          "text": "11, 2026.",
+          "bbox": [
+            0.091195,
+            0.492855,
+            0.155542,
+            0.506416
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s22"
+        },
+        {
+          "text": "Q4 Fiscal 2026 Summary",
+          "bbox": [
+            0.091195,
+            0.517901,
+            0.272206,
+            0.531989
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s23"
+        },
+        {
+          "text": "GAAP",
+          "bbox": [
+            0.490359,
+            0.547341,
+            0.535499,
+            0.561428
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s24"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    }
+  },
+  {
+    "field": "external_auditor_name",
+    "baseline": {
+      "field": "external_auditor_name",
+      "status": "abstained",
+      "value": null,
+      "evidence": [],
+      "alternatives": [],
+      "rejected_candidates": [
+        ""
+      ],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "No sufficiently supported value. This does not prove the field is absent."
+    },
+    "comparison": {
+      "field": "external_auditor_name",
+      "status": "abstained",
+      "value": null,
+      "evidence": [],
+      "alternatives": [],
+      "rejected_candidates": [
+        ""
+      ],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "No sufficiently supported value. This does not prove the field is absent."
+    }
+  }
+]

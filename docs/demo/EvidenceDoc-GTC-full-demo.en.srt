@@ -1,0 +1,216 @@
+1
+00:00:00,090 --> 00:00:01,675
+An AI can give you an answer.
+
+2
+00:00:02,088 --> 00:00:04,111
+EvidenceDoc lets you interrogate it.
+
+3
+00:00:04,562 --> 00:00:07,668
+Here is a real document, and every step from
+
+4
+00:00:07,680 --> 00:00:09,562
+a claim back to its source.
+
+5
+00:00:10,863 --> 00:00:13,556
+Start with NVIDIA's original earnings report.
+
+6
+00:00:13,956 --> 00:00:19,033
+Nemotron reads the document, identifies useful entities, and suggests
+
+7
+00:00:19,046 --> 00:00:22,487
+an extraction schema. The source appears while the analysis
+
+8
+00:00:22,629 --> 00:00:23,479
+is still running.
+
+9
+00:00:24,763 --> 00:00:30,446
+People, organizations, dates, and amounts become searchable, source-linked
+entities.
+
+10
+00:00:30,833 --> 00:00:33,436
+Select a value and the reader opens the right
+
+11
+00:00:33,436 --> 00:00:37,237
+page, zooms in, and centers the cited occurrence.
+
+12
+00:00:38,562 --> 00:00:41,332
+For a financial review, we can also request a
+
+13
+00:00:41,345 --> 00:00:43,021
+consistent set of fields.
+
+14
+00:00:43,420 --> 00:00:47,402
+Revenue, earnings per share, and payment dates remain connected
+
+15
+00:00:47,402 --> 00:00:48,626
+to their supporting text.
+
+16
+00:00:49,051 --> 00:00:51,397
+The document stays one click away.
+
+17
+00:00:52,663 --> 00:00:55,691
+When the report does not identify an external auditor,
+
+18
+00:00:56,065 --> 00:00:58,462
+the system returns no supported value.
+
+19
+00:00:58,874 --> 00:01:02,032
+It does not turn general knowledge into document evidence.
+
+20
+00:01:02,444 --> 00:01:06,065
+The activity log makes the review trace inspectable.
+
+21
+00:01:07,333 --> 00:01:10,825
+The evidence graph shows how entities connect to source
+
+22
+00:01:10,838 --> 00:01:15,658
+pages. Filter to recurring entities, select a node, inspect
+
+23
+00:01:15,671 --> 00:01:18,931
+its quoted context, and jump back into the document.
+
+24
+00:01:19,356 --> 00:01:22,965
+These are source connections, not invented business relationships.
+
+25
+00:01:24,233 --> 00:01:27,880
+Now compare two real reporting periods using the same
+
+26
+00:01:27,880 --> 00:01:32,828
+fields. Quarterly revenue changes from fifty-seven billion to sixty-eight
+
+27
+00:01:32,841 --> 00:01:34,504
+point one billion dollars.
+
+28
+00:01:34,942 --> 00:01:37,455
+The dividend stays at one cent per share.
+
+29
+00:01:37,880 --> 00:01:41,437
+Every change can be checked against both original documents.
+
+30
+00:01:42,723 --> 00:01:45,172
+The most revealing test is subtraction.
+
+31
+00:01:45,584 --> 00:01:48,986
+Select the dividend payment date and withhold its cited
+
+32
+00:01:48,986 --> 00:01:50,532
+regions from a separate copy.
+
+33
+00:01:50,945 --> 00:01:55,288
+EvidenceDoc removes the matching text and image regions, then
+
+34
+00:01:55,404 --> 00:01:58,277
+asks the model again without its previous answer.
+
+35
+00:01:59,583 --> 00:02:03,140
+The original answer was April first, twenty twenty-six.
+
+36
+00:02:03,565 --> 00:02:07,109
+With that evidence withheld, this run returns no supported
+
+37
+00:02:07,109 --> 00:02:10,988
+value. That demonstrates dependence on the selected evidence.
+
+38
+00:02:11,400 --> 00:02:13,913
+It is an experiment you can inspect, not a
+
+39
+00:02:13,913 --> 00:02:16,014
+blanket guarantee of correctness.
+
+40
+00:02:17,316 --> 00:02:19,958
+The workflow also handles scanned documents.
+
+41
+00:02:20,370 --> 00:02:24,313
+This original World Bank grant agreement uses Nemotron Super
+
+42
+00:02:24,584 --> 00:02:27,767
+alongside a Nemotron Omni visual retry.
+
+43
+00:02:28,166 --> 00:02:31,066
+Open the grant amount and inspect the supporting region
+
+44
+00:02:31,195 --> 00:02:32,213
+on the scanned page.
+
+45
+00:02:33,500 --> 00:02:36,851
+Export the structured evidence for another workflow.
+
+46
+00:02:37,263 --> 00:02:41,593
+Values travel with their source references, bounding boxes, review
+
+47
+00:02:41,606 --> 00:02:43,577
+status, and model trace.
+
+48
+00:02:44,003 --> 00:02:48,152
+This demo uses original public PDFs and actual NVIDIA
+
+49
+00:02:48,165 --> 00:02:49,273
+model responses.
+
+50
+00:02:50,563 --> 00:02:52,908
+EvidenceDoc. Discover what matters.
+
+51
+00:02:53,321 --> 00:02:56,568
+Inspect every claim. Test what the answer depends on.
+
+52
+00:02:56,994 --> 00:02:58,566
+Built with NVIDIA Nemotron.
+
+53
+00:02:58,965 --> 00:03:01,414
+Explore the project and try it on a document
+
+54
+00:03:01,427 --> 00:03:01,865
+of your own.

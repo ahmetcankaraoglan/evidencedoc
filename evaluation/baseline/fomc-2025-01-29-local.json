@@ -1,0 +1,239 @@
+{
+  "document_id": "fomc-2025-01-29",
+  "title": "Federal Reserve FOMC statement and implementation decisions",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20250129a1.pdf",
+  "source_sha256": "fbb886257e82c1ef1c21b34f235dfe9435eefc902c04d53356874784d6691a21",
+  "source_type": "native_pdf",
+  "pages": 4,
+  "mode": "local",
+  "job_id": "a9350553e60347e69b4431cef3ac1c3d",
+  "job_status": {
+    "status": "complete",
+    "message": "Evidence review complete."
+  },
+  "wall_seconds": 2.04,
+  "result": {
+    "fields": [
+      {
+        "field": "release_date",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "label-rule+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "implementation_effective_date",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "label-rule+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "committee_chair",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "label-rule+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "committee_vice_chair",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "label-rule+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "federal_funds_target_range",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "label-rule+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "reserve_balances_interest_rate",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "label-rule+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "treasury_monthly_redemption_cap",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "label-rule+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "policy_expiration_date",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "label-rule+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      }
+    ],
+    "events": [
+      {
+        "stage": "read",
+        "message": "Read 4 pages and 77 source spans.",
+        "field": null
+      },
+      {
+        "stage": "extract",
+        "message": "Produced 0 candidates.",
+        "field": null,
+        "model": "local-label-parser"
+      },
+      {
+        "stage": "coverage",
+        "message": "0 of 8 fields resolved; 0 conflicts; 8 abstentions.",
+        "field": null
+      }
+    ],
+    "counts": {
+      "grounded": 0,
+      "recovered": 0,
+      "conflict": 0,
+      "abstained": 8
+    },
+    "requested": 8,
+    "mode": "local",
+    "model": null,
+    "model_calls": [],
+    "fault_injection": false,
+    "elapsed_seconds": 0.123,
+    "confidence_note": "Confidence is null: no calibrated probability model has been evaluated.",
+    "limitations": "Source support is not a guarantee of semantic correctness. OCR and correlated model errors remain possible.",
+    "pipeline_elapsed_seconds": 0.003,
+    "schema_version": "1.0"
+  },
+  "decisions": [
+    {
+      "field": "release_date",
+      "expected": [
+        "January 29, 2025"
+      ],
+      "reference_page": 1,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "implementation_effective_date",
+      "expected": [
+        "January 30, 2025"
+      ],
+      "reference_page": 3,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "committee_chair",
+      "expected": [
+        "Jerome H. Powell"
+      ],
+      "reference_page": 2,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "committee_vice_chair",
+      "expected": [
+        "John C. Williams"
+      ],
+      "reference_page": 2,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "federal_funds_target_range",
+      "expected": [
+        "4-1/4 to 4-1/2 percent",
+        "4-1/4 to 4-1/2"
+      ],
+      "reference_page": 1,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "reserve_balances_interest_rate",
+      "expected": [
+        "4.4 percent",
+        "4.4"
+      ],
+      "reference_page": 3,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "treasury_monthly_redemption_cap",
+      "expected": [
+        "$25 billion"
+      ],
+      "reference_page": 3,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "policy_expiration_date",
+      "expected": null,
+      "reference_page": null,
+      "actual": null,
+      "status": "abstained",
+      "correct": true,
+      "has_evidence": false,
+      "reference_note": "No fixed expiration date is provided; implementation date is not an expiry."
+    }
+  ]
+}

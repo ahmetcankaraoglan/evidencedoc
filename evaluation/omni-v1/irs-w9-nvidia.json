@@ -1,0 +1,15 @@
+{
+  "document_id": "irs-w9",
+  "title": "IRS Form W-9 revision March 2024 (official blank form)",
+  "source_url": "https://www.irs.gov/pub/irs-pdf/fw9.pdf",
+  "source_sha256": "2d420cbb4123dcf1fb82595b2359cfbb5d81f00b9df9d359fcc7af361d093f53",
+  "source_type": "native_blank_form_pdf",
+  "pages": 6,
+  "mode": "nvidia",
+  "job_id": "8ce6c1fd19ee473cab48186ea93aa5d5",
+  "job_status": {
+    "status": "failed",
+    "message": "NVIDIA returned invalid JSON. No unverified values were accepted."
+  },
+  "wall_seconds": 16.16
+}

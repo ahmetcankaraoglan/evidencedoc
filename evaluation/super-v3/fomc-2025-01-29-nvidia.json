@@ -1,0 +1,601 @@
+{
+  "document_id": "fomc-2025-01-29",
+  "title": "Federal Reserve FOMC statement and implementation decisions",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20250129a1.pdf",
+  "source_sha256": "fbb886257e82c1ef1c21b34f235dfe9435eefc902c04d53356874784d6691a21",
+  "source_type": "native_pdf",
+  "pages": 4,
+  "mode": "nvidia",
+  "job_id": "83e0baf61e7d4d69ad116fbad44619a9",
+  "job_status": {
+    "status": "complete",
+    "message": "Evidence review complete."
+  },
+  "wall_seconds": 26.14,
+  "result": {
+    "fields": [
+      {
+        "field": "release_date",
+        "status": "recovered",
+        "value": "January 29, 2025",
+        "evidence": [
+          {
+            "text": "January 29, 2025",
+            "bbox": [
+              0.705868,
+              0.145351,
+              0.885294,
+              0.16923
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s2"
+          },
+          {
+            "text": "January 29, 2025",
+            "bbox": [
+              0.647059,
+              0.104394,
+              0.86,
+              0.124803
+            ],
+            "page": 3,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p3-s33"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [
+          "January 29, 29, 2025"
+        ],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "implementation_effective_date",
+        "status": "grounded",
+        "value": "January 30, 2025",
+        "evidence": [
+          {
+            "text": "interest rate paid on reserve balances at 4.4 percent, effective January 30, 2025.",
+            "bbox": [
+              0.157647,
+              0.24197,
+              0.785488,
+              0.262379
+            ],
+            "page": 3,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p3-s39"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "committee_chair",
+        "status": "grounded",
+        "value": "Jerome H. Powell",
+        "evidence": [
+          {
+            "text": "Voting for the monetary policy action were Jerome H. Powell, Chair; John C. Williams,",
+            "bbox": [
+              0.176471,
+              0.158939,
+              0.871372,
+              0.179348
+            ],
+            "page": 2,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p2-s25"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "committee_vice_chair",
+        "status": "grounded",
+        "value": "John C. Williams",
+        "evidence": [
+          {
+            "text": "Voting for the monetary policy action were Jerome H. Powell, Chair; John C. Williams,",
+            "bbox": [
+              0.176471,
+              0.158939,
+              0.871372,
+              0.179348
+            ],
+            "page": 2,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p2-s25"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "federal_funds_target_range",
+        "status": "grounded",
+        "value": "4-1/4 to 4-1/2 percent",
+        "evidence": [
+          {
+            "text": "funds rate at 4-1/4 to 4-1/2 percent.  In considering the extent and timing of additional",
+            "bbox": [
+              0.117647,
+              0.479848,
+              0.797647,
+              0.500257
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s11"
+          },
+          {
+            "text": "in a target range of 4-1/4 to 4-1/2 percent.",
+            "bbox": [
+              0.234118,
+              0.384091,
+              0.567255,
+              0.4045
+            ],
+            "page": 3,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p3-s47"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "reserve_balances_interest_rate",
+        "status": "grounded",
+        "value": "4.4 percent",
+        "evidence": [
+          {
+            "text": "interest rate paid on reserve balances at 4.4 percent, effective January 30, 2025.",
+            "bbox": [
+              0.157647,
+              0.24197,
+              0.785488,
+              0.262379
+            ],
+            "page": 3,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p3-s39"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "treasury_monthly_redemption_cap",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [
+          "$25 billion per month"
+        ],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "policy_expiration_date",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      }
+    ],
+    "events": [
+      {
+        "stage": "read",
+        "message": "Read 4 pages and 77 source spans.",
+        "field": null
+      },
+      {
+        "stage": "extract",
+        "message": "Produced 9 candidates.",
+        "field": null,
+        "model": "nvidia/nemotron-3-super-120b-a12b"
+      },
+      {
+        "stage": "review",
+        "message": "The text 'January 29, 2025' explicitly appears in p1-s2 and matches the release_date value.",
+        "field": "release_date",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The value 'January 29, 29, 2025' contains a duplicate '29' and is not found verbatim in the context; the correct date is 'January 29, 2025' as seen in p3-s33.",
+        "field": "release_date",
+        "supported": false
+      },
+      {
+        "stage": "review",
+        "message": "The text 'interest rate paid on reserve balances at 4.4 percent, effective January 30, 2025.' explicitly states the implementation_effective_date as January 30, 2025.",
+        "field": "implementation_effective_date",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The text 'Voting for the monetary policy action were Jerome H. Powell, Chair; John C. Williams,' explicitly identifies Jerome H. Powell as Chair.",
+        "field": "committee_chair",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The text 'Voting for the monetary policy action were Jerome H. Powell, Chair; John C. Williams,' explicitly identifies John C. Williams as Vice Chair (immediately following 'Chair;' and before the semicolon).",
+        "field": "committee_vice_chair",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The text 'funds rate at 4-1/4 to 4-1/2 percent.' explicitly states the federal_funds_target_range as 4-1/4 to 4-1/2 percent.",
+        "field": "federal_funds_target_range",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The text 'in a target range of 4-1/4 to 4-1/2 percent.' explicitly states the federal_funds_target_range as 4-1/4 to 4-1/2 percent.",
+        "field": "federal_funds_target_range",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The text 'interest rate paid on reserve balances at 4.4 percent, effective January 30, 2025.' explicitly states the reserve_balances_interest_rate as 4.4 percent.",
+        "field": "reserve_balances_interest_rate",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The evidence 'holdings of Treasury securities maturing in each calendar month that exceeds a' is incomplete and does not contain the value '$25 billion per month'; the full value appears in p3-s55 as 'cap of $25 billion per month', but the cited evidence does not include it.",
+        "field": "treasury_monthly_redemption_cap",
+        "supported": false
+      },
+      {
+        "stage": "reject",
+        "message": "Candidate is not a literal match in its cited source.",
+        "field": "release_date",
+        "candidate": "January 29, 29, 2025"
+      },
+      {
+        "stage": "retry",
+        "message": "Re-read the cited region.",
+        "field": "release_date"
+      },
+      {
+        "stage": "repair",
+        "message": "Recovered a source-supported value.",
+        "field": "release_date",
+        "before": "January 29, 29, 2025",
+        "after": "January 29, 2025"
+      },
+      {
+        "stage": "reject",
+        "message": "Candidate is not a literal match in its cited source.",
+        "field": "treasury_monthly_redemption_cap",
+        "candidate": "$25 billion per month"
+      },
+      {
+        "stage": "retry",
+        "message": "Re-read the cited region.",
+        "field": "treasury_monthly_redemption_cap"
+      },
+      {
+        "stage": "coverage",
+        "message": "6 of 8 fields resolved; 0 conflicts; 2 abstentions.",
+        "field": null
+      }
+    ],
+    "counts": {
+      "grounded": 5,
+      "recovered": 1,
+      "conflict": 0,
+      "abstained": 2
+    },
+    "requested": 8,
+    "mode": "nvidia",
+    "model": "nvidia/nemotron-3-super-120b-a12b",
+    "model_calls": [
+      {
+        "model": "nvidia/nemotron-3-super-120b-a12b",
+        "response": {
+          "candidates": [
+            {
+              "field": "release_date",
+              "value": "January 29, 2025",
+              "span_ids": [
+                "p1-s2"
+              ]
+            },
+            {
+              "field": "release_date",
+              "value": "January 29, 29, 2025",
+              "span_ids": [
+                "p3-s33"
+              ]
+            },
+            {
+              "field": "implementation_effective_date",
+              "value": "January 30, 2025",
+              "span_ids": [
+                "p3-s39"
+              ]
+            },
+            {
+              "field": "committee_chair",
+              "value": "Jerome H. Powell",
+              "span_ids": [
+                "p2-s25"
+              ]
+            },
+            {
+              "field": "committee_vice_chair",
+              "value": "John C. Williams",
+              "span_ids": [
+                "p2-s25"
+              ]
+            },
+            {
+              "field": "federal_funds_target_range",
+              "value": "4-1/4 to 4-1/2 percent",
+              "span_ids": [
+                "p1-s11"
+              ]
+            },
+            {
+              "field": "federal_funds_target_range",
+              "value": "4-1/4 to 4-1/2 percent",
+              "span_ids": [
+                "p3-s47"
+              ]
+            },
+            {
+              "field": "reserve_balances_interest_rate",
+              "value": "4.4 percent",
+              "span_ids": [
+                "p3-s39"
+              ]
+            },
+            {
+              "field": "treasury_monthly_redemption_cap",
+              "value": "$25 billion per month",
+              "span_ids": [
+                "p3-s54"
+              ]
+            }
+          ]
+        },
+        "elapsed_seconds": 19.11,
+        "usage": {
+          "prompt_tokens": 2408,
+          "completion_tokens": 386,
+          "total_tokens": 2794
+        },
+        "request_id": null
+      },
+      {
+        "model": "nvidia/nemotron-3-super-120b-a12b",
+        "response": {
+          "decisions": [
+            {
+              "index": 0,
+              "supported": true,
+              "reason": "The text 'January 29, 2025' explicitly appears in p1-s2 and matches the release_date value."
+            },
+            {
+              "index": 1,
+              "supported": false,
+              "reason": "The value 'January 29, 29, 2025' contains a duplicate '29' and is not found verbatim in the context; the correct date is 'January 29, 2025' as seen in p3-s33."
+            },
+            {
+              "index": 2,
+              "supported": true,
+              "reason": "The text 'interest rate paid on reserve balances at 4.4 percent, effective January 30, 2025.' explicitly states the implementation_effective_date as January 30, 2025."
+            },
+            {
+              "index": 3,
+              "supported": true,
+              "reason": "The text 'Voting for the monetary policy action were Jerome H. Powell, Chair; John C. Williams,' explicitly identifies Jerome H. Powell as Chair."
+            },
+            {
+              "index": 4,
+              "supported": true,
+              "reason": "The text 'Voting for the monetary policy action were Jerome H. Powell, Chair; John C. Williams,' explicitly identifies John C. Williams as Vice Chair (immediately following 'Chair;' and before the semicolon)."
+            },
+            {
+              "index": 5,
+              "supported": true,
+              "reason": "The text 'funds rate at 4-1/4 to 4-1/2 percent.' explicitly states the federal_funds_target_range as 4-1/4 to 4-1/2 percent."
+            },
+            {
+              "index": 6,
+              "supported": true,
+              "reason": "The text 'in a target range of 4-1/4 to 4-1/2 percent.' explicitly states the federal_funds_target_range as 4-1/4 to 4-1/2 percent."
+            },
+            {
+              "index": 7,
+              "supported": true,
+              "reason": "The text 'interest rate paid on reserve balances at 4.4 percent, effective January 30, 2025.' explicitly states the reserve_balances_interest_rate as 4.4 percent."
+            },
+            {
+              "index": 8,
+              "supported": false,
+              "reason": "The evidence 'holdings of Treasury securities maturing in each calendar month that exceeds a' is incomplete and does not contain the value '$25 billion per month'; the full value appears in p3-s55 as 'cap of $25 billion per month', but the cited evidence does not include it."
+            }
+          ]
+        },
+        "elapsed_seconds": 4.25,
+        "usage": {
+          "prompt_tokens": 1992,
+          "completion_tokens": 569,
+          "total_tokens": 2561
+        },
+        "request_id": null
+      },
+      {
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning",
+        "response": {
+          "value": "January 29, 2025",
+          "supported": true
+        },
+        "elapsed_seconds": 1.02,
+        "usage": {
+          "prompt_tokens": 130,
+          "completion_tokens": 20,
+          "total_tokens": 150
+        },
+        "request_id": null
+      },
+      {
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning",
+        "response": {
+          "value": "$25 billion",
+          "supported": true
+        },
+        "elapsed_seconds": 1.4,
+        "usage": {
+          "prompt_tokens": 435,
+          "completion_tokens": 14,
+          "total_tokens": 449
+        },
+        "request_id": null
+      }
+    ],
+    "fault_injection": false,
+    "elapsed_seconds": 25.944,
+    "confidence_note": "Confidence is null: no calibrated probability model has been evaluated.",
+    "limitations": "Source support is not a guarantee of semantic correctness. OCR and correlated model errors remain possible.",
+    "pipeline_elapsed_seconds": 25.822,
+    "schema_version": "1.0"
+  },
+  "decisions": [
+    {
+      "field": "release_date",
+      "expected": [
+        "January 29, 2025"
+      ],
+      "reference_page": 1,
+      "actual": "January 29, 2025",
+      "status": "recovered",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "implementation_effective_date",
+      "expected": [
+        "January 30, 2025"
+      ],
+      "reference_page": 3,
+      "actual": "January 30, 2025",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "committee_chair",
+      "expected": [
+        "Jerome H. Powell"
+      ],
+      "reference_page": 2,
+      "actual": "Jerome H. Powell",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "committee_vice_chair",
+      "expected": [
+        "John C. Williams"
+      ],
+      "reference_page": 2,
+      "actual": "John C. Williams",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "federal_funds_target_range",
+      "expected": [
+        "4-1/4 to 4-1/2 percent",
+        "4-1/4 to 4-1/2"
+      ],
+      "reference_page": 1,
+      "actual": "4-1/4 to 4-1/2 percent",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "reserve_balances_interest_rate",
+      "expected": [
+        "4.4 percent",
+        "4.4"
+      ],
+      "reference_page": 3,
+      "actual": "4.4 percent",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "treasury_monthly_redemption_cap",
+      "expected": [
+        "$25 billion"
+      ],
+      "reference_page": 3,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "policy_expiration_date",
+      "expected": null,
+      "reference_page": null,
+      "actual": null,
+      "status": "abstained",
+      "correct": true,
+      "has_evidence": false,
+      "reference_note": "No fixed expiration date is provided; implementation date is not an expiry."
+    }
+  ]
+}

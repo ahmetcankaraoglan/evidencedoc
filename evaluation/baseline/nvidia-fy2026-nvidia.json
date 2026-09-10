@@ -1,0 +1,15 @@
+{
+  "document_id": "nvidia-fy2026",
+  "title": "NVIDIA Q4 and Fiscal 2026 financial results",
+  "source_url": "https://nvidianews.nvidia.com/_gallery/download_pdf/699f6ab43d6332ccaa689907/",
+  "source_sha256": "89de999d7155649197672bf490c519607f1abbcdc96e2e4c6718bf6ecbb13564",
+  "source_type": "native_pdf",
+  "pages": 11,
+  "mode": "nvidia",
+  "job_id": "67b402e587254a6883d320a3bfec1aab",
+  "job_status": {
+    "status": "failed",
+    "message": "NVIDIA request failed (HTTP 410). Check API access and model availability."
+  },
+  "wall_seconds": 2.05
+}

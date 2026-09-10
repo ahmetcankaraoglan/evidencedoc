@@ -1,0 +1,15 @@
+{
+  "document_id": "worldbank-tf",
+  "title": "World Bank / IDA Somalia Statistical Capacity Building grant",
+  "source_url": "https://documents1.worldbank.org/curated/en/126091487799296208/pdf/ITK171540-201701221631.pdf",
+  "source_sha256": "2e4564c202450210d5537fcf2c00d40e0a031c3dc8f382f5aa723b84c276dace",
+  "source_type": "scanned_pdf_with_embedded_ocr",
+  "pages": 4,
+  "mode": "nvidia",
+  "job_id": "2185e80cea54455ba864bd3e9c4f771e",
+  "job_status": {
+    "status": "failed",
+    "message": "NVIDIA request failed (HTTP 410). Check API access and model availability."
+  },
+  "wall_seconds": 2.15
+}

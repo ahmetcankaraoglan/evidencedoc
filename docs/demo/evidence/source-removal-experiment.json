@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "kind": "source-removal-experiment",
+  "source_sha256": "89de999d7155649197672bf490c519607f1abbcdc96e2e4c6718bf6ecbb13564",
+  "source_document_id": "d6ed952d63154d139b133c16802f517d",
+  "field": "dividend_payment_date",
+  "before": {
+    "field": "dividend_payment_date",
+    "status": "grounded",
+    "value": "April 1, 2026",
+    "evidence": [
+      {
+        "text": "NVIDIA will pay its next quarterly cash dividend of $0.01 per share on April 1, 2026, to all shareholders of record on March",
+        "bbox": [
+          0.091195,
+          0.478477,
+          0.943616,
+          0.492039
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s21"
+      }
+    ],
+    "alternatives": [],
+    "rejected_candidates": [],
+    "confidence": null,
+    "verification": "nemotron-review+literal-match",
+    "reason": "Literal source support found; review the cited context."
+  },
+  "after": {
+    "field": "dividend_payment_date",
+    "status": "abstained",
+    "value": null,
+    "evidence": [],
+    "alternatives": [],
+    "rejected_candidates": [],
+    "confidence": null,
+    "verification": "nemotron-review+literal-match",
+    "reason": "No sufficiently supported value. This does not prove the field is absent."
+  },
+  "outcome": "withdrew",
+  "removed_spans": [
+    {
+      "text": "NVIDIA will pay its next quarterly cash dividend of $0.01 per share on April 1, 2026, to all shareholders of record on March",
+      "bbox": [
+        0.091195,
+        0.478477,
+        0.943616,
+        0.492039
+      ],
+      "page": 1,
+      "source": "pdf-text",
+      "ocr_confidence": null,
+      "id": "p1-s21"
+    },
+    {
+      "text": "11, 2026.",
+      "bbox": [
+        0.091195,
+        0.492855,
+        0.155542,
+        0.506416
+      ],
+      "page": 1,
+      "source": "pdf-text",
+      "ocr_confidence": null,
+      "id": "p1-s22"
+    }
+  ],
+  "requested_span_ids": [
+    "p1-s21"
+  ],
+  "remaining_spans": 1061,
+  "mode": "nvidia",
+  "model": "nvidia/nemotron-3-super-120b-a12b",
+  "model_calls": [
+    {
+      "model": "nvidia/nemotron-3-super-120b-a12b",
+      "response": {
+        "candidates": []
+      },
+      "elapsed_seconds": 2.38,
+      "usage": {
+        "prompt_tokens": 25164,
+        "completion_tokens": 7,
+        "total_tokens": 25171
+      },
+      "request_id": null
+    }
+  ],
+  "events": [
+    {
+      "stage": "read",
+      "message": "Read 11 pages and 1061 source spans.",
+      "field": null
+    },
+    {
+      "stage": "extract",
+      "message": "Produced 0 candidates.",
+      "field": null,
+      "model": "nvidia/nemotron-3-super-120b-a12b"
+    },
+    {
+      "stage": "coverage",
+      "message": "0 of 1 fields resolved; 0 conflicts; 1 abstentions.",
+      "field": null
+    }
+  ],
+  "elapsed_seconds": 2.381,
+  "method": "Fresh extraction with selected evidence and overlapping text removed. Matching page regions are blacked out before any visual retry. The previous answer is not supplied to the model.",
+  "limitation": "Tests dependence on selected evidence, not truth. Unmasked duplicate evidence may support the same answer. The same model family is used; this is not an independent expert review.",
+  "experiment_sha256": "664eb6d2decfd20a3242e77a3e8e0adf5037e339157dd01a1c6cf3b622827ffd",
+  "id": "0583bfe804084fa78b7014c967cd6efe"
+}

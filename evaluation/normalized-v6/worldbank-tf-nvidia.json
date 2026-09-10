@@ -1,0 +1,658 @@
+{
+  "document_id": "worldbank-tf",
+  "title": "World Bank / IDA Somalia Statistical Capacity Building grant",
+  "source_url": "https://documents1.worldbank.org/curated/en/126091487799296208/pdf/ITK171540-201701221631.pdf",
+  "source_sha256": "2e4564c202450210d5537fcf2c00d40e0a031c3dc8f382f5aa723b84c276dace",
+  "source_type": "scanned_pdf_with_embedded_ocr",
+  "pages": 4,
+  "mode": "nvidia",
+  "job_id": "23ecaa28b83e4cd48fbde240bd58e8bf",
+  "job_status": {
+    "status": "complete",
+    "message": "Evidence review complete."
+  },
+  "wall_seconds": 12.13,
+  "result": {
+    "fields": [
+      {
+        "field": "project_grant_number",
+        "status": "grounded",
+        "value": "TF017789",
+        "evidence": [
+          {
+            "text": "(MDTF SCB III Grant No. TF017789)",
+            "bbox": [
+              0.356445,
+              0.39272,
+              0.633941,
+              0.409458
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s22"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "project_title",
+        "status": "grounded",
+        "value": "Somalia Statistical Capacity Building Project",
+        "evidence": [
+          {
+            "text": "Somalia Statistical Capacity Building Project",
+            "bbox": [
+              0.332031,
+              0.378385,
+              0.658711,
+              0.39549
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s21"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "total_grant_amount",
+        "status": "grounded",
+        "value": "five hundred thousand United States Dollars ($500,000)",
+        "evidence": [
+          {
+            "text": "five hundred thousand United States Dollars ($500,000) (the Grant) to the Federal",
+            "bbox": [
+              0.19043,
+              0.462914,
+              0.799625,
+              0.480007
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s26"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "grant_recipient",
+        "status": "recovered",
+        "value": "Federal Republic of Somalia",
+        "evidence": [
+          {
+            "text": "Statistical Capacity Building III (TF070561), to make a grant in an amount not exceeding",
+            "bbox": [
+              0.19043,
+              0.448946,
+              0.798405,
+              0.465921
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s25"
+          },
+          {
+            "text": "five hundred thousand United States Dollars ($500,000) (the Grant) to the Federal",
+            "bbox": [
+              0.19043,
+              0.462914,
+              0.799625,
+              0.480007
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s26"
+          },
+          {
+            "text": "Republic of Somalia (the Recipient).",
+            "bbox": [
+              0.19043,
+              0.478066,
+              0.437177,
+              0.494212
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s27"
+          },
+          {
+            "text": "The Grant is made in response to the Recipient's request for financial assistance",
+            "bbox": [
+              0.245768,
+              0.506538,
+              0.799788,
+              0.521696
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s28"
+          },
+          {
+            "text": "and for the purposes and on the terms and conditions set forth in the Annex to this Letter",
+            "bbox": [
+              0.19043,
+              0.520742,
+              0.800197,
+              0.536256
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s29"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "ida_signatory",
+        "status": "grounded",
+        "value": "Bella Bird",
+        "evidence": [
+          {
+            "text": "Bella Bird",
+            "bbox": [
+              0.460612,
+              0.334245,
+              0.531398,
+              0.350154
+            ],
+            "page": 2,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p2-s49"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "recipient_addressee",
+        "status": "grounded",
+        "value": "H.E. Mohamed Adan Ibrahim",
+        "evidence": [
+          {
+            "text": "H.E. Mohamed Adan Ibrahim",
+            "bbox": [
+              0.19043,
+              0.25103,
+              0.390669,
+              0.268004
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s15"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "grant_closing_date",
+        "status": "grounded",
+        "value": "April 30, 2019",
+        "evidence": [
+          {
+            "text": "The Activities shall be completed by not later than April 30, 2019, or such later",
+            "bbox": [
+              0.245768,
+              0.136446,
+              0.800118,
+              0.153303
+            ],
+            "page": 4,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p4-s105"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "recipient_tax_identifier",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [
+          ""
+        ],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "recipient_signature_date",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [
+          ""
+        ],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      }
+    ],
+    "events": [
+      {
+        "stage": "read",
+        "message": "Read 4 pages and 129 source spans.",
+        "field": null
+      },
+      {
+        "stage": "extract",
+        "message": "Produced 9 candidates.",
+        "field": null,
+        "model": "nvidia/nemotron-3-super-120b-a12b"
+      },
+      {
+        "stage": "review",
+        "message": "The text explicitly states '(MDTF SCB III Grant No. TF017789)' which contains the grant number TF017789.",
+        "field": "project_grant_number",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The text explicitly states 'Somalia Statistical Capacity Building Project' as the project title.",
+        "field": "project_title",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The text explicitly states 'five hundred thousand United States Dollars ($500,000) (the Grant)' which matches the total grant amount.",
+        "field": "total_grant_amount",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The text explicitly states 'Republic of Somalia (the Recipient).' which identifies the grant recipient as the Federal Republic of Somalia.",
+        "field": "grant_recipient",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The text explicitly states 'Bella Bird' as the signatory under the International Development Association.",
+        "field": "ida_signatory",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The text explicitly states 'H.E. Mohamed Adan Ibrahim' as the addressee, matching the recipient addressee field.",
+        "field": "recipient_addressee",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "The text explicitly states 'The Activities shall be completed by not later than April 30, 2019, or such later' which confirms the grant closing date as April 30, 2019.",
+        "field": "grant_closing_date",
+        "supported": true
+      },
+      {
+        "stage": "review",
+        "message": "No evidence is provided for the recipient's tax identifier, and the nearby_context and evidence arrays are empty.",
+        "field": "recipient_tax_identifier",
+        "supported": false
+      },
+      {
+        "stage": "review",
+        "message": "No evidence is provided for the recipient's signature date, and the nearby_context and evidence arrays are empty.",
+        "field": "recipient_signature_date",
+        "supported": false
+      },
+      {
+        "stage": "repair",
+        "message": "Recovered the citation from adjacent source lines after semantic review.",
+        "field": "grant_recipient",
+        "before": "Federal Republic of Somalia",
+        "after": "Federal Republic of Somalia"
+      },
+      {
+        "stage": "reject",
+        "message": "The requested date field requires a calendar date, not an incomplete fragment or non-date phrase.",
+        "field": "recipient_tax_identifier",
+        "candidate": ""
+      },
+      {
+        "stage": "reject",
+        "message": "The requested date field requires a calendar date, not an incomplete fragment or non-date phrase.",
+        "field": "recipient_signature_date",
+        "candidate": ""
+      },
+      {
+        "stage": "coverage",
+        "message": "7 of 9 fields resolved; 0 conflicts; 2 abstentions.",
+        "field": null
+      }
+    ],
+    "counts": {
+      "grounded": 6,
+      "recovered": 1,
+      "conflict": 0,
+      "abstained": 2
+    },
+    "requested": 9,
+    "mode": "nvidia",
+    "model": "nvidia/nemotron-3-super-120b-a12b",
+    "model_calls": [
+      {
+        "model": "nvidia/nemotron-3-super-120b-a12b",
+        "response": {
+          "candidates": [
+            {
+              "field": "project_grant_number",
+              "value": "TF017789",
+              "span_ids": [
+                "p1-s22"
+              ]
+            },
+            {
+              "field": "project_title",
+              "value": "Somalia Statistical Capacity Building Project",
+              "span_ids": [
+                "p1-s21"
+              ]
+            },
+            {
+              "field": "total_grant_amount",
+              "value": "five hundred thousand United States Dollars ($500,000)",
+              "span_ids": [
+                "p1-s25",
+                "p1-s26"
+              ]
+            },
+            {
+              "field": "grant_recipient",
+              "value": "Federal Republic of Somalia",
+              "span_ids": [
+                "p1-s27"
+              ]
+            },
+            {
+              "field": "ida_signatory",
+              "value": "Bella Bird",
+              "span_ids": [
+                "p2-s49"
+              ]
+            },
+            {
+              "field": "recipient_addressee",
+              "value": "H.E. Mohamed Adan Ibrahim",
+              "span_ids": [
+                "p1-s15"
+              ]
+            },
+            {
+              "field": "grant_closing_date",
+              "value": "April 30, 2019",
+              "span_ids": [
+                "p4-s105"
+              ]
+            },
+            {
+              "field": "recipient_tax_identifier",
+              "value": "",
+              "span_ids": []
+            },
+            {
+              "field": "recipient_signature_date",
+              "value": "",
+              "span_ids": []
+            }
+          ]
+        },
+        "elapsed_seconds": 5.75,
+        "usage": {
+          "prompt_tokens": 3637,
+          "completion_tokens": 345,
+          "total_tokens": 3982
+        },
+        "request_id": null
+      },
+      {
+        "model": "nvidia/nemotron-3-super-120b-a12b",
+        "response": {
+          "decisions": [
+            {
+              "index": 0,
+              "supported": true,
+              "reason": "The text explicitly states '(MDTF SCB III Grant No. TF017789)' which contains the grant number TF017789.",
+              "value": "TF017789",
+              "span_ids": [
+                "p1-s22"
+              ]
+            },
+            {
+              "index": 1,
+              "supported": true,
+              "reason": "The text explicitly states 'Somalia Statistical Capacity Building Project' as the project title.",
+              "value": "Somalia Statistical Capacity Building Project",
+              "span_ids": [
+                "p1-s21"
+              ]
+            },
+            {
+              "index": 2,
+              "supported": true,
+              "reason": "The text explicitly states 'five hundred thousand United States Dollars ($500,000) (the Grant)' which matches the total grant amount.",
+              "value": "five hundred thousand United States Dollars ($500,000)",
+              "span_ids": [
+                "p1-s26"
+              ]
+            },
+            {
+              "index": 3,
+              "supported": true,
+              "reason": "The text explicitly states 'Republic of Somalia (the Recipient).' which identifies the grant recipient as the Federal Republic of Somalia.",
+              "value": "Federal Republic of Somalia",
+              "span_ids": [
+                "p1-s27"
+              ]
+            },
+            {
+              "index": 4,
+              "supported": true,
+              "reason": "The text explicitly states 'Bella Bird' as the signatory under the International Development Association.",
+              "value": "Bella Bird",
+              "span_ids": [
+                "p2-s49"
+              ]
+            },
+            {
+              "index": 5,
+              "supported": true,
+              "reason": "The text explicitly states 'H.E. Mohamed Adan Ibrahim' as the addressee, matching the recipient addressee field.",
+              "value": "H.E. Mohamed Adan Ibrahim",
+              "span_ids": [
+                "p1-s15"
+              ]
+            },
+            {
+              "index": 6,
+              "supported": true,
+              "reason": "The text explicitly states 'The Activities shall be completed by not later than April 30, 2019, or such later' which confirms the grant closing date as April 30, 2019.",
+              "value": "April 30, 2019",
+              "span_ids": [
+                "p4-s105"
+              ]
+            },
+            {
+              "index": 7,
+              "supported": false,
+              "reason": "No evidence is provided for the recipient's tax identifier, and the nearby_context and evidence arrays are empty.",
+              "value": null,
+              "span_ids": []
+            },
+            {
+              "index": 8,
+              "supported": false,
+              "reason": "No evidence is provided for the recipient's signature date, and the nearby_context and evidence arrays are empty.",
+              "value": null,
+              "span_ids": []
+            }
+          ]
+        },
+        "elapsed_seconds": 5.12,
+        "usage": {
+          "prompt_tokens": 1703,
+          "completion_tokens": 659,
+          "total_tokens": 2362
+        },
+        "request_id": null
+      }
+    ],
+    "fault_injection": false,
+    "elapsed_seconds": 11.407,
+    "confidence_note": "Confidence is null: no calibrated probability model has been evaluated.",
+    "limitations": "Source support is not a guarantee of semantic correctness. OCR and correlated model errors remain possible.",
+    "pipeline_elapsed_seconds": 10.889,
+    "schema_version": "1.0"
+  },
+  "decisions": [
+    {
+      "field": "project_grant_number",
+      "expected": [
+        "TF017789"
+      ],
+      "reference_page": 1,
+      "actual": "TF017789",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": "TF070561 is the parent trust fund, not this project grant number."
+    },
+    {
+      "field": "project_title",
+      "expected": [
+        "Somalia Statistical Capacity Building Project"
+      ],
+      "reference_page": 1,
+      "actual": "Somalia Statistical Capacity Building Project",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "total_grant_amount",
+      "expected": [
+        "$500,000",
+        "500,000"
+      ],
+      "reference_page": 1,
+      "actual": "five hundred thousand United States Dollars ($500,000)",
+      "status": "grounded",
+      "correct": false,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "grant_recipient",
+      "expected": [
+        "Federal Republic of Somalia",
+        "FEDERAL REPUBLIC OF SOMALIA"
+      ],
+      "reference_page": 2,
+      "actual": "Federal Republic of Somalia",
+      "status": "recovered",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "ida_signatory",
+      "expected": [
+        "Bella Bird"
+      ],
+      "reference_page": 2,
+      "actual": "Bella Bird",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "recipient_addressee",
+      "expected": [
+        "Mohamed Adan Ibrahim",
+        "H.E. Mohamed Adan Ibrahim"
+      ],
+      "reference_page": 1,
+      "actual": "H.E. Mohamed Adan Ibrahim",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "grant_closing_date",
+      "expected": [
+        "April 30, 2019"
+      ],
+      "reference_page": 4,
+      "actual": "April 30, 2019",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "recipient_tax_identifier",
+      "expected": null,
+      "reference_page": null,
+      "actual": null,
+      "status": "abstained",
+      "correct": true,
+      "has_evidence": false,
+      "reference_note": "No recipient tax identifier is given."
+    },
+    {
+      "field": "recipient_signature_date",
+      "expected": [
+        "16 FEBRUARY 2017",
+        "16 February 2017",
+        "16 FEBRUARY, 2017"
+      ],
+      "reference_page": 2,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": "Visually read handwriting; embedded OCR is corrupt. This intentionally tests a known difficult case."
+    }
+  ]
+}

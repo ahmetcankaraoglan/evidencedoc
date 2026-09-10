@@ -1,0 +1,23 @@
+{
+  "tag": "normalized-v6",
+  "documents": 6,
+  "completed": 6,
+  "pages": 36,
+  "requested_fields": 49,
+  "scored_fields": 49,
+  "strict_correct": 44,
+  "present_correct": 35,
+  "present_total": 40,
+  "absent_correct": 9,
+  "absent_total": 9,
+  "nonnull": 39,
+  "nonnull_strict_correct": 35,
+  "nonnull_with_evidence": 39,
+  "successful_model_calls": 12,
+  "total_reported_tokens": 81922,
+  "median_document_seconds": 31.265,
+  "models": [
+    "nvidia/nemotron-3-super-120b-a12b"
+  ],
+  "interpretation": "Small public-document development set. Reused during fixes, not held out. Exact match is not a source-grounding quality score. API errors are counted separately, not silently dropped."
+}

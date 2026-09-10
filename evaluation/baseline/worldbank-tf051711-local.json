@@ -1,0 +1,247 @@
+{
+  "document_id": "worldbank-tf051711",
+  "title": "World Bank / IDA Afghanistan grant agreement TF051711",
+  "source_url": "https://documents1.worldbank.org/curated/en/549511516120883931/pdf/Grant-Agreement-TF051711.pdf",
+  "source_sha256": "a46f97184847e8d02e0ac9ba0081ff086677855c28673729cf7b646defc26e9b",
+  "source_type": "scanned_pdf_with_embedded_ocr",
+  "pages": 10,
+  "mode": "local",
+  "job_id": "012284c8fa974bc1af254f45f7cd3554",
+  "job_status": {
+    "status": "complete",
+    "message": "Evidence review complete."
+  },
+  "wall_seconds": 2.17,
+  "result": {
+    "fields": [
+      {
+        "field": "project_grant_number",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "label-rule+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "grant_recipient",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "label-rule+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "total_grant_amount",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "label-rule+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "recipient_finance_minister",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "label-rule+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "part_a_estimated_budget",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "label-rule+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "part_b_estimated_budget",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "label-rule+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "grant_closing_date",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "label-rule+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "loan_interest_rate",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "label-rule+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      }
+    ],
+    "events": [
+      {
+        "stage": "read",
+        "message": "Read 10 pages and 411 source spans.",
+        "field": null
+      },
+      {
+        "stage": "extract",
+        "message": "Produced 0 candidates.",
+        "field": null,
+        "model": "local-label-parser"
+      },
+      {
+        "stage": "coverage",
+        "message": "0 of 8 fields resolved; 0 conflicts; 8 abstentions.",
+        "field": null
+      }
+    ],
+    "counts": {
+      "grounded": 0,
+      "recovered": 0,
+      "conflict": 0,
+      "abstained": 8
+    },
+    "requested": 8,
+    "mode": "local",
+    "model": null,
+    "model_calls": [],
+    "fault_injection": false,
+    "elapsed_seconds": 1.427,
+    "confidence_note": "Confidence is null: no calibrated probability model has been evaluated.",
+    "limitations": "Source support is not a guarantee of semantic correctness. OCR and correlated model errors remain possible.",
+    "pipeline_elapsed_seconds": 0.012,
+    "schema_version": "1.0"
+  },
+  "decisions": [
+    {
+      "field": "project_grant_number",
+      "expected": [
+        "TF051711"
+      ],
+      "reference_page": 1,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "grant_recipient",
+      "expected": [
+        "Transitional Islamic State of Afghanistan"
+      ],
+      "reference_page": 1,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "total_grant_amount",
+      "expected": [
+        "US$500,000",
+        "US$ 500,000",
+        "$500,000",
+        "500,000"
+      ],
+      "reference_page": 1,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "recipient_finance_minister",
+      "expected": [
+        "Ashraf Ghani",
+        "His Excellency Ashraf Ghani"
+      ],
+      "reference_page": 1,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "part_a_estimated_budget",
+      "expected": [
+        "US$ 150,000",
+        "US$150,000",
+        "$150,000",
+        "150,000"
+      ],
+      "reference_page": 2,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "part_b_estimated_budget",
+      "expected": [
+        "US$ 350,000",
+        "US$350,000",
+        "$350,000",
+        "350,000"
+      ],
+      "reference_page": 2,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "grant_closing_date",
+      "expected": [
+        "January 31, 2005"
+      ],
+      "reference_page": 3,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "loan_interest_rate",
+      "expected": null,
+      "reference_page": null,
+      "actual": null,
+      "status": "abstained",
+      "correct": true,
+      "has_evidence": false,
+      "reference_note": "This is a grant; no loan interest rate is stated."
+    }
+  ]
+}

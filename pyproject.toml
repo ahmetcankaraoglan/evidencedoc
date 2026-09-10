@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "evidencedoc"
+version = "0.5.0"
+description = "Document extraction with inspectable source evidence and explicit abstention"
+requires-python = ">=3.11"
+license = "AGPL-3.0-or-later"
+dependencies = ["fastapi>=0.115,<1", "uvicorn>=0.30,<1", "pymupdf>=1.25,<2", "pillow>=11,<13", "httpx>=0.28,<1", "python-multipart>=0.0.20,<1", "python-dotenv>=1,<2", "pytesseract>=0.3.13,<1"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "reportlab>=4,<6"]
+
+[tool.setuptools.package-data]
+evidencedoc = ["static/*", "public_documents/*"]
+
+[tool.setuptools.packages.find]
+include = ["evidencedoc*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

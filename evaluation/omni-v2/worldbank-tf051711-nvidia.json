@@ -1,0 +1,409 @@
+{
+  "document_id": "worldbank-tf051711",
+  "title": "World Bank / IDA Afghanistan grant agreement TF051711",
+  "source_url": "https://documents1.worldbank.org/curated/en/549511516120883931/pdf/Grant-Agreement-TF051711.pdf",
+  "source_sha256": "a46f97184847e8d02e0ac9ba0081ff086677855c28673729cf7b646defc26e9b",
+  "source_type": "scanned_pdf_with_embedded_ocr",
+  "pages": 10,
+  "mode": "nvidia",
+  "job_id": "67981dc15e364bbeb0f386d9dbebe9ab",
+  "job_status": {
+    "status": "complete",
+    "message": "Evidence review complete."
+  },
+  "wall_seconds": 46.35,
+  "result": {
+    "fields": [
+      {
+        "field": "project_grant_number",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [
+          "TF051711"
+        ],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      },
+      {
+        "field": "grant_recipient",
+        "status": "grounded",
+        "value": "Transitional Islamic State of Afghanistan",
+        "evidence": [
+          {
+            "text": "dollars (US$500,000) (the Grant) to the Transitional Islamic State of Afghanistan (the Recipient).",
+            "bbox": [
+              0.158074,
+              0.395365,
+              0.820993,
+              0.412728
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s28"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "total_grant_amount",
+        "status": "grounded",
+        "value": "500,000",
+        "evidence": [
+          {
+            "text": "Development Fund, to make a grant in an amount not exceeding five hundred thousand United States",
+            "bbox": [
+              0.157353,
+              0.379607,
+              0.848472,
+              0.396961
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s27"
+          },
+          {
+            "text": "500,000",
+            "bbox": [
+              0.459141,
+              0.559201,
+              0.519595,
+              0.576723
+            ],
+            "page": 3,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p3-s132"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "recipient_finance_minister",
+        "status": "grounded",
+        "value": "His Excellency Ashraf Ghani",
+        "evidence": [
+          {
+            "text": "His Excellency Ashraf Ghani",
+            "bbox": [
+              0.217502,
+              0.881573,
+              0.420794,
+              0.898927
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s47"
+          },
+          {
+            "text": "Minister of Finance",
+            "bbox": [
+              0.217485,
+              0.897028,
+              0.355394,
+              0.914386
+            ],
+            "page": 1,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p1-s48"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "part_a_estimated_budget",
+        "status": "grounded",
+        "value": "US$ 150,000",
+        "evidence": [
+          {
+            "text": "Part A: Improved Information Flow for Remote Provinces (Estimated to cost US$ 150,000)",
+            "bbox": [
+              0.167889,
+              0.39687,
+              0.838351,
+              0.414234
+            ],
+            "page": 2,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p2-s69"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "part_b_estimated_budget",
+        "status": "grounded",
+        "value": "US$ 350,000",
+        "evidence": [
+          {
+            "text": "Part B: Managing Health Partnerships with NGOs (Estimated to cost US$ 350,000)",
+            "bbox": [
+              0.168282,
+              0.490545,
+              0.781273,
+              0.507905
+            ],
+            "page": 2,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p2-s72"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "grant_closing_date",
+        "status": "grounded",
+        "value": "January 31, 2005",
+        "evidence": [
+          {
+            "text": "No withdrawals shall be made from the Grant Account after January 31, 2005 or",
+            "bbox": [
+              0.287191,
+              0.816862,
+              0.880089,
+              0.834385
+            ],
+            "page": 3,
+            "source": "pdf-text",
+            "ocr_confidence": null,
+            "id": "p3-s145"
+          }
+        ],
+        "alternatives": [],
+        "rejected_candidates": [],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "Literal source support found; review the cited context."
+      },
+      {
+        "field": "loan_interest_rate",
+        "status": "abstained",
+        "value": null,
+        "evidence": [],
+        "alternatives": [],
+        "rejected_candidates": [
+          "Not answerable"
+        ],
+        "confidence": null,
+        "verification": "nemotron-review+literal-match",
+        "reason": "No sufficiently supported value. This does not prove the field is absent."
+      }
+    ],
+    "events": [
+      {
+        "stage": "read",
+        "message": "Read 10 pages and 411 source spans.",
+        "field": null
+      },
+      {
+        "stage": "extract",
+        "message": "Produced 8 candidates.",
+        "field": null,
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning"
+      },
+      {
+        "stage": "reject",
+        "message": "Candidate is not a literal match in its cited source.",
+        "field": "project_grant_number",
+        "candidate": "TF051711"
+      },
+      {
+        "stage": "retry",
+        "message": "Re-read the cited region.",
+        "field": "project_grant_number"
+      },
+      {
+        "stage": "reject",
+        "message": "Candidate is not a literal match in its cited source.",
+        "field": "loan_interest_rate",
+        "candidate": "Not answerable"
+      },
+      {
+        "stage": "coverage",
+        "message": "6 of 8 fields resolved; 0 conflicts; 2 abstentions.",
+        "field": null
+      }
+    ],
+    "counts": {
+      "grounded": 6,
+      "recovered": 0,
+      "conflict": 0,
+      "abstained": 2
+    },
+    "requested": 8,
+    "mode": "nvidia",
+    "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning",
+    "model_calls": [
+      {
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning",
+        "elapsed_seconds": 8.63,
+        "usage": {
+          "prompt_tokens": 11934,
+          "completion_tokens": 290,
+          "total_tokens": 12224
+        },
+        "request_id": null
+      },
+      {
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning",
+        "elapsed_seconds": 15.26,
+        "usage": {
+          "prompt_tokens": 593,
+          "completion_tokens": 450,
+          "total_tokens": 1043
+        },
+        "request_id": null
+      },
+      {
+        "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning",
+        "elapsed_seconds": 19.2,
+        "usage": {
+          "prompt_tokens": 164,
+          "completion_tokens": 17,
+          "total_tokens": 181
+        },
+        "request_id": null
+      }
+    ],
+    "fault_injection": false,
+    "elapsed_seconds": 44.552,
+    "confidence_note": "Confidence is null: no calibrated probability model has been evaluated.",
+    "limitations": "Source support is not a guarantee of semantic correctness. OCR and correlated model errors remain possible.",
+    "pipeline_elapsed_seconds": 43.136,
+    "schema_version": "1.0"
+  },
+  "decisions": [
+    {
+      "field": "project_grant_number",
+      "expected": [
+        "TF051711"
+      ],
+      "reference_page": 1,
+      "actual": null,
+      "status": "abstained",
+      "correct": false,
+      "has_evidence": false,
+      "reference_note": ""
+    },
+    {
+      "field": "grant_recipient",
+      "expected": [
+        "Transitional Islamic State of Afghanistan"
+      ],
+      "reference_page": 1,
+      "actual": "Transitional Islamic State of Afghanistan",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "total_grant_amount",
+      "expected": [
+        "US$500,000",
+        "US$ 500,000",
+        "$500,000",
+        "500,000"
+      ],
+      "reference_page": 1,
+      "actual": "500,000",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "recipient_finance_minister",
+      "expected": [
+        "Ashraf Ghani",
+        "His Excellency Ashraf Ghani"
+      ],
+      "reference_page": 1,
+      "actual": "His Excellency Ashraf Ghani",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "part_a_estimated_budget",
+      "expected": [
+        "US$ 150,000",
+        "US$150,000",
+        "$150,000",
+        "150,000"
+      ],
+      "reference_page": 2,
+      "actual": "US$ 150,000",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "part_b_estimated_budget",
+      "expected": [
+        "US$ 350,000",
+        "US$350,000",
+        "$350,000",
+        "350,000"
+      ],
+      "reference_page": 2,
+      "actual": "US$ 350,000",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "grant_closing_date",
+      "expected": [
+        "January 31, 2005"
+      ],
+      "reference_page": 3,
+      "actual": "January 31, 2005",
+      "status": "grounded",
+      "correct": true,
+      "has_evidence": true,
+      "reference_note": ""
+    },
+    {
+      "field": "loan_interest_rate",
+      "expected": null,
+      "reference_page": null,
+      "actual": null,
+      "status": "abstained",
+      "correct": true,
+      "has_evidence": false,
+      "reference_note": "This is a grant; no loan interest rate is stated."
+    }
+  ]
+}

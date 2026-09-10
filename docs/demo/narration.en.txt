@@ -1,0 +1,35 @@
+Every answer. Back to evidence.
+An AI can give you an answer. EvidenceDoc lets you interrogate it. Here is a real document, and every step from a claim back to its source.
+
+01 / Document understanding
+Start with NVIDIA's original earnings report. Nemotron reads the document, identifies useful entities, and suggests an extraction schema. The source appears while the analysis is still running.
+
+02 / Follow the source
+People, organizations, dates, and amounts become searchable, source-linked entities. Select a value and the reader opens the right page, zooms in, and centers the cited occurrence.
+
+03 / Structured findings
+For a financial review, we can also request a consistent set of fields. Revenue, earnings per share, and payment dates remain connected to their supporting text. The document stays one click away.
+
+04 / No evidence. No supported answer.
+When the report does not identify an external auditor, the system returns no supported value. It does not turn general knowledge into document evidence. The activity log makes the review trace inspectable.
+
+05 / Explore source connections
+The evidence graph shows how entities connect to source pages. Filter to recurring entities, select a node, inspect its quoted context, and jump back into the document. These are source connections, not invented business relationships.
+
+06 / Two periods. Two original sources.
+Now compare two real reporting periods using the same fields. Quarterly revenue changes from fifty-seven billion to sixty-eight point one billion dollars. The dividend stays at one cent per share. Every change can be checked against both original documents.
+
+07 / Remove the evidence. Ask again.
+The most revealing test is subtraction. Select the dividend payment date and withhold its cited regions from a separate copy. EvidenceDoc removes the matching text and image regions, then asks the model again without its previous answer.
+
+08 / Inspect the observed outcome
+The original answer was April first, twenty twenty-six. With that evidence withheld, this run returns no supported value. That demonstrates dependence on the selected evidence. It is an experiment you can inspect, not a blanket guarantee of correctness.
+
+09 / Beyond digital PDFs
+The workflow also handles scanned documents. This original World Bank grant agreement uses Nemotron Super alongside a Nemotron Omni visual retry. Open the grant amount and inspect the supporting region on the scanned page.
+
+10 / Evidence you can reuse
+Export the structured evidence for another workflow. Values travel with their source references, bounding boxes, review status, and model trace. This demo uses original public PDFs and actual NVIDIA model responses.
+
+Discover. Inspect. Test.
+EvidenceDoc. Discover what matters. Inspect every claim. Test what the answer depends on. Built with NVIDIA Nemotron. Explore the project and try it on a document of your own.

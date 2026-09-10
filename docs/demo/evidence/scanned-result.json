@@ -1,0 +1,5924 @@
+{
+  "fields": [
+    {
+      "field": "project_grant_number",
+      "status": "grounded",
+      "value": "TF051711",
+      "evidence": [
+        {
+          "text": "Emergency Rehabilitation and Development Project - Grant TF051711",
+          "bbox": [
+            0.329199,
+            0.285017,
+            0.813162,
+            0.302371
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s23"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    {
+      "field": "grant_recipient",
+      "status": "grounded",
+      "value": "Transitional Islamic State of Afghanistan",
+      "evidence": [
+        {
+          "text": "Transitional Islamic State of Afghanistan",
+          "bbox": [
+            0.15766,
+            0.238031,
+            0.441186,
+            0.255386
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s17"
+        },
+        {
+          "text": "dollars (US$500,000) (the Grant) to the Transitional Islamic State of Afghanistan (the Recipient).",
+          "bbox": [
+            0.158074,
+            0.395365,
+            0.820993,
+            0.412728
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s28"
+        },
+        {
+          "text": "His Excellency Ashraf Ghani",
+          "bbox": [
+            0.217502,
+            0.881573,
+            0.420794,
+            0.898927
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s47"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    {
+      "field": "total_grant_amount",
+      "status": "grounded",
+      "value": "US$500,000",
+      "evidence": [
+        {
+          "text": "Development Fund, to make a grant in an amount not exceeding five hundred thousand United States",
+          "bbox": [
+            0.157353,
+            0.379607,
+            0.848472,
+            0.396961
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s27"
+        },
+        {
+          "text": "dollars (US$500,000) (the Grant) to the Transitional Islamic State of Afghanistan (the Recipient).",
+          "bbox": [
+            0.158074,
+            0.395365,
+            0.820993,
+            0.412728
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s28"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    {
+      "field": "recipient_finance_minister",
+      "status": "grounded",
+      "value": "His Excellency Ashraf Ghani",
+      "evidence": [
+        {
+          "text": "His Excellency Ashraf Ghani",
+          "bbox": [
+            0.15734,
+            0.190745,
+            0.360247,
+            0.208099
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s14"
+        },
+        {
+          "text": "Minister of Finance",
+          "bbox": [
+            0.156938,
+            0.206823,
+            0.294848,
+            0.224178
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s15"
+        },
+        {
+          "text": "His Excellency Ashraf Ghani",
+          "bbox": [
+            0.217502,
+            0.881573,
+            0.420794,
+            0.898927
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s47"
+        },
+        {
+          "text": "Minister of Finance",
+          "bbox": [
+            0.217485,
+            0.897028,
+            0.355394,
+            0.914386
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s48"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    {
+      "field": "part_a_estimated_budget",
+      "status": "grounded",
+      "value": "US$ 150,000",
+      "evidence": [
+        {
+          "text": "Part A: Improved Information Flow for Remote Provinces (Estimated to cost US$ 150,000)",
+          "bbox": [
+            0.167889,
+            0.39687,
+            0.838351,
+            0.414234
+          ],
+          "page": 2,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p2-s69"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    {
+      "field": "part_b_estimated_budget",
+      "status": "grounded",
+      "value": "US$ 350,000",
+      "evidence": [
+        {
+          "text": "Part B: Managing Health Partnerships with NGOs (Estimated to cost US$ 350,000)",
+          "bbox": [
+            0.168282,
+            0.490545,
+            0.781273,
+            0.507905
+          ],
+          "page": 2,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p2-s72"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    {
+      "field": "grant_closing_date",
+      "status": "grounded",
+      "value": "January 31, 2005",
+      "evidence": [
+        {
+          "text": "No withdrawals shall be made from the Grant Account after January 31, 2005 or",
+          "bbox": [
+            0.287191,
+            0.816862,
+            0.880089,
+            0.834385
+          ],
+          "page": 3,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p3-s145"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    {
+      "field": "loan_interest_rate",
+      "status": "abstained",
+      "value": null,
+      "evidence": [],
+      "alternatives": [],
+      "rejected_candidates": [
+        "five hundred thousand United States dollars (US$500,000)"
+      ],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "No sufficiently supported value. This does not prove the field is absent."
+    }
+  ],
+  "events": [
+    {
+      "stage": "read",
+      "message": "Read 10 pages and 411 source spans.",
+      "field": null
+    },
+    {
+      "stage": "extract",
+      "message": "Produced 8 candidates.",
+      "field": null,
+      "model": "nvidia/nemotron-3-super-120b-a12b"
+    },
+    {
+      "stage": "review",
+      "message": "The evidence 'Emergency Rehabilitation and Development Project - Grant TF051711' explicitly contains the grant number TF051711.",
+      "field": "project_grant_number",
+      "supported": true
+    },
+    {
+      "stage": "review",
+      "message": "The evidence 'Transitional Islamic State of Afghanistan' and the sentence '...to the Transitional Islamic State of Afghanistan (the Recipient).' explicitly identify the grant recipient.",
+      "field": "grant_recipient",
+      "supported": true
+    },
+    {
+      "stage": "review",
+      "message": "The evidence includes 'five hundred thousand United States' and 'dollars (US$500,000) (the Grant)...' which together explicitly state the total grant amount as US$500,000.",
+      "field": "total_grant_amount",
+      "supported": true
+    },
+    {
+      "stage": "review",
+      "message": "The evidence 'His Excellency Ashraf Ghani' appears twice and is directly adjacent to 'Minister of Finance' in the context, confirming the recipient's finance minister.",
+      "field": "recipient_finance_minister",
+      "supported": true
+    },
+    {
+      "stage": "review",
+      "message": "The evidence 'Part A: Improved Information Flow for Remote Provinces (Estimated to cost US$ 150,000)' explicitly states the estimated budget for Part A.",
+      "field": "part_a_estimated_budget",
+      "supported": true
+    },
+    {
+      "stage": "review",
+      "message": "The evidence 'Part B: Managing Health Partnerships with NGOs (Estimated to cost US$ 350,000)' explicitly states the estimated budget for Part B.",
+      "field": "part_b_estimated_budget",
+      "supported": true
+    },
+    {
+      "stage": "review",
+      "message": "The evidence 'No withdrawals shall be made from the Grant Account after January 31, 2005 or...' explicitly states the grant closing date as January 31, 2005.",
+      "field": "grant_closing_date",
+      "supported": true
+    },
+    {
+      "stage": "review",
+      "message": "The value 'five hundred thousand United States dollars (US$500,000)' refers to the grant amount, not a loan interest rate; no interest rate is mentioned in the evidence or nearby context.",
+      "field": "loan_interest_rate",
+      "supported": false
+    },
+    {
+      "stage": "reject",
+      "message": "Candidate is not a literal match in its cited source.",
+      "field": "loan_interest_rate",
+      "candidate": "five hundred thousand United States dollars (US$500,000)"
+    },
+    {
+      "stage": "retry",
+      "message": "Re-read the cited region.",
+      "field": "loan_interest_rate"
+    },
+    {
+      "stage": "coverage",
+      "message": "7 of 8 fields resolved; 0 conflicts; 1 abstentions.",
+      "field": null
+    }
+  ],
+  "counts": {
+    "grounded": 7,
+    "recovered": 0,
+    "conflict": 0,
+    "abstained": 1
+  },
+  "requested": 8,
+  "mode": "nvidia",
+  "model": "nvidia/nemotron-3-super-120b-a12b",
+  "model_calls": [
+    {
+      "model": "nvidia/nemotron-3-super-120b-a12b",
+      "response": {
+        "candidates": [
+          {
+            "field": "project_grant_number",
+            "value": "TF051711",
+            "span_ids": [
+              "p1-s23"
+            ]
+          },
+          {
+            "field": "grant_recipient",
+            "value": "Transitional Islamic State of Afghanistan",
+            "span_ids": [
+              "p1-s17",
+              "p1-s28",
+              "p1-s47"
+            ]
+          },
+          {
+            "field": "total_grant_amount",
+            "value": "US$500,000",
+            "span_ids": [
+              "p1-s27",
+              "p1-s28"
+            ]
+          },
+          {
+            "field": "recipient_finance_minister",
+            "value": "His Excellency Ashraf Ghani",
+            "span_ids": [
+              "p1-s14",
+              "p1-s15",
+              "p1-s47",
+              "p1-s48"
+            ]
+          },
+          {
+            "field": "part_a_estimated_budget",
+            "value": "US$ 150,000",
+            "span_ids": [
+              "p2-s69"
+            ]
+          },
+          {
+            "field": "part_b_estimated_budget",
+            "value": "US$ 350,000",
+            "span_ids": [
+              "p2-s72"
+            ]
+          },
+          {
+            "field": "grant_closing_date",
+            "value": "January 31, 2005",
+            "span_ids": [
+              "p3-s145"
+            ]
+          },
+          {
+            "field": "loan_interest_rate",
+            "value": "five hundred thousand United States dollars (US$500,000)",
+            "span_ids": [
+              "p1-s27"
+            ]
+          }
+        ]
+      },
+      "elapsed_seconds": 7.5,
+      "usage": {
+        "prompt_tokens": 11934,
+        "completion_tokens": 301,
+        "total_tokens": 12235,
+        "prompt_tokens_details": {
+          "audio_tokens": null,
+          "cached_tokens": 4224
+        }
+      },
+      "request_id": null
+    },
+    {
+      "model": "nvidia/nemotron-3-super-120b-a12b",
+      "response": {
+        "decisions": [
+          {
+            "index": 0,
+            "supported": true,
+            "reason": "The evidence 'Emergency Rehabilitation and Development Project - Grant TF051711' explicitly contains the grant number TF051711."
+          },
+          {
+            "index": 1,
+            "supported": true,
+            "reason": "The evidence 'Transitional Islamic State of Afghanistan' and the sentence '...to the Transitional Islamic State of Afghanistan (the Recipient).' explicitly identify the grant recipient."
+          },
+          {
+            "index": 2,
+            "supported": true,
+            "reason": "The evidence includes 'five hundred thousand United States' and 'dollars (US$500,000) (the Grant)...' which together explicitly state the total grant amount as US$500,000."
+          },
+          {
+            "index": 3,
+            "supported": true,
+            "reason": "The evidence 'His Excellency Ashraf Ghani' appears twice and is directly adjacent to 'Minister of Finance' in the context, confirming the recipient's finance minister."
+          },
+          {
+            "index": 4,
+            "supported": true,
+            "reason": "The evidence 'Part A: Improved Information Flow for Remote Provinces (Estimated to cost US$ 150,000)' explicitly states the estimated budget for Part A."
+          },
+          {
+            "index": 5,
+            "supported": true,
+            "reason": "The evidence 'Part B: Managing Health Partnerships with NGOs (Estimated to cost US$ 350,000)' explicitly states the estimated budget for Part B."
+          },
+          {
+            "index": 6,
+            "supported": true,
+            "reason": "The evidence 'No withdrawals shall be made from the Grant Account after January 31, 2005 or...' explicitly states the grant closing date as January 31, 2005."
+          },
+          {
+            "index": 7,
+            "supported": false,
+            "reason": "The value 'five hundred thousand United States dollars (US$500,000)' refers to the grant amount, not a loan interest rate; no interest rate is mentioned in the evidence or nearby context."
+          }
+        ]
+      },
+      "elapsed_seconds": 2.92,
+      "usage": {
+        "prompt_tokens": 2325,
+        "completion_tokens": 452,
+        "total_tokens": 2777
+      },
+      "request_id": null
+    },
+    {
+      "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning",
+      "response": {
+        "value": null,
+        "supported": false
+      },
+      "elapsed_seconds": 1.05,
+      "usage": {
+        "prompt_tokens": 218,
+        "completion_tokens": 10,
+        "total_tokens": 228
+      },
+      "request_id": null
+    }
+  ],
+  "fault_injection": false,
+  "elapsed_seconds": 12.923,
+  "confidence_note": "Confidence is null: no calibrated probability model has been evaluated.",
+  "limitations": "Source support is not a guarantee of semantic correctness. OCR and correlated model errors remain possible.",
+  "pipeline_elapsed_seconds": 11.519,
+  "document": {
+    "pages": [
+      {
+        "number": 1,
+        "width": 1229,
+        "height": 1584,
+        "source": "pdf-text"
+      },
+      {
+        "number": 2,
+        "width": 1229,
+        "height": 1584,
+        "source": "pdf-text"
+      },
+      {
+        "number": 3,
+        "width": 1229,
+        "height": 1584,
+        "source": "pdf-text"
+      },
+      {
+        "number": 4,
+        "width": 1229,
+        "height": 1584,
+        "source": "pdf-text"
+      },
+      {
+        "number": 5,
+        "width": 1229,
+        "height": 1584,
+        "source": "pdf-text"
+      },
+      {
+        "number": 6,
+        "width": 1229,
+        "height": 1584,
+        "source": "pdf-text"
+      },
+      {
+        "number": 7,
+        "width": 1229,
+        "height": 1584,
+        "source": "pdf-text"
+      },
+      {
+        "number": 8,
+        "width": 1229,
+        "height": 1584,
+        "source": "pdf-text"
+      },
+      {
+        "number": 9,
+        "width": 1229,
+        "height": 1584,
+        "source": "pdf-text"
+      },
+      {
+        "number": 10,
+        "width": 1229,
+        "height": 1584,
+        "source": "pdf-text"
+      }
+    ],
+    "spans": [
+      {
+        "text": "The World Bank",
+        "bbox": [
+          0.072949,
+          0.102463,
+          0.209656,
+          0.120202
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s1"
+      },
+      {
+        "text": "INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+        "bbox": [
+          0.073145,
+          0.119399,
+          0.445756,
+          0.130852
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s2"
+      },
+      {
+        "text": "INTERNATIONAL DEVELOPMENT ASSOCIATION",
+        "bbox": [
+          0.072758,
+          0.130919,
+          0.329078,
+          0.142372
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s3"
+      },
+      {
+        "text": "1818 H Street N.W.",
+        "bbox": [
+          0.516016,
+          0.105706,
+          0.628793,
+          0.119272
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s4"
+      },
+      {
+        "text": "Washington, D.C. 20433",
+        "bbox": [
+          0.515202,
+          0.118312,
+          0.660488,
+          0.131154
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s5"
+      },
+      {
+        "text": "U.S.A.",
+        "bbox": [
+          0.515346,
+          0.129827,
+          0.554688,
+          0.142669
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s6"
+      },
+      {
+        "text": "(202) 477-1234",
+        "bbox": [
+          0.730255,
+          0.105891,
+          0.819841,
+          0.118733
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s7"
+      },
+      {
+        "text": "Cable Address: INTBAFRAD",
+        "bbox": [
+          0.730291,
+          0.118611,
+          0.89777,
+          0.131453
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s8"
+      },
+      {
+        "text": "Cable Address: INDEVAS",
+        "bbox": [
+          0.730291,
+          0.129827,
+          0.881709,
+          0.142669
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s9"
+      },
+      {
+        "text": "mc-4 ~1 . 2003",
+        "bbox": [
+          0.696712,
+          0.157664,
+          0.847116,
+          0.200227
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s10"
+      },
+      {
+        "text": ".,--.",
+        "bbox": [
+          0.897852,
+          0.177117,
+          0.934992,
+          0.194471
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s11"
+      },
+      {
+        "text": ". JI r.",
+        "bbox": [
+          0.79305,
+          0.179364,
+          0.872733,
+          0.213137
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s12"
+      },
+      {
+        "text": "I ~t",
+        "bbox": [
+          0.894352,
+          0.190054,
+          0.943701,
+          0.210102
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s13"
+      },
+      {
+        "text": "His Excellency Ashraf Ghani",
+        "bbox": [
+          0.15734,
+          0.190745,
+          0.360247,
+          0.208099
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s14"
+      },
+      {
+        "text": "Minister of Finance",
+        "bbox": [
+          0.156938,
+          0.206823,
+          0.294848,
+          0.224178
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s15"
+      },
+      {
+        "text": "Kabul",
+        "bbox": [
+          0.157342,
+          0.22259,
+          0.202161,
+          0.239944
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s16"
+      },
+      {
+        "text": "Transitional Islamic State of Afghanistan",
+        "bbox": [
+          0.15766,
+          0.238031,
+          0.441186,
+          0.255386
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s17"
+      },
+      {
+        "text": "OFFICIAL.",
+        "bbox": [
+          0.489583,
+          0.190633,
+          0.604129,
+          0.223468
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s18"
+      },
+      {
+        "text": "D0CUt~1ENTS",
+        "bbox": [
+          0.4618,
+          0.218544,
+          0.623462,
+          0.253105
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s19"
+      },
+      {
+        "text": "11'- /!ut'l\" d c,- ' •",
+        "bbox": [
+          0.659635,
+          0.176965,
+          0.927308,
+          0.234767
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s20"
+      },
+      {
+        "text": "~~!~(s-111)",
+        "bbox": [
+          0.634993,
+          0.224253,
+          0.953844,
+          0.271596
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s21"
+      },
+      {
+        "text": "Re: Japan Social~D:e:v'\"\"e7lo~p'.'::m\"'\"e~n~t~F:'.\"'un~-_J for the Health Sector",
+        "bbox": [
+          0.329215,
+          0.268054,
+          0.778329,
+          0.285408
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s22"
+      },
+      {
+        "text": "Emergency Rehabilitation and Development Project - Grant TF051711",
+        "bbox": [
+          0.329199,
+          0.285017,
+          0.813162,
+          0.302371
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s23"
+      },
+      {
+        "text": "Excellency:",
+        "bbox": [
+          0.157734,
+          0.316551,
+          0.240331,
+          0.333905
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s24"
+      },
+      {
+        "text": "I am writing on behalf of the International Development Association (IDA) to indicate",
+        "bbox": [
+          0.215135,
+          0.347773,
+          0.848779,
+          0.365129
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s25"
+      },
+      {
+        "text": "IDA's agreement, as administrator of grant funds provided by Japan under the Japan Social",
+        "bbox": [
+          0.157699,
+          0.362897,
+          0.848552,
+          0.38143
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s26"
+      },
+      {
+        "text": "Development Fund, to make a grant in an amount not exceeding five hundred thousand United States",
+        "bbox": [
+          0.157353,
+          0.379607,
+          0.848472,
+          0.396961
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s27"
+      },
+      {
+        "text": "dollars (US$500,000) (the Grant) to the Transitional Islamic State of Afghanistan (the Recipient).",
+        "bbox": [
+          0.158074,
+          0.395365,
+          0.820993,
+          0.412728
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s28"
+      },
+      {
+        "text": "The Grant is made in response to the Recipient's request for financial assistance for the",
+        "bbox": [
+          0.215095,
+          0.426586,
+          0.848668,
+          0.44394
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s29"
+      },
+      {
+        "text": "project described in paragraph 1.2 of the Annex to this Letter Agreement (the Project) and on the",
+        "bbox": [
+          0.15781,
+          0.442349,
+          0.848706,
+          0.459707
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s30"
+      },
+      {
+        "text": "terms and conditions set forth in the said Annex. The Recipient represents, by confirming its",
+        "bbox": [
+          0.158167,
+          0.458111,
+          0.84912,
+          0.47547
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s31"
+      },
+      {
+        "text": "agreement below, that it is authorized to contract and withdraw the Grant for the said Project and on",
+        "bbox": [
+          0.158419,
+          0.473553,
+          0.849684,
+          0.490912
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s32"
+      },
+      {
+        "text": "the said terms and conditions.",
+        "bbox": [
+          0.158173,
+          0.489338,
+          0.363029,
+          0.506692
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s33"
+      },
+      {
+        "text": "Please note that it is IDA's policy to make publicly available this Letter A'.greement and",
+        "bbox": [
+          0.215171,
+          0.520845,
+          0.849815,
+          0.538199
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s34"
+      },
+      {
+        "text": "any information related thereto, after this Letter Agreement has become effective and the",
+        "bbox": [
+          0.158789,
+          0.536911,
+          0.849241,
+          0.554265
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s35"
+      },
+      {
+        "text": "Recipient has given its consent to such disclosure. The Recipient, by countersigning this Letter",
+        "bbox": [
+          0.158471,
+          0.552366,
+          0.849954,
+          0.569724
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s36"
+      },
+      {
+        "text": "Agreement, confirms its consent to such disclosure.",
+        "bbox": [
+          0.158556,
+          0.568149,
+          0.52353,
+          0.585503
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s37"
+      },
+      {
+        "text": "Please confirm your agreement with the foregoing, on behalf of the Recipient, by signing,",
+        "bbox": [
+          0.215538,
+          0.599366,
+          0.848824,
+          0.616725
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s38"
+      },
+      {
+        "text": "dating, and returning to us the enclosed copy of this Letter Agreement. Upon receipt by IDA of the",
+        "bbox": [
+          0.158821,
+          0.615128,
+          0.849477,
+          0.632487
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s39"
+      },
+      {
+        "text": "copy of this Letter Agreement countersigned by you, this Letter Agreement will become effective as",
+        "bbox": [
+          0.158821,
+          0.630878,
+          0.848874,
+          0.648236
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s40"
+      },
+      {
+        "text": "of the date of the countersignature.",
+        "bbox": [
+          0.158805,
+          0.646653,
+          0.397859,
+          0.664007
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s41"
+      },
+      {
+        "text": "Very truly yours,",
+        "bbox": [
+          0.450349,
+          0.677576,
+          0.569771,
+          0.69493
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s42"
+      },
+      {
+        "text": "INTERNATIONAL DEVELOPMENT ASSOCIATION",
+        "bbox": [
+          0.311205,
+          0.693642,
+          0.703751,
+          0.710996
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s43"
+      },
+      {
+        "text": "air J. McKechnie",
+        "bbox": [
+          0.46309,
+          0.755743,
+          0.583011,
+          0.774276
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s44"
+      },
+      {
+        "text": "Coun",
+        "bbox": [
+          0.389671,
+          0.772441,
+          0.431217,
+          0.789795
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s45"
+      },
+      {
+        "text": "irector for Afghanistan",
+        "bbox": [
+          0.461976,
+          0.772441,
+          0.62124,
+          0.789795
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s46"
+      },
+      {
+        "text": "His Excellency Ashraf Ghani",
+        "bbox": [
+          0.217502,
+          0.881573,
+          0.420794,
+          0.898927
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s47"
+      },
+      {
+        "text": "Minister of Finance",
+        "bbox": [
+          0.217485,
+          0.897028,
+          0.355394,
+          0.914386
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s48"
+      },
+      {
+        "text": "South Asia Region",
+        "bbox": [
+          0.439932,
+          0.787913,
+          0.571958,
+          0.805267
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s49"
+      },
+      {
+        "text": "Public Disclosure Authorized",
+        "bbox": [
+          0.008545,
+          0.028721,
+          0.030908,
+          0.189451
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s50"
+      },
+      {
+        "text": "Public Disclosure Authorized",
+        "bbox": [
+          0.008545,
+          0.243432,
+          0.030908,
+          0.404163
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s51"
+      },
+      {
+        "text": "Public Disclosure Authorized",
+        "bbox": [
+          0.008545,
+          0.445514,
+          0.030908,
+          0.606244
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s52"
+      },
+      {
+        "text": "Public Disclosure Authorized",
+        "bbox": [
+          0.008545,
+          0.672855,
+          0.030908,
+          0.833586
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s53"
+      },
+      {
+        "text": "2",
+        "bbox": [
+          0.517057,
+          0.045181,
+          0.530224,
+          0.062014
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s54"
+      },
+      {
+        "text": "ANNEX",
+        "bbox": [
+          0.811296,
+          0.09137,
+          0.877445,
+          0.112711
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s55"
+      },
+      {
+        "text": "Objectives, Terms, and Conditions of the Grant",
+        "bbox": [
+          0.344727,
+          0.125703,
+          0.703087,
+          0.143721
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s56"
+      },
+      {
+        "text": "1.",
+        "bbox": [
+          0.170182,
+          0.173479,
+          0.184294,
+          0.190833
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s57"
+      },
+      {
+        "text": "Objectives and Description of the Project",
+        "bbox": [
+          0.227181,
+          0.173479,
+          0.519238,
+          0.190833
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s58"
+      },
+      {
+        "text": "1.1.",
+        "bbox": [
+          0.169738,
+          0.205911,
+          0.197876,
+          0.223265
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s59"
+      },
+      {
+        "text": "The objectives of the Project are to: (i) improve the delivery of basic health services such as",
+        "bbox": [
+          0.227206,
+          0.205911,
+          0.87678,
+          0.223268
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s60"
+      },
+      {
+        "text": "immunization, maternal care, and family planning, in under-served areas of the Recipient's country",
+        "bbox": [
+          0.168997,
+          0.221979,
+          0.878086,
+          0.239334
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s61"
+      },
+      {
+        "text": "by strengthening the ability of the Recipient to work systematically with non-governmental",
+        "bbox": [
+          0.168376,
+          0.238032,
+          0.877261,
+          0.255386
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s62"
+      },
+      {
+        "text": "organizations (NGOs); (ii) establish and manage performance-based partnership agreements; and (iii)",
+        "bbox": [
+          0.168606,
+          0.254111,
+          0.876882,
+          0.271465
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s63"
+      },
+      {
+        "text": "enhance the institutional capacity of the Ministry of Public Health of the Recipient (MOPH) by",
+        "bbox": [
+          0.168187,
+          0.270463,
+          0.878685,
+          0.28782
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s64"
+      },
+      {
+        "text": "improving communication between MOPH's central and provincial offices.",
+        "bbox": [
+          0.168213,
+          0.286241,
+          0.699478,
+          0.303595
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s65"
+      },
+      {
+        "text": "1.2.",
+        "bbox": [
+          0.169719,
+          0.341711,
+          0.198372,
+          0.359065
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s66"
+      },
+      {
+        "text": "The Project consists of the following Parts, each of which includes the following",
+        "bbox": [
+          0.226801,
+          0.341711,
+          0.877144,
+          0.359066
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s67"
+      },
+      {
+        "text": "activities:",
+        "bbox": [
+          0.168174,
+          0.357167,
+          0.240973,
+          0.374521
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s68"
+      },
+      {
+        "text": "Part A: Improved Information Flow for Remote Provinces (Estimated to cost US$ 150,000)",
+        "bbox": [
+          0.167889,
+          0.39687,
+          0.838351,
+          0.414234
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s69"
+      },
+      {
+        "text": "Provision of goods, including computers and high frequency radios powered by solar",
+        "bbox": [
+          0.226856,
+          0.43568,
+          0.877913,
+          0.45304
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s70"
+      },
+      {
+        "text": "panels for voice-data communications, in selected remote provincial health offices.",
+        "bbox": [
+          0.167994,
+          0.451746,
+          0.769189,
+          0.4691
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s71"
+      },
+      {
+        "text": "Part B: Managing Health Partnerships with NGOs (Estimated to cost US$ 350,000)",
+        "bbox": [
+          0.168282,
+          0.490545,
+          0.781273,
+          0.507905
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s72"
+      },
+      {
+        "text": "The carrying out, through the provision of goods, consultant services and training, of a",
+        "bbox": [
+          0.226803,
+          0.529937,
+          0.87708,
+          0.547292
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s73"
+      },
+      {
+        "text": "program to assist in establishing and managing performance-based partnership agreements with",
+        "bbox": [
+          0.168,
+          0.546005,
+          0.877838,
+          0.563359
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s74"
+      },
+      {
+        "text": "NGOs to expand health service delivery to under-served rural areas.",
+        "bbox": [
+          0.16766,
+          0.562082,
+          0.660795,
+          0.579436
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s75"
+      },
+      {
+        "text": "2.",
+        "bbox": [
+          0.168269,
+          0.616928,
+          0.183957,
+          0.634282
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s76"
+      },
+      {
+        "text": "Implementation Generally",
+        "bbox": [
+          0.226844,
+          0.616928,
+          0.415236,
+          0.634282
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s77"
+      },
+      {
+        "text": "2.1.",
+        "bbox": [
+          0.167883,
+          0.649359,
+          0.197449,
+          0.666713
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s78"
+      },
+      {
+        "text": "The Recipient shall: (a) carry out the Project, through the Ministry of Public Health, with",
+        "bbox": [
+          0.226424,
+          0.649359,
+          0.877981,
+          0.666723
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s79"
+      },
+      {
+        "text": "due diligence and efficiency; (b) promptly provide the funds, facilities, services and other resources",
+        "bbox": [
+          0.168193,
+          0.665448,
+          0.87704,
+          0.682802
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s80"
+      },
+      {
+        "text": "required for that purpose; (c) furnish all information covering the Project and the use of the proceeds",
+        "bbox": [
+          0.167522,
+          0.6818,
+          0.8773,
+          0.699157
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s81"
+      },
+      {
+        "text": "of the Grant as IDA shall reasonably request; (d) from time to time exchange views with IDA's",
+        "bbox": [
+          0.16818,
+          0.697868,
+          0.877177,
+          0.715222
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s82"
+      },
+      {
+        "text": "representatives on the progress and results of the Project; (e) take all necessary measures required to",
+        "bbox": [
+          0.16756,
+          0.713946,
+          0.876759,
+          0.731301
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s83"
+      },
+      {
+        "text": "enable IDA to visit the territory of the Recipient for purposes related to the Grant; and (f) cause all",
+        "bbox": [
+          0.168188,
+          0.730299,
+          0.876857,
+          0.747656
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s84"
+      },
+      {
+        "text": "goods and services financed out of the proceeds of the Grant to be used exclusively for the purposes",
+        "bbox": [
+          0.16823,
+          0.746077,
+          0.877296,
+          0.763436
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s85"
+      },
+      {
+        "text": "of the Project. Without limitation on the foregoing, the Recipient shall, if IDA shall so request,",
+        "bbox": [
+          0.16818,
+          0.762143,
+          0.876575,
+          0.779497
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s86"
+      },
+      {
+        "text": "prepare and furnish to IDA promptly upon completion of the Project a report, in form and substance",
+        "bbox": [
+          0.167608,
+          0.778208,
+          0.877222,
+          0.795563
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s87"
+      },
+      {
+        "text": "satisfactory to IDA, on the results and impact of the Project.",
+        "bbox": [
+          0.16851,
+          0.793971,
+          0.588958,
+          0.811329
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s88"
+      },
+      {
+        "text": "3.",
+        "bbox": [
+          0.168555,
+          0.841864,
+          0.184091,
+          0.859218
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s89"
+      },
+      {
+        "text": "Procurement",
+        "bbox": [
+          0.226872,
+          0.841864,
+          0.321265,
+          0.859218
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s90"
+      },
+      {
+        "text": "3.1.",
+        "bbox": [
+          0.168549,
+          0.873697,
+          0.197993,
+          0.891051
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s91"
+      },
+      {
+        "text": "Except as IDA shall otherwise agree, procurement of the goods and consultants' services",
+        "bbox": [
+          0.231532,
+          0.873692,
+          0.877874,
+          0.891051
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s92"
+      },
+      {
+        "text": "required for the Project and to be financed out of the proceeds of the Grant shall be governed by",
+        "bbox": [
+          0.167952,
+          0.889454,
+          0.877904,
+          0.906813
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s93"
+      },
+      {
+        "text": "the provisions of Attachment I to this Annex.",
+        "bbox": [
+          0.168311,
+          0.905216,
+          0.497236,
+          0.92257
+        ],
+        "page": 2,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p2-s94"
+      },
+      {
+        "text": "-3-",
+        "bbox": [
+          0.510742,
+          0.04378,
+          0.531076,
+          0.061471
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s95"
+      },
+      {
+        "text": "3.2.",
+        "bbox": [
+          0.169336,
+          0.0924,
+          0.198227,
+          0.109923
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s96"
+      },
+      {
+        "text": "The Recipient shall ensure that all imported goods to be financed out of the proceeds of the",
+        "bbox": [
+          0.227193,
+          0.0924,
+          0.876958,
+          0.109923
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s97"
+      },
+      {
+        "text": "Grant shall be insured against hazards incident to the acquisition, transportation and delivery thereof",
+        "bbox": [
+          0.168981,
+          0.108478,
+          0.879788,
+          0.126
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s98"
+      },
+      {
+        "text": "to the place of use or installation, and that any indemnity for such insurance is payable in a freely",
+        "bbox": [
+          0.168338,
+          0.124529,
+          0.876734,
+          0.142054
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s99"
+      },
+      {
+        "text": "usable currency to replace or repair such goods. The Recipient shall ensure that any facilities",
+        "bbox": [
+          0.168353,
+          0.140609,
+          0.876853,
+          0.158131
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s100"
+      },
+      {
+        "text": "relevant to the Project are at all times operated and maintained in accordance with appropriate",
+        "bbox": [
+          0.167947,
+          0.156962,
+          0.877024,
+          0.174485
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s101"
+      },
+      {
+        "text": "practices and that any repairs or renewals of such facilities are promptly made as needed.",
+        "bbox": [
+          0.167997,
+          0.173342,
+          0.78999,
+          0.190869
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s102"
+      },
+      {
+        "text": "4.",
+        "bbox": [
+          0.168294,
+          0.205174,
+          0.18387,
+          0.222697
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s103"
+      },
+      {
+        "text": "Withdrawal of Grant Proceeds",
+        "bbox": [
+          0.226888,
+          0.205174,
+          0.444209,
+          0.222697
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s104"
+      },
+      {
+        "text": "4.1.",
+        "bbox": [
+          0.168288,
+          0.237303,
+          0.197734,
+          0.254826
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s105"
+      },
+      {
+        "text": "The amount of the Grant shall be credited to an account opened by IDA on its books in the",
+        "bbox": [
+          0.226805,
+          0.237303,
+          0.877373,
+          0.254828
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s106"
+      },
+      {
+        "text": "name of the Recipient (the Grant Account), and may be withdrawn therefrom by the Recipient in",
+        "bbox": [
+          0.167975,
+          0.253357,
+          0.87821,
+          0.270881
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s107"
+      },
+      {
+        "text": "accordance with the provisions of this Section 4, for expenditures in respect of the reasonable cost of",
+        "bbox": [
+          0.168566,
+          0.269436,
+          0.88116,
+          0.286959
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s108"
+      },
+      {
+        "text": "goods and services required for the Project and to be financed out of the proceeds of the Grant.",
+        "bbox": [
+          0.168604,
+          0.285792,
+          0.829685,
+          0.303315
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s109"
+      },
+      {
+        "text": "4.2.",
+        "bbox": [
+          0.168294,
+          0.318236,
+          0.19774,
+          0.335759
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s110"
+      },
+      {
+        "text": "The table below sets forth the Categories of items to be financed out of the proceeds of the",
+        "bbox": [
+          0.2272,
+          0.318236,
+          0.877155,
+          0.335761
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s111"
+      },
+      {
+        "text": "Grant, the allocation of the amounts of the Grant to each Category, and the percentage of",
+        "bbox": [
+          0.168594,
+          0.334303,
+          0.88116,
+          0.351827
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s112"
+      },
+      {
+        "text": "expenditures for items so to be financed in each Category:",
+        "bbox": [
+          0.168571,
+          0.35037,
+          0.576012,
+          0.367892
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s113"
+      },
+      {
+        "text": "Amount of the Grant",
+        "bbox": [
+          0.413659,
+          0.382499,
+          0.564025,
+          0.400023
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s114"
+      },
+      {
+        "text": "%of",
+        "bbox": [
+          0.746289,
+          0.382501,
+          0.787443,
+          0.400023
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s115"
+      },
+      {
+        "text": "Allocated",
+        "bbox": [
+          0.452702,
+          0.398263,
+          0.524955,
+          0.415786
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s116"
+      },
+      {
+        "text": "Expenditures to",
+        "bbox": [
+          0.708504,
+          0.398263,
+          0.821218,
+          0.415786
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s117"
+      },
+      {
+        "text": "Category",
+        "bbox": [
+          0.213895,
+          0.414314,
+          0.282524,
+          0.431837
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s118"
+      },
+      {
+        "text": "(in United Stated dollars)",
+        "bbox": [
+          0.398637,
+          0.414314,
+          0.578216,
+          0.431837
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s119"
+      },
+      {
+        "text": "be Financed",
+        "bbox": [
+          0.720336,
+          0.414314,
+          0.809874,
+          0.431837
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s120"
+      },
+      {
+        "text": "( 1) Consultants'",
+        "bbox": [
+          0.17051,
+          0.446759,
+          0.290388,
+          0.464285
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s121"
+      },
+      {
+        "text": "315,000",
+        "bbox": [
+          0.458396,
+          0.446763,
+          0.519359,
+          0.464285
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s122"
+      },
+      {
+        "text": "100%",
+        "bbox": [
+          0.743939,
+          0.446447,
+          0.787662,
+          0.46397
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s123"
+      },
+      {
+        "text": "servtces",
+        "bbox": [
+          0.170839,
+          0.463129,
+          0.230798,
+          0.480652
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s124"
+      },
+      {
+        "text": "(2) Training",
+        "bbox": [
+          0.170501,
+          0.479194,
+          0.259375,
+          0.496716
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s125"
+      },
+      {
+        "text": "10,000",
+        "bbox": [
+          0.463864,
+          0.478892,
+          0.515082,
+          0.496414
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s126"
+      },
+      {
+        "text": "100%",
+        "bbox": [
+          0.743939,
+          0.478892,
+          0.788184,
+          0.496414
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s127"
+      },
+      {
+        "text": "(3) Goods",
+        "bbox": [
+          0.17089,
+          0.511612,
+          0.244701,
+          0.529134
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s128"
+      },
+      {
+        "text": "175,000",
+        "bbox": [
+          0.459954,
+          0.511323,
+          0.519317,
+          0.528845
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s129"
+      },
+      {
+        "text": "100%",
+        "bbox": [
+          0.744329,
+          0.511323,
+          0.788052,
+          0.528845
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s130"
+      },
+      {
+        "text": "TOTAL",
+        "bbox": [
+          0.170551,
+          0.559818,
+          0.233106,
+          0.577341
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s131"
+      },
+      {
+        "text": "500,000",
+        "bbox": [
+          0.459141,
+          0.559201,
+          0.519595,
+          0.576723
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s132"
+      },
+      {
+        "text": "4.3.",
+        "bbox": [
+          0.169062,
+          0.640154,
+          0.19903,
+          0.657676
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s133"
+      },
+      {
+        "text": "Notwithstanding the provisions of paragraph 4.2 above:",
+        "bbox": [
+          0.227799,
+          0.640154,
+          0.619138,
+          0.657677
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s134"
+      },
+      {
+        "text": "(a)",
+        "bbox": [
+          0.228319,
+          0.67227,
+          0.251203,
+          0.689793
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s135"
+      },
+      {
+        "text": "No withdrawals shall be made from the Grant Account: (i) for payments made for",
+        "bbox": [
+          0.286802,
+          0.67227,
+          0.878046,
+          0.689793
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s136"
+      },
+      {
+        "text": "expenditures prior to the date of signature of this Letter Agreement by IDA; (ii) on account of",
+        "bbox": [
+          0.169734,
+          0.688335,
+          0.882332,
+          0.705861
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s137"
+      },
+      {
+        "text": "payments for any taxes levied by, or in the territory of the Recipient on goods; (iii) on account of",
+        "bbox": [
+          0.169173,
+          0.704404,
+          0.882332,
+          0.721926
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s138"
+      },
+      {
+        "text": "expenditures in the territories of any country which is not a member of the International Bank for",
+        "bbox": [
+          0.169743,
+          0.720469,
+          0.878448,
+          0.737992
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s139"
+      },
+      {
+        "text": "Reconstruction and Development or for goods produced in or services supplied from such territories;",
+        "bbox": [
+          0.169848,
+          0.736547,
+          0.878203,
+          0.754069
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s140"
+      },
+      {
+        "text": "or (iv) for the purpose of any payment to persons or entities, or for any import of goods if such",
+        "bbox": [
+          0.170204,
+          0.752611,
+          0.879652,
+          0.770135
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s141"
+      },
+      {
+        "text": "payment or import, to IDA's knowledge, is prohibited by a decision of the United Nations Security",
+        "bbox": [
+          0.169571,
+          0.768677,
+          0.879643,
+          0.786201
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s142"
+      },
+      {
+        "text": "Council taken under Chapter VII of the Charter of the United Nations;",
+        "bbox": [
+          0.170131,
+          0.785032,
+          0.662321,
+          0.802557
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s143"
+      },
+      {
+        "text": "(b)",
+        "bbox": [
+          0.229102,
+          0.816729,
+          0.253193,
+          0.83442
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s144"
+      },
+      {
+        "text": "No withdrawals shall be made from the Grant Account after January 31, 2005 or",
+        "bbox": [
+          0.287191,
+          0.816862,
+          0.880089,
+          0.834385
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s145"
+      },
+      {
+        "text": "such later date that IDA shall establish by notice to the Recipient (the Closing Date); and",
+        "bbox": [
+          0.170431,
+          0.83294,
+          0.792118,
+          0.850463
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s146"
+      },
+      {
+        "text": "( c)",
+        "bbox": [
+          0.229471,
+          0.864465,
+          0.252546,
+          0.881988
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s147"
+      },
+      {
+        "text": "If, in IDA' s opinion, an amount of the Grant allocated to any of the Categories in",
+        "bbox": [
+          0.287809,
+          0.863904,
+          0.879009,
+          0.882299
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s148"
+      },
+      {
+        "text": "the table in paragraph 4.2 above will be insufficient to finance the expenditures under such Category,",
+        "bbox": [
+          0.170675,
+          0.880227,
+          0.879155,
+          0.89775
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s149"
+      },
+      {
+        "text": "IDA may, by written notice to the Recipient, reallocate to such Category an amount of the Grant then",
+        "bbox": [
+          0.171014,
+          0.896292,
+          0.879713,
+          0.913815
+        ],
+        "page": 3,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p3-s150"
+      },
+      {
+        "text": "-4-",
+        "bbox": [
+          0.512288,
+          0.042775,
+          0.532633,
+          0.060971
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s151"
+      },
+      {
+        "text": "allocated to another Category which, m IDA's opm1on, will not be necessary to meet other",
+        "bbox": [
+          0.170524,
+          0.091637,
+          0.879276,
+          0.108991
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s152"
+      },
+      {
+        "text": "expenditures.",
+        "bbox": [
+          0.17012,
+          0.108002,
+          0.266303,
+          0.125356
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s153"
+      },
+      {
+        "text": "4.4.",
+        "bbox": [
+          0.169449,
+          0.140433,
+          0.199457,
+          0.157787
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s154"
+      },
+      {
+        "text": "When the Recipient shall desire to withdraw any amount from the Grant Account, it shall",
+        "bbox": [
+          0.228426,
+          0.140433,
+          0.878245,
+          0.157787
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s155"
+      },
+      {
+        "text": "deliver to IDA a written application for withdrawal of such amount in the form specified by IDA.",
+        "bbox": [
+          0.169751,
+          0.156486,
+          0.877191,
+          0.173846
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s156"
+      },
+      {
+        "text": "Withdrawal applications shall be: (a) signed on behalf of the Recipient by the Recipient's Minister of",
+        "bbox": [
+          0.169459,
+          0.17257,
+          0.882332,
+          0.189925
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s157"
+      },
+      {
+        "text": "Finance or such other person as he or she shall have authorized in writing; and (b) accompanied by",
+        "bbox": [
+          0.169466,
+          0.188926,
+          0.879546,
+          0.20628
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s158"
+      },
+      {
+        "text": "such evidence in support of the application as IDA shall reasonably request. Authenticated specimen",
+        "bbox": [
+          0.170053,
+          0.204701,
+          0.879285,
+          0.22206
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s159"
+      },
+      {
+        "text": "signatures of the person authorized to sign withdrawal applications shall be provided with the first",
+        "bbox": [
+          0.170054,
+          0.220463,
+          0.878733,
+          0.237822
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s160"
+      },
+      {
+        "text": "application bearing his or her signature. Each withdrawal application for an amount of the Grant and",
+        "bbox": [
+          0.169745,
+          0.236829,
+          0.879111,
+          0.254186
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s161"
+      },
+      {
+        "text": "its supporting evidence must be sufficient in form and substance to satisfy IDA that the Recipient is",
+        "bbox": [
+          0.169763,
+          0.252898,
+          0.878183,
+          0.270252
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s162"
+      },
+      {
+        "text": "entitled to withdraw such amount from the Grant Account and that such amount is to be used in the",
+        "bbox": [
+          0.169327,
+          0.269263,
+          0.878357,
+          0.286617
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s163"
+      },
+      {
+        "text": "carrying out of the Project. IDA shall pay the amounts withdrawn by the Recipient from the Grant",
+        "bbox": [
+          0.169343,
+          0.285317,
+          0.879132,
+          0.302673
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s164"
+      },
+      {
+        "text": "Account only to or on the order of the Recipient.",
+        "bbox": [
+          0.169507,
+          0.301397,
+          0.511434,
+          0.318752
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s165"
+      },
+      {
+        "text": "4.5.",
+        "bbox": [
+          0.169476,
+          0.333828,
+          0.198961,
+          0.351182
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s166"
+      },
+      {
+        "text": "IDA may require withdrawals from the Grant Account to be made on the basis of statements",
+        "bbox": [
+          0.228419,
+          0.333828,
+          0.878852,
+          0.351185
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s167"
+      },
+      {
+        "text": "of expenditure under contracts for: (a) services of consulting firms costing less than US$100,000",
+        "bbox": [
+          0.169352,
+          0.349897,
+          0.878758,
+          0.367251
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s168"
+      },
+      {
+        "text": "equivalent; (b) services of individual consultants costing less than US$50,000 equivalent; (c)",
+        "bbox": [
+          0.169342,
+          0.365949,
+          0.878417,
+          0.383304
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s169"
+      },
+      {
+        "text": "purchase of goods costing less than US$100,000 equivalent; and (d) training, all under such terms",
+        "bbox": [
+          0.169191,
+          0.382015,
+          0.878618,
+          0.399369
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s170"
+      },
+      {
+        "text": "and conditions as IDA shall specify by notice to the Recipient.",
+        "bbox": [
+          0.169328,
+          0.39779,
+          0.607578,
+          0.415149
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s171"
+      },
+      {
+        "text": "4.6.",
+        "bbox": [
+          0.169074,
+          0.430221,
+          0.199082,
+          0.447575
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s172"
+      },
+      {
+        "text": "Withdrawals of the proceeds of the Grant shall be made in the currency of the Grant. IDA,",
+        "bbox": [
+          0.228051,
+          0.430221,
+          0.877712,
+          0.447578
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s173"
+      },
+      {
+        "text": "at the Recipient's request and acting as an agent of the Recipient, shall purchase with the currency of",
+        "bbox": [
+          0.169356,
+          0.446576,
+          0.881942,
+          0.463934
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s174"
+      },
+      {
+        "text": "the Grant withdrawn from the Grant Account such currencies as shall be required to pay for",
+        "bbox": [
+          0.169482,
+          0.462961,
+          0.878145,
+          0.480315
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s175"
+      },
+      {
+        "text": "expenditures to be fmanced out of the proceeds of the Grant. Whenever it shall be necessary, for the",
+        "bbox": [
+          0.169371,
+          0.479027,
+          0.878581,
+          0.496381
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s176"
+      },
+      {
+        "text": "purposes of this Letter Agreement, to determine the value of one currency in terms of another, such",
+        "bbox": [
+          0.169185,
+          0.495092,
+          0.87931,
+          0.512447
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s177"
+      },
+      {
+        "text": "value shall be as reasonably determined by IDA.",
+        "bbox": [
+          0.169485,
+          0.510842,
+          0.510659,
+          0.5282
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s178"
+      },
+      {
+        "text": "4.7.",
+        "bbox": [
+          0.169069,
+          0.543273,
+          0.199078,
+          0.560627
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s179"
+      },
+      {
+        "text": "To facilitate the carrying out of the Project, the Recipient may open and maintain in United",
+        "bbox": [
+          0.227979,
+          0.543273,
+          0.879282,
+          0.56063
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s180"
+      },
+      {
+        "text": "States dollars a special deposit account (the Special Account) in the Central Bank of the Recipient on",
+        "bbox": [
+          0.170007,
+          0.559051,
+          0.878975,
+          0.57641
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s181"
+      },
+      {
+        "text": "terms and conditions satisfactory to IDA. Deposits into, and payments out of, the Special Account",
+        "bbox": [
+          0.169499,
+          0.575403,
+          0.879252,
+          0.592757
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s182"
+      },
+      {
+        "text": "shall be made in accordance with the provisions of Attachment II to this Annex.",
+        "bbox": [
+          0.1697,
+          0.591469,
+          0.729142,
+          0.608826
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s183"
+      },
+      {
+        "text": "5.",
+        "bbox": [
+          0.169694,
+          0.624222,
+          0.185169,
+          0.641576
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s184"
+      },
+      {
+        "text": "Accounts and Audits",
+        "bbox": [
+          0.228092,
+          0.624222,
+          0.378814,
+          0.641576
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s185"
+      },
+      {
+        "text": "5.1.",
+        "bbox": [
+          0.169686,
+          0.656354,
+          0.19907,
+          0.673708
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s186"
+      },
+      {
+        "text": "(a)",
+        "bbox": [
+          0.22831,
+          0.656354,
+          0.251236,
+          0.673708
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s187"
+      },
+      {
+        "text": "The Recipient shall maintain or cause to be maintained a financial management",
+        "bbox": [
+          0.286952,
+          0.656354,
+          0.879269,
+          0.673708
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s188"
+      },
+      {
+        "text": "system, including records and accounts, and prepare fmancial statements in a format acceptable to",
+        "bbox": [
+          0.169669,
+          0.672407,
+          0.877921,
+          0.689761
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s189"
+      },
+      {
+        "text": "IDA, adequate to reflect in accordance with sound accounting practices the operations, resources and",
+        "bbox": [
+          0.1694,
+          0.688474,
+          0.879118,
+          0.705828
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s190"
+      },
+      {
+        "text": "expenditures related to the Project.",
+        "bbox": [
+          0.16935,
+          0.70424,
+          0.41479,
+          0.721594
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s191"
+      },
+      {
+        "text": "(b)",
+        "bbox": [
+          0.228327,
+          0.736685,
+          0.252518,
+          0.754039
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s192"
+      },
+      {
+        "text": "The Recipient shall: (i) have the records, accounts and financial statements referred",
+        "bbox": [
+          0.286969,
+          0.736685,
+          0.879101,
+          0.754039
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s193"
+      },
+      {
+        "text": "to in subparagraph (a) above and the records and accounts for the Special Account for each fiscal",
+        "bbox": [
+          0.169501,
+          0.752751,
+          0.877911,
+          0.770105
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s194"
+      },
+      {
+        "text": "year audited, in accordance with auditing standards acceptable to IDA, consistently applied, by",
+        "bbox": [
+          0.169183,
+          0.768811,
+          0.879857,
+          0.786171
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s195"
+      },
+      {
+        "text": "independent auditors acceptable to IDA; (ii) furnish to IDA as soon as available, but in any case not",
+        "bbox": [
+          0.169775,
+          0.785167,
+          0.879319,
+          0.802521
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s196"
+      },
+      {
+        "text": "later than six months after the end of each such year, (A) certified copies of the fmancial statements",
+        "bbox": [
+          0.169775,
+          0.800942,
+          0.878857,
+          0.818301
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s197"
+      },
+      {
+        "text": "referred to in subparagraph (a) above for such year as so audited, and (B) an opinion on such",
+        "bbox": [
+          0.169123,
+          0.816995,
+          0.879229,
+          0.834349
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s198"
+      },
+      {
+        "text": "statements, records and accounts and report of such audit, by said auditors, of such scope and in such",
+        "bbox": [
+          0.170112,
+          0.833073,
+          0.879188,
+          0.850429
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s199"
+      },
+      {
+        "text": "detail as IDA shall have reasonably requested; and (iii) furnish to IDA such other information",
+        "bbox": [
+          0.169769,
+          0.84884,
+          0.879279,
+          0.866194
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s200"
+      },
+      {
+        "text": "concerning said records and accounts and the audit thereof, and concerning said auditors, as IDA",
+        "bbox": [
+          0.169786,
+          0.864607,
+          0.879383,
+          0.881961
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s201"
+      },
+      {
+        "text": "shall from time to time reasonably request.",
+        "bbox": [
+          0.170054,
+          0.880374,
+          0.470823,
+          0.897728
+        ],
+        "page": 4,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p4-s202"
+      },
+      {
+        "text": "-5-",
+        "bbox": [
+          0.50957,
+          0.043743,
+          0.529503,
+          0.061097
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s203"
+      },
+      {
+        "text": "(c)",
+        "bbox": [
+          0.225985,
+          0.092241,
+          0.24891,
+          0.109595
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s204"
+      },
+      {
+        "text": "For all expenditures with respect to which withdrawals from the Grant Account",
+        "bbox": [
+          0.284325,
+          0.092241,
+          0.876052,
+          0.109595
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s205"
+      },
+      {
+        "text": "were made on the basis of statements of expenditure, the Recipient shall: (i) maintain or cause to be",
+        "bbox": [
+          0.167176,
+          0.108606,
+          0.875836,
+          0.125965
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s206"
+      },
+      {
+        "text": "maintained, in accordance with subparagraph (a) above, records and accounts reflecting such",
+        "bbox": [
+          0.166759,
+          0.124664,
+          0.876567,
+          0.142018
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s207"
+      },
+      {
+        "text": "expenditures; (ii) retain, until at least one year after IDA has received the audit report for the fiscal",
+        "bbox": [
+          0.166994,
+          0.140744,
+          0.874716,
+          0.158098
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s208"
+      },
+      {
+        "text": "year in which the last withdrawal from the Grant Account was made, all records ( contracts, orders,",
+        "bbox": [
+          0.166776,
+          0.157096,
+          0.875151,
+          0.17445
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s209"
+      },
+      {
+        "text": "invoices, bills, receipts and other documents) evidencing such expenditures; (iii) enable IDA's",
+        "bbox": [
+          0.167027,
+          0.172873,
+          0.876664,
+          0.19023
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s210"
+      },
+      {
+        "text": "representatives to examine such records; and (iv) ensure that such records and accounts are included",
+        "bbox": [
+          0.16639,
+          0.189229,
+          0.876034,
+          0.206583
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s211"
+      },
+      {
+        "text": "in the annual audit referred to in subparagraph (b) above and that the report of such audit contains a",
+        "bbox": [
+          0.166641,
+          0.205307,
+          0.875511,
+          0.222662
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s212"
+      },
+      {
+        "text": "separate opinion by said auditors as to whether the statements of expenditure submitted during such",
+        "bbox": [
+          0.166933,
+          0.22136,
+          0.876583,
+          0.238714
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s213"
+      },
+      {
+        "text": "fiscal year, together with the procedures and internal controls involved in their preparation, can be",
+        "bbox": [
+          0.167009,
+          0.237439,
+          0.876633,
+          0.254793
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s214"
+      },
+      {
+        "text": "relied upon to support the related withdrawals.",
+        "bbox": [
+          0.166389,
+          0.253193,
+          0.493997,
+          0.270547
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s215"
+      },
+      {
+        "text": "6.",
+        "bbox": [
+          0.166992,
+          0.285319,
+          0.182252,
+          0.302673
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s216"
+      },
+      {
+        "text": "Suspension and Cancellation",
+        "bbox": [
+          0.225472,
+          0.285319,
+          0.431378,
+          0.302673
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s217"
+      },
+      {
+        "text": "6.1.",
+        "bbox": [
+          0.166579,
+          0.318375,
+          0.196795,
+          0.335729
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s218"
+      },
+      {
+        "text": "IDA may at any time, by notice to the Recipient, suspend the right of the Recipient to make",
+        "bbox": [
+          0.225271,
+          0.318372,
+          0.875686,
+          0.335729
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s219"
+      },
+      {
+        "text": "further withdrawals from the Grant Account if any of the following events has occurred and is",
+        "bbox": [
+          0.166619,
+          0.334437,
+          0.875878,
+          0.351792
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s220"
+      },
+      {
+        "text": "continuing: (a) the Recipient has failed to comply with any of its obligations herein specified; or (b)",
+        "bbox": [
+          0.166659,
+          0.350503,
+          0.875753,
+          0.367857
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s221"
+      },
+      {
+        "text": "the right of the Recipient to make withdrawals under any development credit agreement,",
+        "bbox": [
+          0.166355,
+          0.366568,
+          0.875539,
+          0.383923
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s222"
+      },
+      {
+        "text": "development grant agreement or other grant agreement with IDA shall have been suspended.",
+        "bbox": [
+          0.166643,
+          0.382634,
+          0.815926,
+          0.399988
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s223"
+      },
+      {
+        "text": "6.2.",
+        "bbox": [
+          0.166627,
+          0.430833,
+          0.195797,
+          0.448187
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s224"
+      },
+      {
+        "text": "IDA may, by written notice to the Recipient, terminate the right of the Recipient to make",
+        "bbox": [
+          0.225319,
+          0.43083,
+          0.875681,
+          0.448187
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s225"
+      },
+      {
+        "text": "further withdrawals from the Grant Account: (a) at any time after the right of the Recipient to make",
+        "bbox": [
+          0.166613,
+          0.447196,
+          0.875692,
+          0.464553
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s226"
+      },
+      {
+        "text": "withdrawals from the Grant Account shall have been suspended pursuant to the provisions of",
+        "bbox": [
+          0.166407,
+          0.463564,
+          0.879207,
+          0.480921
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s227"
+      },
+      {
+        "text": "paragraph 6.1 above; or (b) if the Recipient shall have failed to take action, satisfactory to the IDA,",
+        "bbox": [
+          0.166048,
+          0.47962,
+          0.875133,
+          0.496974
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s228"
+      },
+      {
+        "text": "within six months after the effective date hereof, to carry out the Project.",
+        "bbox": [
+          0.166405,
+          0.4954,
+          0.674501,
+          0.512754
+        ],
+        "page": 5,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p5-s229"
+      },
+      {
+        "text": "-6-",
+        "bbox": [
+          0.504541,
+          0.043697,
+          0.524367,
+          0.060877
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s230"
+      },
+      {
+        "text": "Attachment I",
+        "bbox": [
+          0.767936,
+          0.092215,
+          0.87048,
+          0.110408
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s231"
+      },
+      {
+        "text": "Procurement",
+        "bbox": [
+          0.464332,
+          0.140724,
+          0.569913,
+          0.158916
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s232"
+      },
+      {
+        "text": "Section I.",
+        "bbox": [
+          0.162565,
+          0.172075,
+          0.232884,
+          0.19044
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s233"
+      },
+      {
+        "text": "Procurement of Goods",
+        "bbox": [
+          0.279215,
+          0.171772,
+          0.446725,
+          0.190137
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s234"
+      },
+      {
+        "text": "Part A: General",
+        "bbox": [
+          0.161629,
+          0.211476,
+          0.281159,
+          0.229846
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s235"
+      },
+      {
+        "text": "Goods shall be procured in accordance with the provisions of Section I of the \"Guidelines",
+        "bbox": [
+          0.220524,
+          0.249973,
+          0.871312,
+          0.268343
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s236"
+      },
+      {
+        "text": "for Procurement under IBRD Loans and IDA Credits\" published by the Bank in January 1995 and",
+        "bbox": [
+          0.162307,
+          0.266346,
+          0.871087,
+          0.284711
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s237"
+      },
+      {
+        "text": "revised in January and August 1996, September 1997 and January 1999 (the Guidelines) and the",
+        "bbox": [
+          0.161313,
+          0.282412,
+          0.870649,
+          0.300777
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s238"
+      },
+      {
+        "text": "following provisions of Section I of this Schedule.",
+        "bbox": [
+          0.161952,
+          0.298477,
+          0.528184,
+          0.316843
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s239"
+      },
+      {
+        "text": "Part B: Procurement Procedures",
+        "bbox": [
+          0.16164,
+          0.337561,
+          0.401312,
+          0.355932
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s240"
+      },
+      {
+        "text": "1.",
+        "bbox": [
+          0.167399,
+          0.37638,
+          0.182639,
+          0.394744
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s241"
+      },
+      {
+        "text": "International Shopping",
+        "bbox": [
+          0.220182,
+          0.37638,
+          0.390381,
+          0.394744
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s242"
+      },
+      {
+        "text": "Goods estimated to cost less than $200,000 equivalent per contract may be procured",
+        "bbox": [
+          0.220537,
+          0.41578,
+          0.87112,
+          0.434145
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s243"
+      },
+      {
+        "text": "under contracts awarded on the basis of international shopping procedures in accordance with the",
+        "bbox": [
+          0.161761,
+          0.431846,
+          0.870229,
+          0.450216
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s244"
+      },
+      {
+        "text": "provisions of paragraphs 3.5 and 3.6 of the Guidelines.",
+        "bbox": [
+          0.161355,
+          0.447916,
+          0.560076,
+          0.466282
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s245"
+      },
+      {
+        "text": "Part C: Review by IDA of Procurement Decisions",
+        "bbox": [
+          0.161642,
+          0.487014,
+          0.529037,
+          0.505384
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s246"
+      },
+      {
+        "text": "1.",
+        "bbox": [
+          0.162712,
+          0.525806,
+          0.177952,
+          0.544171
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s247"
+      },
+      {
+        "text": "Procurement Planning",
+        "bbox": [
+          0.220231,
+          0.525806,
+          0.384842,
+          0.544171
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s248"
+      },
+      {
+        "text": "Prior to the issuance of any invitations to prequalify for bidding or to bid for contracts,",
+        "bbox": [
+          0.220231,
+          0.565221,
+          0.870224,
+          0.58359
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s249"
+      },
+      {
+        "text": "the proposed procurement plan for the Project shall be furnished to IDA for its review and",
+        "bbox": [
+          0.161262,
+          0.581291,
+          0.871249,
+          0.599655
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s250"
+      },
+      {
+        "text": "approval, in accordance with the provisions of paragraph 1 of Appendix 1 to the Guidelines.",
+        "bbox": [
+          0.161528,
+          0.597356,
+          0.869731,
+          0.615721
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s251"
+      },
+      {
+        "text": "Procurement of all goods and works shall be undertaken in accordance with such procurement",
+        "bbox": [
+          0.161641,
+          0.613421,
+          0.871548,
+          0.631786
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s252"
+      },
+      {
+        "text": "plan as shall have been approved by IDA, and with the provisions of said paragraph 1.",
+        "bbox": [
+          0.161356,
+          0.629487,
+          0.784044,
+          0.647852
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s253"
+      },
+      {
+        "text": "2.",
+        "bbox": [
+          0.16123,
+          0.668589,
+          0.177409,
+          0.686954
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s254"
+      },
+      {
+        "text": "Prior Review",
+        "bbox": [
+          0.21984,
+          0.668589,
+          0.319825,
+          0.686954
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s255"
+      },
+      {
+        "text": "(a)",
+        "bbox": [
+          0.279095,
+          0.707384,
+          0.302925,
+          0.725749
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s256"
+      },
+      {
+        "text": "With respect to each contract estimated to cost the equivalent of",
+        "bbox": [
+          0.337835,
+          0.707384,
+          0.874129,
+          0.725754
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s257"
+      },
+      {
+        "text": "$100,000 or more, the following procedures shall apply:",
+        "bbox": [
+          0.161833,
+          0.723454,
+          0.568628,
+          0.741819
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s258"
+      },
+      {
+        "text": "(i)",
+        "bbox": [
+          0.220076,
+          0.762538,
+          0.240689,
+          0.780903
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s259"
+      },
+      {
+        "text": "prior to the selection of any supplier under shopping procedures, the Recipient",
+        "bbox": [
+          0.278514,
+          0.762538,
+          0.870931,
+          0.780909
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s260"
+      },
+      {
+        "text": "shall provide to IDA a report on the comparison and evaluation of quotations",
+        "bbox": [
+          0.27943,
+          0.778926,
+          0.870901,
+          0.797292
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s261"
+      },
+      {
+        "text": "received;",
+        "bbox": [
+          0.27887,
+          0.795281,
+          0.348693,
+          0.813646
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s262"
+      },
+      {
+        "text": "(ii)",
+        "bbox": [
+          0.220485,
+          0.833484,
+          0.246316,
+          0.851849
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s263"
+      },
+      {
+        "text": "prior to the execution of any contract procured under shopping procedures, the",
+        "bbox": [
+          0.278941,
+          0.833484,
+          0.870244,
+          0.851853
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s264"
+      },
+      {
+        "text": "Recipient shall provide to IDA a copy of the specifications and the draft contract;",
+        "bbox": [
+          0.27924,
+          0.84925,
+          0.870225,
+          0.867616
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s265"
+      },
+      {
+        "text": "and",
+        "bbox": [
+          0.279515,
+          0.865316,
+          0.309547,
+          0.883681
+        ],
+        "page": 6,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p6-s266"
+      },
+      {
+        "text": "-7-",
+        "bbox": [
+          0.505306,
+          0.042327,
+          0.525153,
+          0.061242
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s267"
+      },
+      {
+        "text": "(iii)",
+        "bbox": [
+          0.221273,
+          0.091238,
+          0.251819,
+          0.109097
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s268"
+      },
+      {
+        "text": "the procedures set forth in paragraphs 2(f), 2(g) and 3 of Appendix 1 to the",
+        "bbox": [
+          0.279638,
+          0.091238,
+          0.87078,
+          0.109097
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s269"
+      },
+      {
+        "text": "Guidelines shall apply.",
+        "bbox": [
+          0.279887,
+          0.108213,
+          0.448528,
+          0.126073
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s270"
+      },
+      {
+        "text": "3.",
+        "bbox": [
+          0.16269,
+          0.147012,
+          0.178773,
+          0.164871
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s271"
+      },
+      {
+        "text": "Post Review",
+        "bbox": [
+          0.220624,
+          0.147012,
+          0.316483,
+          0.164871
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s272"
+      },
+      {
+        "text": "With respect to each contract not governed by paragraph 2 of this Part, the procedures set",
+        "bbox": [
+          0.221038,
+          0.185205,
+          0.871353,
+          0.203067
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s273"
+      },
+      {
+        "text": "forth in paragraph 4 of Appendix 1 to the Guidelines shall apply.",
+        "bbox": [
+          0.162693,
+          0.201574,
+          0.631762,
+          0.219438
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s274"
+      },
+      {
+        "text": "Section IL",
+        "bbox": [
+          0.162615,
+          0.257335,
+          0.239166,
+          0.275195
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s275"
+      },
+      {
+        "text": "Consultants' Services",
+        "bbox": [
+          0.279899,
+          0.257033,
+          0.440887,
+          0.274892
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s276"
+      },
+      {
+        "text": "Part A: General",
+        "bbox": [
+          0.162029,
+          0.305242,
+          0.28168,
+          0.323102
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s277"
+      },
+      {
+        "text": "Consultants' services shall be procured in accordance with the provisions of Section I and",
+        "bbox": [
+          0.220518,
+          0.337051,
+          0.871491,
+          0.354916
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s278"
+      },
+      {
+        "text": "Section IV of the \"Guidelines: Selection and Employment of Consultants by World Bank",
+        "bbox": [
+          0.162207,
+          0.353135,
+          0.872842,
+          0.370995
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s279"
+      },
+      {
+        "text": "Borrowers\", published by the Bank in January 1997 and revised in September 1997, January 1999",
+        "bbox": [
+          0.161634,
+          0.369504,
+          0.871204,
+          0.387368
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s280"
+      },
+      {
+        "text": "and May 2002 (the Consultant Guidelines), paragraph 1 of Appendix 1 thereto, Appendix 2",
+        "bbox": [
+          0.161545,
+          0.38586,
+          0.871034,
+          0.403723
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s281"
+      },
+      {
+        "text": "thereto, and the following provisions of this Section.",
+        "bbox": [
+          0.161659,
+          0.401938,
+          0.543907,
+          0.419798
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s282"
+      },
+      {
+        "text": "Part B: Quality- and Cost-based Selection",
+        "bbox": [
+          0.161251,
+          0.434359,
+          0.471372,
+          0.452223
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s283"
+      },
+      {
+        "text": "Except as otherwise provided in Part C of this Section, consultants' services shall be procured",
+        "bbox": [
+          0.162003,
+          0.46649,
+          0.871564,
+          0.48435
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s284"
+      },
+      {
+        "text": "under contracts awarded in accordance with the provisions of Section II of the Consultant",
+        "bbox": [
+          0.161691,
+          0.482261,
+          0.871647,
+          0.500125
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s285"
+      },
+      {
+        "text": "Guidelines, and the provisions of paragraphs 3 .13 through 3 .18 thereof applicable to quality- and",
+        "bbox": [
+          0.161547,
+          0.498331,
+          0.87089,
+          0.51619
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s286"
+      },
+      {
+        "text": "cost-based selection of consultants.",
+        "bbox": [
+          0.161553,
+          0.514396,
+          0.41887,
+          0.532255
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s287"
+      },
+      {
+        "text": "Part C: Other Procedures for the Selection of Consultants",
+        "bbox": [
+          0.161254,
+          0.54683,
+          0.582242,
+          0.564694
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s288"
+      },
+      {
+        "text": "1.",
+        "bbox": [
+          0.162728,
+          0.579567,
+          0.177404,
+          0.597427
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s289"
+      },
+      {
+        "text": "Single Source Selection",
+        "bbox": [
+          0.220394,
+          0.579264,
+          0.3968,
+          0.597124
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s290"
+      },
+      {
+        "text": "Services estimated to cost less than US$250,000 equivalent per contract, may, with IDA's",
+        "bbox": [
+          0.220377,
+          0.611382,
+          0.869929,
+          0.629241
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s291"
+      },
+      {
+        "text": "prior agreement, be procured in accordance with the provisions of paragraphs 3 .8 through 3 .11 of",
+        "bbox": [
+          0.161304,
+          0.627447,
+          0.874274,
+          0.645307
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s292"
+      },
+      {
+        "text": "the Consultant Guidelines.",
+        "bbox": [
+          0.161279,
+          0.643223,
+          0.355861,
+          0.661082
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s293"
+      },
+      {
+        "text": "2.",
+        "bbox": [
+          0.161621,
+          0.675341,
+          0.177278,
+          0.693201
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s294"
+      },
+      {
+        "text": "Individual Consultants",
+        "bbox": [
+          0.220199,
+          0.675341,
+          0.388125,
+          0.693201
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s295"
+      },
+      {
+        "text": "Services of individual consultants shall be procured under contracts awarded m",
+        "bbox": [
+          0.220388,
+          0.708088,
+          0.870829,
+          0.72595
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s296"
+      },
+      {
+        "text": "accordance with the provisions of paragraphs 5.1 through 5.3 of the Consultant Guidelines.",
+        "bbox": [
+          0.161539,
+          0.724143,
+          0.820659,
+          0.742003
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s297"
+      },
+      {
+        "text": "Part D: Review by IDA of the Selection of Consultants",
+        "bbox": [
+          0.161245,
+          0.756275,
+          0.563837,
+          0.774134
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s298"
+      },
+      {
+        "text": "1.",
+        "bbox": [
+          0.163118,
+          0.788709,
+          0.177794,
+          0.806568
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s299"
+      },
+      {
+        "text": "Selection Planning",
+        "bbox": [
+          0.220784,
+          0.788709,
+          0.360382,
+          0.806568
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s300"
+      },
+      {
+        "text": "A plan for the selection of consultants, which shall include contract cost estimates,",
+        "bbox": [
+          0.220664,
+          0.820545,
+          0.870731,
+          0.838409
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s301"
+      },
+      {
+        "text": "contract packaging, and applicable selection criteria and procedures, shall be furnished to IDA for",
+        "bbox": [
+          0.16196,
+          0.836307,
+          0.870512,
+          0.854166
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s302"
+      },
+      {
+        "text": "its review and approval prior to the issuance to consultants of any requests for proposals.",
+        "bbox": [
+          0.16196,
+          0.852065,
+          0.87032,
+          0.869934
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s303"
+      },
+      {
+        "text": "Selection of all consultants' services shall be undertaken in accordance with such selection plan",
+        "bbox": [
+          0.162186,
+          0.86814,
+          0.87166,
+          0.885999
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s304"
+      },
+      {
+        "text": "as shall have been approved by IDA.",
+        "bbox": [
+          0.161953,
+          0.884205,
+          0.429206,
+          0.902064
+        ],
+        "page": 7,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p7-s305"
+      },
+      {
+        "text": "-8-",
+        "bbox": [
+          0.508057,
+          0.044909,
+          0.527882,
+          0.06209
+        ],
+        "page": 8,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p8-s306"
+      },
+      {
+        "text": "2.",
+        "bbox": [
+          0.165527,
+          0.108457,
+          0.181184,
+          0.127159
+        ],
+        "page": 8,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p8-s307"
+      },
+      {
+        "text": "Prior Review",
+        "bbox": [
+          0.223747,
+          0.108457,
+          0.323224,
+          0.127159
+        ],
+        "page": 8,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p8-s308"
+      },
+      {
+        "text": "(a)",
+        "bbox": [
+          0.22362,
+          0.140589,
+          0.247361,
+          0.159291
+        ],
+        "page": 8,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p8-s309"
+      },
+      {
+        "text": "With respect to each contract for the employment of consulting firms estimated",
+        "bbox": [
+          0.282354,
+          0.140588,
+          0.874189,
+          0.159291
+        ],
+        "page": 8,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p8-s310"
+      },
+      {
+        "text": "to cost the equivalent of US$ I 00,000 or more, the procedures set forth in paragraphs 2, 3 and 5 of",
+        "bbox": [
+          0.165186,
+          0.156641,
+          0.87779,
+          0.175342
+        ],
+        "page": 8,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p8-s311"
+      },
+      {
+        "text": "Appendix 1 to the Consultant Guidelines shall apply.",
+        "bbox": [
+          0.165202,
+          0.172416,
+          0.549598,
+          0.191117
+        ],
+        "page": 8,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p8-s312"
+      },
+      {
+        "text": "(b)",
+        "bbox": [
+          0.223618,
+          0.204856,
+          0.247997,
+          0.223558
+        ],
+        "page": 8,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p8-s313"
+      },
+      {
+        "text": "With respect to each contract for the employment of individual consultants to be",
+        "bbox": [
+          0.282352,
+          0.20485,
+          0.873179,
+          0.223558
+        ],
+        "page": 8,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p8-s314"
+      },
+      {
+        "text": "selected on a sole source basis or estimated to cost the equivalent of US$50,000 or more, the",
+        "bbox": [
+          0.165365,
+          0.220915,
+          0.873049,
+          0.239617
+        ],
+        "page": 8,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p8-s315"
+      },
+      {
+        "text": "report on the comparison of the qualifications and experience of candidates, and the terms of",
+        "bbox": [
+          0.164811,
+          0.236981,
+          0.877399,
+          0.255682
+        ],
+        "page": 8,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p8-s316"
+      },
+      {
+        "text": "reference and terms of employment of the consultants shall be furnished to IDA for its prior",
+        "bbox": [
+          0.164421,
+          0.253033,
+          0.874605,
+          0.271735
+        ],
+        "page": 8,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p8-s317"
+      },
+      {
+        "text": "review and approval. The contract shall be awarded only after said approval shall have been",
+        "bbox": [
+          0.164414,
+          0.269408,
+          0.874164,
+          0.28811
+        ],
+        "page": 8,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p8-s318"
+      },
+      {
+        "text": "given. The provisions of paragraph 3 of Appendix 1 to the Consultant Guidelines shall also apply",
+        "bbox": [
+          0.164685,
+          0.28546,
+          0.873796,
+          0.304169
+        ],
+        "page": 8,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p8-s319"
+      },
+      {
+        "text": "to such contracts.",
+        "bbox": [
+          0.164789,
+          0.301548,
+          0.293277,
+          0.32025
+        ],
+        "page": 8,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p8-s320"
+      },
+      {
+        "text": "3.",
+        "bbox": [
+          0.164648,
+          0.333373,
+          0.180721,
+          0.352075
+        ],
+        "page": 8,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p8-s321"
+      },
+      {
+        "text": "Post Review",
+        "bbox": [
+          0.223356,
+          0.333373,
+          0.318154,
+          0.352075
+        ],
+        "page": 8,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p8-s322"
+      },
+      {
+        "text": "With respect to each contract not governed by paragraph 2 of this Part, the procedures set",
+        "bbox": [
+          0.222995,
+          0.365795,
+          0.873858,
+          0.384502
+        ],
+        "page": 8,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p8-s323"
+      },
+      {
+        "text": "forth in paragraph 4 of Appendix 1 to the Consultant Guidelines shall apply.",
+        "bbox": [
+          0.164246,
+          0.38186,
+          0.716394,
+          0.400563
+        ],
+        "page": 8,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p8-s324"
+      },
+      {
+        "text": "-9-",
+        "bbox": [
+          0.505697,
+          0.042475,
+          0.525543,
+          0.061217
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s325"
+      },
+      {
+        "text": "Attachment II",
+        "bbox": [
+          0.758952,
+          0.123753,
+          0.872275,
+          0.141945
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s326"
+      },
+      {
+        "text": "Special Account",
+        "bbox": [
+          0.45638,
+          0.172248,
+          0.580007,
+          0.190441
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s327"
+      },
+      {
+        "text": "1.",
+        "bbox": [
+          0.1639,
+          0.204265,
+          0.178576,
+          0.221787
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s328"
+      },
+      {
+        "text": "For the purposes of this Attachment:",
+        "bbox": [
+          0.221403,
+          0.204265,
+          0.479187,
+          0.221787
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s329"
+      },
+      {
+        "text": "(a)",
+        "bbox": [
+          0.221679,
+          0.236394,
+          0.245147,
+          0.253916
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s330"
+      },
+      {
+        "text": "the term \"eligible Categories\" means the Categories (1), (2) and (3) set forth in the",
+        "bbox": [
+          0.280416,
+          0.236394,
+          0.871901,
+          0.253916
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s331"
+      },
+      {
+        "text": "table in paragraph 4.2 of the Annex to this Letter Agreement;",
+        "bbox": [
+          0.162857,
+          0.252458,
+          0.596815,
+          0.269984
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s332"
+      },
+      {
+        "text": "(b)",
+        "bbox": [
+          0.221663,
+          0.284326,
+          0.245705,
+          0.302186
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s333"
+      },
+      {
+        "text": "the term \"eligible expenditures\" means expenditures in respect of the reasonable",
+        "bbox": [
+          0.280029,
+          0.284592,
+          0.872098,
+          0.302115
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s334"
+      },
+      {
+        "text": "cost of goods and services required for the Project and to be financed out of the proceeds of the",
+        "bbox": [
+          0.163107,
+          0.300644,
+          0.871687,
+          0.318168
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s335"
+      },
+      {
+        "text": "Grant allocated from time to time to the eligible Categories in accordance with the provisions of",
+        "bbox": [
+          0.162719,
+          0.316723,
+          0.875692,
+          0.334246
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s336"
+      },
+      {
+        "text": "paragraph 4.2 of the Annex to this Letter Agreement; and",
+        "bbox": [
+          0.162533,
+          0.332776,
+          0.571445,
+          0.350299
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s337"
+      },
+      {
+        "text": "(c)",
+        "bbox": [
+          0.2213,
+          0.36522,
+          0.244184,
+          0.382743
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s338"
+      },
+      {
+        "text": "the term \"Authorized Allocation\" means an amount equivalent to US$75,000 to be",
+        "bbox": [
+          0.279648,
+          0.36522,
+          0.871429,
+          0.382743
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s339"
+      },
+      {
+        "text": "withdrawn from the Grant Account and deposited into the Special Account pursuant to paragraph 3",
+        "bbox": [
+          0.162479,
+          0.381587,
+          0.872231,
+          0.399109
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s340"
+      },
+      {
+        "text": "(a) ofthis Attachment.",
+        "bbox": [
+          0.162665,
+          0.397638,
+          0.32499,
+          0.415167
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s341"
+      },
+      {
+        "text": "2.",
+        "bbox": [
+          0.162402,
+          0.429775,
+          0.178059,
+          0.447298
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s342"
+      },
+      {
+        "text": "Payments out of the Special Account shall be made exclusively for eligible expenditures in",
+        "bbox": [
+          0.221012,
+          0.429775,
+          0.871944,
+          0.447298
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s343"
+      },
+      {
+        "text": "accordance with the provisions of this Attachment.",
+        "bbox": [
+          0.162303,
+          0.44555,
+          0.523393,
+          0.463073
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s344"
+      },
+      {
+        "text": "3.",
+        "bbox": [
+          0.162695,
+          0.477984,
+          0.178232,
+          0.495507
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s345"
+      },
+      {
+        "text": "After IDA has received evidence satisfactory to it that the Special Account has been duly",
+        "bbox": [
+          0.221061,
+          0.477984,
+          0.871633,
+          0.495507
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s346"
+      },
+      {
+        "text": "opened, withdrawals of the Authorized Allocation and subsequent withdrawals to replenish the",
+        "bbox": [
+          0.162358,
+          0.494049,
+          0.871498,
+          0.511572
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s347"
+      },
+      {
+        "text": "Special Account shall be made as follows:",
+        "bbox": [
+          0.16259,
+          0.510416,
+          0.462765,
+          0.527939
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s348"
+      },
+      {
+        "text": "(a)",
+        "bbox": [
+          0.221294,
+          0.542532,
+          0.244177,
+          0.560055
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s349"
+      },
+      {
+        "text": "The Recipient shall furnish to IDA a request or requests for a deposit into the",
+        "bbox": [
+          0.27954,
+          0.542532,
+          0.871498,
+          0.560055
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s350"
+      },
+      {
+        "text": "Special Account of an amount or amounts which do not exceed the aggregate amount of the",
+        "bbox": [
+          0.16259,
+          0.558597,
+          0.871099,
+          0.576125
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s351"
+      },
+      {
+        "text": "Authorized Allocation. On the basis of such request or requests, IDA shall, on behalf of the",
+        "bbox": [
+          0.162072,
+          0.574667,
+          0.870905,
+          0.59219
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s352"
+      },
+      {
+        "text": "Recipient, withdraw from the Grant Account and deposit into the Special Account such amount or",
+        "bbox": [
+          0.161633,
+          0.590745,
+          0.8719,
+          0.608268
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s353"
+      },
+      {
+        "text": "amounts as the Recipient shall have requested.",
+        "bbox": [
+          0.161921,
+          0.60681,
+          0.493184,
+          0.624332
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s354"
+      },
+      {
+        "text": "(b)",
+        "bbox": [
+          0.220882,
+          0.638979,
+          0.244924,
+          0.656839
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s355"
+      },
+      {
+        "text": "(i)",
+        "bbox": [
+          0.279883,
+          0.639245,
+          0.300068,
+          0.656768
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s356"
+      },
+      {
+        "text": "For replenishment of the Special Account, the Recipient shall furnish to",
+        "bbox": [
+          0.338586,
+          0.639245,
+          0.871612,
+          0.656768
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s357"
+      },
+      {
+        "text": "IDA requests for deposits into the Special Account at such intervals as IDA shall specify.",
+        "bbox": [
+          0.162012,
+          0.655008,
+          0.793237,
+          0.67253
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s358"
+      },
+      {
+        "text": "(ii)",
+        "bbox": [
+          0.27952,
+          0.687426,
+          0.304931,
+          0.704948
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s359"
+      },
+      {
+        "text": "Prior to or at the time of each such request, the Recipient shall furnish to",
+        "bbox": [
+          0.338223,
+          0.687426,
+          0.871189,
+          0.704951
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s360"
+      },
+      {
+        "text": "IDA the documents and other evidence required pursuant to paragraph 4 of this Attachment for the",
+        "bbox": [
+          0.161981,
+          0.703494,
+          0.871688,
+          0.721017
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s361"
+      },
+      {
+        "text": "payment or payments in respect of which replenishment is requested. On the basis of each such",
+        "bbox": [
+          0.161751,
+          0.719874,
+          0.871843,
+          0.737398
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s362"
+      },
+      {
+        "text": "request, IDA shall, on behalf of the Recipient, withdraw from the Grant Account and deposit into",
+        "bbox": [
+          0.161712,
+          0.735927,
+          0.871751,
+          0.753451
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s363"
+      },
+      {
+        "text": "the Special Account such amount as the Recipient shall have requested and as shall have been",
+        "bbox": [
+          0.162049,
+          0.751993,
+          0.871984,
+          0.769516
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s364"
+      },
+      {
+        "text": "shown by said documents and other evidence to have been paid out of the Special Account for",
+        "bbox": [
+          0.162641,
+          0.768071,
+          0.871012,
+          0.785595
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s365"
+      },
+      {
+        "text": "eligible expenditures. All such deposits shall be withdrawn by IDA from the Grant Account under",
+        "bbox": [
+          0.162311,
+          0.784439,
+          0.872049,
+          0.801961
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s366"
+      },
+      {
+        "text": "the eligible Category(ies), and in the respective equivalent amounts, as shall have been justified by",
+        "bbox": [
+          0.162057,
+          0.800188,
+          0.871995,
+          0.817711
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s367"
+      },
+      {
+        "text": "said documents and other evidence.",
+        "bbox": [
+          0.162226,
+          0.816252,
+          0.416366,
+          0.833775
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s368"
+      },
+      {
+        "text": "4.",
+        "bbox": [
+          0.162435,
+          0.847793,
+          0.178011,
+          0.865316
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s369"
+      },
+      {
+        "text": "For each payment made by the Recipient out of the Special Account, the Recipient shall, at",
+        "bbox": [
+          0.221012,
+          0.847793,
+          0.872745,
+          0.865316
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s370"
+      },
+      {
+        "text": "such time as IDA shall reasonably request, furnish to IDA such documents and other evidence",
+        "bbox": [
+          0.162654,
+          0.863858,
+          0.871885,
+          0.88138
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s371"
+      },
+      {
+        "text": "showing that such payment was made exclusively for eligible expenditures.",
+        "bbox": [
+          0.162654,
+          0.87962,
+          0.697674,
+          0.897143
+        ],
+        "page": 9,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p9-s372"
+      },
+      {
+        "text": "-10-",
+        "bbox": [
+          0.501025,
+          0.044136,
+          0.529835,
+          0.061142
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s373"
+      },
+      {
+        "text": "5.",
+        "bbox": [
+          0.163835,
+          0.09223,
+          0.179309,
+          0.109584
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s374"
+      },
+      {
+        "text": "Notwithstanding the provisions of paragraph 3 of this Attachment, IDA shall not be",
+        "bbox": [
+          0.221566,
+          0.09223,
+          0.871928,
+          0.109584
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s375"
+      },
+      {
+        "text": "required to make further deposits into the Special Account:",
+        "bbox": [
+          0.162867,
+          0.108608,
+          0.581502,
+          0.125962
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s376"
+      },
+      {
+        "text": "(a)",
+        "bbox": [
+          0.221676,
+          0.140441,
+          0.244602,
+          0.157795
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s377"
+      },
+      {
+        "text": "if, at any time, IDA shall have determined that all further withdrawals should be",
+        "bbox": [
+          0.280318,
+          0.140441,
+          0.871978,
+          0.157795
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s378"
+      },
+      {
+        "text": "made by the Recipient directly from the Grant Account;",
+        "bbox": [
+          0.162901,
+          0.156807,
+          0.559679,
+          0.174162
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s379"
+      },
+      {
+        "text": "(b)",
+        "bbox": [
+          0.221288,
+          0.189239,
+          0.245479,
+          0.206593
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s380"
+      },
+      {
+        "text": "if the Recipient shall have failed to furnish to IDA, within the period of time",
+        "bbox": [
+          0.280306,
+          0.189242,
+          0.871171,
+          0.206596
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s381"
+      },
+      {
+        "text": "specified in paragraph 5.1 (b) (ii) of the Annex to this Letter Agreement, any of the audit reports",
+        "bbox": [
+          0.162643,
+          0.205307,
+          0.871665,
+          0.222662
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s382"
+      },
+      {
+        "text": "required to be furnished to IDA pursuant to said paragraph in respect of the audit of the records and",
+        "bbox": [
+          0.162109,
+          0.221373,
+          0.87151,
+          0.238727
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s383"
+      },
+      {
+        "text": "accounts for the Special Account;",
+        "bbox": [
+          0.162711,
+          0.237738,
+          0.403487,
+          0.255092
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s384"
+      },
+      {
+        "text": "( c)",
+        "bbox": [
+          0.221285,
+          0.269571,
+          0.244437,
+          0.286925
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s385"
+      },
+      {
+        "text": "if, at any time, IDA shall have notified the Recipient of its intention to suspend in",
+        "bbox": [
+          0.279927,
+          0.269569,
+          0.871657,
+          0.286925
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s386"
+      },
+      {
+        "text": "whole or in part the right of the Recipient to make withdrawals from the Grant Account pursuant to",
+        "bbox": [
+          0.162087,
+          0.285622,
+          0.871274,
+          0.302976
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s387"
+      },
+      {
+        "text": "the provisions of paragraph 6.1 of the Annex to this Letter Agreement; or",
+        "bbox": [
+          0.162434,
+          0.3017,
+          0.683719,
+          0.319055
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s388"
+      },
+      {
+        "text": "( d)",
+        "bbox": [
+          0.221292,
+          0.334132,
+          0.245443,
+          0.351486
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s389"
+      },
+      {
+        "text": "once the total unwithdrawn amount of the Grant shall equal the equivalent of twice",
+        "bbox": [
+          0.279917,
+          0.334132,
+          0.871759,
+          0.351488
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s390"
+      },
+      {
+        "text": "the amount of the Authorized Allocation.",
+        "bbox": [
+          0.162067,
+          0.350487,
+          0.455826,
+          0.367844
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s391"
+      },
+      {
+        "text": "Thereafter, withdrawals from the Grant Account of the remaining unwithdrawn amount of the Grant",
+        "bbox": [
+          0.161952,
+          0.382935,
+          0.872286,
+          0.400291
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s392"
+      },
+      {
+        "text": "shall follow such procedures as IDA shall specify by notice to the Recipient.",
+        "bbox": [
+          0.16225,
+          0.399002,
+          0.761133,
+          0.416357
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s393"
+      },
+      {
+        "text": "Such further",
+        "bbox": [
+          0.77664,
+          0.399002,
+          0.871458,
+          0.416356
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s394"
+      },
+      {
+        "text": "withdrawals shall be made only after and to the extent that IDA shall have been satisfied that all",
+        "bbox": [
+          0.161692,
+          0.415068,
+          0.870588,
+          0.432422
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s395"
+      },
+      {
+        "text": "such amounts remaining on deposit in the Special Account as of the date of such notice will be",
+        "bbox": [
+          0.161861,
+          0.431121,
+          0.871947,
+          0.448475
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s396"
+      },
+      {
+        "text": "utilized in making payments for eligible expenditures.",
+        "bbox": [
+          0.16172,
+          0.44663,
+          0.545728,
+          0.464321
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s397"
+      },
+      {
+        "text": "6.",
+        "bbox": [
+          0.161901,
+          0.479314,
+          0.17778,
+          0.496668
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s398"
+      },
+      {
+        "text": "(a)",
+        "bbox": [
+          0.220509,
+          0.479314,
+          0.244022,
+          0.496668
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s399"
+      },
+      {
+        "text": "If IDA shall have determined at any time that any payment out of the Special",
+        "bbox": [
+          0.278646,
+          0.478759,
+          0.870705,
+          0.496981
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s400"
+      },
+      {
+        "text": "Account: (i) was made for an expenditure or in an amount not eligible pursuant to paragraph 2 of",
+        "bbox": [
+          0.161679,
+          0.495395,
+          0.874129,
+          0.51275
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s401"
+      },
+      {
+        "text": "this Attachment; or (ii) was not justified by the evidence furnished to IDA, the Recipient shall,",
+        "bbox": [
+          0.16167,
+          0.511764,
+          0.870444,
+          0.529118
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s402"
+      },
+      {
+        "text": "promptly upon notice from IDA: (A) provide such additional evidence as IDA may request; or (B)",
+        "bbox": [
+          0.160954,
+          0.527829,
+          0.870267,
+          0.545184
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s403"
+      },
+      {
+        "text": "deposit into the Special Account ( or, if IDA shall so request, refund to IDA) an amount equal to the",
+        "bbox": [
+          0.161543,
+          0.544195,
+          0.870757,
+          0.561552
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s404"
+      },
+      {
+        "text": "amount of such payment or the portion thereof not so eligible or justified. Unless IDA shall",
+        "bbox": [
+          0.161529,
+          0.560263,
+          0.870939,
+          0.577618
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s405"
+      },
+      {
+        "text": "otherwise agree, no further deposit by IDA into the Special Account shall be made until the",
+        "bbox": [
+          0.161548,
+          0.576329,
+          0.870366,
+          0.593683
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s406"
+      },
+      {
+        "text": "Recipient has provided such evidence or made such deposit or refund, as the case may be.",
+        "bbox": [
+          0.161238,
+          0.592079,
+          0.796615,
+          0.609437
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s407"
+      },
+      {
+        "text": "(b)",
+        "bbox": [
+          0.220501,
+          0.624523,
+          0.244692,
+          0.641877
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s408"
+      },
+      {
+        "text": "If IDA shall have determined at any time that any amount outstanding in the",
+        "bbox": [
+          0.278646,
+          0.623967,
+          0.870731,
+          0.642189
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s409"
+      },
+      {
+        "text": "Special Account will not be required to cover further payments for eligible expenditures, the",
+        "bbox": [
+          0.161772,
+          0.640578,
+          0.870379,
+          0.657932
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s410"
+      },
+      {
+        "text": "Recipient shall, promptly upon notice from IDA, refund to IDA such outstanding amount.",
+        "bbox": [
+          0.161252,
+          0.656644,
+          0.797488,
+          0.673998
+        ],
+        "page": 10,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p10-s411"
+      }
+    ],
+    "id": "3e57b04d518c45f2a91b25414253ca0f",
+    "filename": "worldbank-tf051711.pdf",
+    "sha256": "a46f97184847e8d02e0ac9ba0081ff086677855c28673729cf7b646defc26e9b"
+  },
+  "schema_version": "1.0"
+}

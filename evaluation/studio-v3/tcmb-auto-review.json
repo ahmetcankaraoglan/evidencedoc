@@ -1,0 +1,1066 @@
+{
+  "fields": [
+    {
+      "field": "decision_date",
+      "status": "grounded",
+      "value": "17 Nisan 2025",
+      "evidence": [
+        {
+          "text": "17 Nisan 2025",
+          "bbox": [
+            0.11929,
+            0.217728,
+            0.249815,
+            0.235489
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s3"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    {
+      "field": "decision_number",
+      "status": "grounded",
+      "value": "2025-24",
+      "evidence": [
+        {
+          "text": "Sayı: 2025-24",
+          "bbox": [
+            0.754966,
+            0.217728,
+            0.876114,
+            0.235489
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s4"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    {
+      "field": "policy_rate_one_week_repo",
+      "status": "grounded",
+      "value": "yüzde 42,5’ten yüzde 46’ya",
+      "evidence": [
+        {
+          "text": "Para Politikası Kurulu (Kurul), politika faizi olan bir hafta vadeli repo ihale faiz oranının yüzde",
+          "bbox": [
+            0.119189,
+            0.33085,
+            0.88518,
+            0.346547
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s8"
+        },
+        {
+          "text": "42,5’ten yüzde 46’ya yükseltilmesine karar vermiştir. Kurul ayrıca, Merkez Bankası gecelik vadede",
+          "bbox": [
+            0.119172,
+            0.347023,
+            0.885177,
+            0.362719
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s9"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    {
+      "field": "policy_rate_overnight_lending",
+      "status": "grounded",
+      "value": "yüzde 46’dan yüzde 49’a",
+      "evidence": [
+        {
+          "text": "borç verme faiz oranını yüzde 46’dan yüzde 49’a, gecelik vadede borçlanma faiz oranını ise yüzde",
+          "bbox": [
+            0.119155,
+            0.363195,
+            0.885155,
+            0.378892
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s10"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    {
+      "field": "policy_rate_overnight_borrowing",
+      "status": "recovered",
+      "value": "yüzde 41’den yüzde 44,5’e",
+      "evidence": [
+        {
+          "text": "42,5’ten yüzde 46’ya yükseltilmesine karar vermiştir. Kurul ayrıca, Merkez Bankası gecelik vadede",
+          "bbox": [
+            0.119172,
+            0.347023,
+            0.885177,
+            0.362719
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s9"
+        },
+        {
+          "text": "borç verme faiz oranını yüzde 46’dan yüzde 49’a, gecelik vadede borçlanma faiz oranını ise yüzde",
+          "bbox": [
+            0.119155,
+            0.363195,
+            0.885155,
+            0.378892
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s10"
+        },
+        {
+          "text": "41’den yüzde 44,5’e yükseltmiştir.",
+          "bbox": [
+            0.119155,
+            0.379368,
+            0.389324,
+            0.395065
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s11"
+        },
+        {
+          "text": "Enflasyonun ana eğilimi mart ayında gerilemiştir. Aylık temel mal enflasyonunun finansal",
+          "bbox": [
+            0.119155,
+            0.402669,
+            0.885159,
+            0.418366
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s12"
+        },
+        {
+          "text": "piyasalardaki gelişmelerin etkisiyle nisan ayında bir miktar yükseleceği, hizmet enflasyonunun ise",
+          "bbox": [
+            0.119155,
+            0.418842,
+            0.885146,
+            0.434539
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s13"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    {
+      "field": "inflation_target_medium_term",
+      "status": "grounded",
+      "value": "yüzde 5",
+      "evidence": [
+        {
+          "text": "ana eğilimini geriletecek ve enflasyonu orta vadede yüzde 5 hedefine ulaştıracak parasal ve",
+          "bbox": [
+            0.119088,
+            0.763612,
+            0.885088,
+            0.779309
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s33"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    {
+      "field": "core_inflation_outlook",
+      "status": "grounded",
+      "value": "aylık temel mal enflasyonunun finansal piyasalardaki gelişmelerin etkisiyle nisan ayında bir miktar yükseleceği",
+      "evidence": [
+        {
+          "text": "Enflasyonun ana eğilimi mart ayında gerilemiştir. Aylık temel mal enflasyonunun finansal",
+          "bbox": [
+            0.119155,
+            0.402669,
+            0.885159,
+            0.418366
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s12"
+        },
+        {
+          "text": "piyasalardaki gelişmelerin etkisiyle nisan ayında bir miktar yükseleceği, hizmet enflasyonunun ise",
+          "bbox": [
+            0.119155,
+            0.418842,
+            0.885146,
+            0.434539
+          ],
+          "page": 1,
+          "source": "pdf-text",
+          "ocr_confidence": null,
+          "id": "p1-s13"
+        }
+      ],
+      "alternatives": [],
+      "rejected_candidates": [],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "Literal source support found; review the cited context."
+    },
+    {
+      "field": "services_inflation_outlook",
+      "status": "abstained",
+      "value": null,
+      "evidence": [],
+      "alternatives": [],
+      "rejected_candidates": [
+        "hizmet enflasyonunun ise göre yatay seyredeceği"
+      ],
+      "confidence": null,
+      "verification": "nemotron-review+literal-match",
+      "reason": "No sufficiently supported value. This does not prove the field is absent."
+    }
+  ],
+  "events": [
+    {
+      "stage": "read",
+      "message": "Read 1 pages and 37 source spans.",
+      "field": null
+    },
+    {
+      "stage": "extract",
+      "message": "Produced 8 candidates.",
+      "field": null,
+      "model": "nvidia/nemotron-3-super-120b-a12b"
+    },
+    {
+      "stage": "review",
+      "message": "The date '17 Nisan 2025' appears explicitly in the text as a standalone line in the nearby context.",
+      "field": "decision_date",
+      "supported": true
+    },
+    {
+      "stage": "review",
+      "message": "The decision number '2025-24' is explicitly stated after the label 'Sayı: ' in the text.",
+      "field": "decision_number",
+      "supported": true
+    },
+    {
+      "stage": "review",
+      "message": "The text explicitly states the one-week repo rate was increased from 'yüzde 42,5’ten yüzde 46’ya'.",
+      "field": "policy_rate_one_week_repo",
+      "supported": true
+    },
+    {
+      "stage": "review",
+      "message": "The text explicitly states the overnight lending rate was increased from 'yüzde 46’dan yüzde 49’a'.",
+      "field": "policy_rate_overnight_lending",
+      "supported": true
+    },
+    {
+      "stage": "review",
+      "message": "The text explicitly states the overnight borrowing rate was increased from '41’den yüzde 44,5’e'.",
+      "field": "policy_rate_overnight_borrowing",
+      "supported": true
+    },
+    {
+      "stage": "review",
+      "message": "The text explicitly states that monetary and financial conditions will be set to bring inflation to the medium-term target of 'yüzde 5'.",
+      "field": "inflation_target_medium_term",
+      "supported": true
+    },
+    {
+      "stage": "review",
+      "message": "The text explicitly states the outlook for core inflation: 'aylık temel mal enflasyonunun finansal piyasalardaki gelişmelerin etkisiyle nisan ayında bir miktar yükseleceği'.",
+      "field": "core_inflation_outlook",
+      "supported": true
+    },
+    {
+      "stage": "review",
+      "message": "The text explicitly states the outlook for services inflation: 'hizmet enflasyonunun ise göre yatay seyredeceği'.",
+      "field": "services_inflation_outlook",
+      "supported": true
+    },
+    {
+      "stage": "repair",
+      "message": "Recovered the citation from adjacent source lines after semantic review.",
+      "field": "policy_rate_overnight_borrowing",
+      "before": "yüzde 41’den yüzde 44,5’e",
+      "after": "yüzde 41’den yüzde 44,5’e"
+    },
+    {
+      "stage": "reject",
+      "message": "Candidate is not a literal match in its cited source.",
+      "field": "services_inflation_outlook",
+      "candidate": "hizmet enflasyonunun ise göre yatay seyredeceği"
+    },
+    {
+      "stage": "retry",
+      "message": "Re-read the cited region.",
+      "field": "services_inflation_outlook"
+    },
+    {
+      "stage": "coverage",
+      "message": "7 of 8 fields resolved; 0 conflicts; 1 abstentions.",
+      "field": null
+    }
+  ],
+  "counts": {
+    "grounded": 6,
+    "recovered": 1,
+    "conflict": 0,
+    "abstained": 1
+  },
+  "requested": 8,
+  "mode": "nvidia",
+  "model": "nvidia/nemotron-3-super-120b-a12b",
+  "model_calls": [
+    {
+      "model": "nvidia/nemotron-3-super-120b-a12b",
+      "response": {
+        "candidates": [
+          {
+            "field": "decision_date",
+            "value": "17 Nisan 2025",
+            "span_ids": [
+              "p1-s3"
+            ]
+          },
+          {
+            "field": "decision_number",
+            "value": "2025-24",
+            "span_ids": [
+              "p1-s4"
+            ]
+          },
+          {
+            "field": "policy_rate_one_week_repo",
+            "value": "yüzde 42,5’ten yüzde 46’ya",
+            "span_ids": [
+              "p1-s8",
+              "p1-s9"
+            ]
+          },
+          {
+            "field": "policy_rate_overnight_lending",
+            "value": "yüzde 46’dan yüzde 49’a",
+            "span_ids": [
+              "p1-s10"
+            ]
+          },
+          {
+            "field": "policy_rate_overnight_borrowing",
+            "value": "yüzde 41’den yüzde 44,5’e",
+            "span_ids": [
+              "p1-s11"
+            ]
+          },
+          {
+            "field": "inflation_target_medium_term",
+            "value": "yüzde 5",
+            "span_ids": [
+              "p1-s33"
+            ]
+          },
+          {
+            "field": "core_inflation_outlook",
+            "value": "aylık temel mal enflasyonunun finansal piyasalardaki gelişmelerin etkisiyle nisan ayında bir miktar yükseleceği",
+            "span_ids": [
+              "p1-s12",
+              "p1-s13"
+            ]
+          },
+          {
+            "field": "services_inflation_outlook",
+            "value": "hizmet enflasyonunun ise göre yatay seyredeceği",
+            "span_ids": [
+              "p1-s13"
+            ]
+          }
+        ]
+      },
+      "elapsed_seconds": 4.71,
+      "usage": {
+        "prompt_tokens": 1700,
+        "completion_tokens": 406,
+        "total_tokens": 2106
+      },
+      "request_id": null
+    },
+    {
+      "model": "nvidia/nemotron-3-super-120b-a12b",
+      "response": {
+        "decisions": [
+          {
+            "index": 0,
+            "supported": true,
+            "reason": "The date '17 Nisan 2025' appears explicitly in the text as a standalone line in the nearby context.",
+            "value": "17 Nisan 2025",
+            "span_ids": [
+              "p1-s3"
+            ]
+          },
+          {
+            "index": 1,
+            "supported": true,
+            "reason": "The decision number '2025-24' is explicitly stated after the label 'Sayı: ' in the text.",
+            "value": "2025-24",
+            "span_ids": [
+              "p1-s4"
+            ]
+          },
+          {
+            "index": 2,
+            "supported": true,
+            "reason": "The text explicitly states the one-week repo rate was increased from 'yüzde 42,5’ten yüzde 46’ya'.",
+            "value": "yüzde 42,5’ten yüzde 46’ya",
+            "span_ids": [
+              "p1-s8",
+              "p1-s9"
+            ]
+          },
+          {
+            "index": 3,
+            "supported": true,
+            "reason": "The text explicitly states the overnight lending rate was increased from 'yüzde 46’dan yüzde 49’a'.",
+            "value": "yüzde 46’dan yüzde 49’a",
+            "span_ids": [
+              "p1-s10"
+            ]
+          },
+          {
+            "index": 4,
+            "supported": true,
+            "reason": "The text explicitly states the overnight borrowing rate was increased from '41’den yüzde 44,5’e'.",
+            "value": "yüzde 41’den yüzde 44,5’e",
+            "span_ids": [
+              "p1-s11"
+            ]
+          },
+          {
+            "index": 5,
+            "supported": true,
+            "reason": "The text explicitly states that monetary and financial conditions will be set to bring inflation to the medium-term target of 'yüzde 5'.",
+            "value": "yüzde 5",
+            "span_ids": [
+              "p1-s33"
+            ]
+          },
+          {
+            "index": 6,
+            "supported": true,
+            "reason": "The text explicitly states the outlook for core inflation: 'aylık temel mal enflasyonunun finansal piyasalardaki gelişmelerin etkisiyle nisan ayında bir miktar yükseleceği'.",
+            "value": "aylık temel mal enflasyonunun finansal piyasalardaki gelişmelerin etkisiyle nisan ayında bir miktar yükseleceği",
+            "span_ids": [
+              "p1-s12",
+              "p1-s13"
+            ]
+          },
+          {
+            "index": 7,
+            "supported": true,
+            "reason": "The text explicitly states the outlook for services inflation: 'hizmet enflasyonunun ise göre yatay seyredeceği'.",
+            "value": "hizmet enflasyonunun ise göre yatay seyredeceği",
+            "span_ids": [
+              "p1-s13",
+              "p1-s14"
+            ]
+          }
+        ]
+      },
+      "elapsed_seconds": 8.67,
+      "usage": {
+        "prompt_tokens": 2535,
+        "completion_tokens": 640,
+        "total_tokens": 3175
+      },
+      "request_id": null
+    },
+    {
+      "model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning",
+      "response": {
+        "value": null,
+        "supported": false
+      },
+      "elapsed_seconds": 2.1,
+      "usage": {
+        "prompt_tokens": 258,
+        "completion_tokens": 10,
+        "total_tokens": 268
+      },
+      "request_id": null
+    }
+  ],
+  "fault_injection": false,
+  "elapsed_seconds": 57.625,
+  "confidence_note": "Confidence is null: no calibrated probability model has been evaluated.",
+  "limitations": "Source support is not a guarantee of semantic correctness. OCR and correlated model errors remain possible.",
+  "pipeline_elapsed_seconds": 15.529,
+  "document": {
+    "pages": [
+      {
+        "number": 1,
+        "width": 1191,
+        "height": 1684,
+        "source": "pdf-text"
+      }
+    ],
+    "spans": [
+      {
+        "text": "1",
+        "bbox": [
+          0.49521,
+          0.941993,
+          0.50917,
+          0.957689
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s1"
+      },
+      {
+        "text": "Para Politikası Kurulu Kararı",
+        "bbox": [
+          0.119189,
+          0.164712,
+          0.675406,
+          0.203534
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s2"
+      },
+      {
+        "text": "17 Nisan 2025",
+        "bbox": [
+          0.11929,
+          0.217728,
+          0.249815,
+          0.235489
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s3"
+      },
+      {
+        "text": "Sayı: 2025-24",
+        "bbox": [
+          0.754966,
+          0.217728,
+          0.876114,
+          0.235489
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s4"
+      },
+      {
+        "text": "Toplantıya Katılan Kurul Üyeleri",
+        "bbox": [
+          0.119189,
+          0.267825,
+          0.391994,
+          0.284033
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s5"
+      },
+      {
+        "text": "Yaşar Fatih Karahan (Başkan), Osman Cevdet Akçay, Elif Haykır Hobikoğlu, Hatice Karahan, Fatma",
+        "bbox": [
+          0.119189,
+          0.291376,
+          0.885197,
+          0.307073
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s6"
+      },
+      {
+        "text": "Özkul.",
+        "bbox": [
+          0.119189,
+          0.307549,
+          0.172369,
+          0.323245
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s7"
+      },
+      {
+        "text": "Para Politikası Kurulu (Kurul), politika faizi olan bir hafta vadeli repo ihale faiz oranının yüzde",
+        "bbox": [
+          0.119189,
+          0.33085,
+          0.88518,
+          0.346547
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s8"
+      },
+      {
+        "text": "42,5’ten yüzde 46’ya yükseltilmesine karar vermiştir. Kurul ayrıca, Merkez Bankası gecelik vadede",
+        "bbox": [
+          0.119172,
+          0.347023,
+          0.885177,
+          0.362719
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s9"
+      },
+      {
+        "text": "borç verme faiz oranını yüzde 46’dan yüzde 49’a, gecelik vadede borçlanma faiz oranını ise yüzde",
+        "bbox": [
+          0.119155,
+          0.363195,
+          0.885155,
+          0.378892
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s10"
+      },
+      {
+        "text": "41’den yüzde 44,5’e yükseltmiştir.",
+        "bbox": [
+          0.119155,
+          0.379368,
+          0.389324,
+          0.395065
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s11"
+      },
+      {
+        "text": "Enflasyonun ana eğilimi mart ayında gerilemiştir. Aylık temel mal enflasyonunun finansal",
+        "bbox": [
+          0.119155,
+          0.402669,
+          0.885159,
+          0.418366
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s12"
+      },
+      {
+        "text": "piyasalardaki gelişmelerin etkisiyle nisan ayında bir miktar yükseleceği, hizmet enflasyonunun ise",
+        "bbox": [
+          0.119155,
+          0.418842,
+          0.885146,
+          0.434539
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s13"
+      },
+      {
+        "text": "görece yatay seyredeceği öngörülmektedir. Öncü veriler yurt içi talebin ilk çeyrekte ivme",
+        "bbox": [
+          0.119139,
+          0.435015,
+          0.885153,
+          0.450712
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s14"
+      },
+      {
+        "text": "kaybetmekle birlikte öngörülenin üzerinde seyrettiğini ve enflasyonu düşürücü etkisinin azaldığını",
+        "bbox": [
+          0.119155,
+          0.451188,
+          0.885146,
+          0.466885
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s15"
+      },
+      {
+        "text": "ima etmektedir. Küresel ticarette artan korumacı eğilimlerin küresel iktisadi faaliyet, emtia fiyatları",
+        "bbox": [
+          0.119139,
+          0.467361,
+          0.88515,
+          0.483057
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s16"
+      },
+      {
+        "text": "ve sermaye akımları kanalıyla dezenflasyon sürecine olası etkileri yakından takip edilmektedir.",
+        "bbox": [
+          0.119155,
+          0.483534,
+          0.885146,
+          0.49923
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s17"
+      },
+      {
+        "text": "Enflasyon beklentileri ve fiyatlama davranışları dezenflasyon süreci açısından risk unsuru olmaya",
+        "bbox": [
+          0.119139,
+          0.499706,
+          0.885154,
+          0.515403
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s18"
+      },
+      {
+        "text": "devam etmektedir.",
+        "bbox": [
+          0.119139,
+          0.515879,
+          0.275866,
+          0.531576
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s19"
+      },
+      {
+        "text": "Para politikasındaki kararlı duruş; yurt içi talepte dengelenme, Türk lirasında reel değerlenme ve",
+        "bbox": [
+          0.119122,
+          0.539109,
+          0.885113,
+          0.554806
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s20"
+      },
+      {
+        "text": "enflasyon beklentilerinde düzelme vasıtası ile dezenflasyon sürecini güçlendirmektedir. Maliye",
+        "bbox": [
+          0.119122,
+          0.555282,
+          0.885128,
+          0.570979
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s21"
+      },
+      {
+        "text": "politikasının artan eşgüdümü de bu sürece önemli katkı sağlayacaktır. Enflasyonda kalıcı düşüş ve",
+        "bbox": [
+          0.119122,
+          0.571455,
+          0.885112,
+          0.587151
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s22"
+      },
+      {
+        "text": "fiyat istikrarı sağlanana kadar sıkı para politikası duruşu sürdürülecektir. Bu doğrultuda, politika",
+        "bbox": [
+          0.119105,
+          0.587627,
+          0.885098,
+          0.603324
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s23"
+      },
+      {
+        "text": "faizi; enflasyon gerçekleşmeleri, ana eğilimi ve beklentileri göz önünde bulundurularak öngörülen",
+        "bbox": [
+          0.119105,
+          0.6038,
+          0.885133,
+          0.619497
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s24"
+      },
+      {
+        "text": "dezenflasyon sürecinin gerektirdiği sıkılığı sağlayacak şekilde belirlenecektir. Kurul politika faizine",
+        "bbox": [
+          0.119105,
+          0.619973,
+          0.885105,
+          0.63567
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s25"
+      },
+      {
+        "text": "ilişkin atılacak adımları enflasyon görünümü odaklı, ihtiyatlı ve toplantı bazlı bir yaklaşımla",
+        "bbox": [
+          0.119105,
+          0.636146,
+          0.885115,
+          0.651843
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s26"
+      },
+      {
+        "text": "belirleyecektir. Enflasyonda belirgin ve kalıcı bir bozulma öngörülmesi durumunda para politikası",
+        "bbox": [
+          0.119105,
+          0.652319,
+          0.885096,
+          0.668015
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s27"
+      },
+      {
+        "text": "duruşu sıkılaştırılacaktır.",
+        "bbox": [
+          0.119105,
+          0.668491,
+          0.313453,
+          0.684188
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s28"
+      },
+      {
+        "text": "Finansal piyasalarda son dönemde yaşanan gelişmeler neticesinde parasal aktarım mekanizmasını",
+        "bbox": [
+          0.119105,
+          0.691793,
+          0.885116,
+          0.707489
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s29"
+      },
+      {
+        "text": "destekleyen ilave adımlar ivedilikle atılmıştır. Likidite koşulları yakından izlenmeye ve likidite",
+        "bbox": [
+          0.119105,
+          0.707965,
+          0.885111,
+          0.723662
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s30"
+      },
+      {
+        "text": "yönetimi araçları etkili şekilde kullanılmaya devam edilecektir.",
+        "bbox": [
+          0.119105,
+          0.724138,
+          0.604865,
+          0.739835
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s31"
+      },
+      {
+        "text": "Kurul, politika kararlarını parasal sıkılaştırmanın gecikmeli etkilerini de dikkate alarak, enflasyonun",
+        "bbox": [
+          0.119088,
+          0.74744,
+          0.88509,
+          0.763136
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s32"
+      },
+      {
+        "text": "ana eğilimini geriletecek ve enflasyonu orta vadede yüzde 5 hedefine ulaştıracak parasal ve",
+        "bbox": [
+          0.119088,
+          0.763612,
+          0.885088,
+          0.779309
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s33"
+      },
+      {
+        "text": "finansal koşulları sağlayacak şekilde belirleyecektir. Bu doğrultuda, tüm para politikası araçları",
+        "bbox": [
+          0.119088,
+          0.779785,
+          0.885085,
+          0.795482
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s34"
+      },
+      {
+        "text": "kararlılıkla kullanılacaktır. Kurul, kararlarını öngörülebilir, veri odaklı ve şeffaf bir çerçevede",
+        "bbox": [
+          0.119088,
+          0.795958,
+          0.885071,
+          0.811655
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s35"
+      },
+      {
+        "text": "alacaktır.",
+        "bbox": [
+          0.119088,
+          0.812131,
+          0.194059,
+          0.827828
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s36"
+      },
+      {
+        "text": "Para Politikası Kurulu Toplantı Özeti beş iş günü içinde yayımlanacaktır.",
+        "bbox": [
+          0.119088,
+          0.835432,
+          0.678573,
+          0.851129
+        ],
+        "page": 1,
+        "source": "pdf-text",
+        "ocr_confidence": null,
+        "id": "p1-s37"
+      }
+    ],
+    "id": "0664304b89ee4c209f2a625ad5a467d1",
+    "filename": "TCMB-auto-discovery.pdf",
+    "sha256": "cd5aa3b68f3816caefae1d7b2298f9cecbacad978ea01c0ce6bf533c34001911"
+  },
+  "schema_version": "1.0",
+  "discovery": {
+    "schema_version": "1.0",
+    "mode": "nvidia",
+    "model": "nvidia/nemotron-3-super-120b-a12b",
+    "document_type": "Central Bank Monetary Policy Decision",
+    "summary": "The Monetary Policy Board decided to increase the one-week repo auction interest rate from 42.5% to 46%, the overnight lending rate from 46% to 49%, and the overnight borrowing rate from 41% to 44.5%. The decision was made on April 17, 2025, under decision number 2025-24. The Board noted that underlying inflation trends declined in March, with core inflation expected to rise slightly in April due to financial market developments, while services inflation is expected to move sideways. Underlying inflation expectations and pricing behavior remain a risk to the disinflation process. The firm monetary policy stance supports disinflation through domestic demand stabilization, real appreciation of the Turkish lira, and improved inflation expectations, with fiscal policy coordination providing additional support. A tight monetary policy stance will be maintained until a sustained decline in inflation and price stability are achieved. Policy rates will be set based on inflation outcomes, trends, and expectations to deliver the required tightness in the disinflation process. The Board will determine policy rate steps using an inflation outlook-focused, cautious, and meeting-by-meeting approach, and will tighten the policy stance if a significant and persistent deterioration in inflation is anticipated. Recent developments in financial markets have led to additional steps to support the monetary transmission mechanism, with liquidity conditions closely monitored and liquidity managemen",
+    "suggested_fields": [
+      "decision_date",
+      "decision_number",
+      "policy_rate_one_week_repo",
+      "policy_rate_overnight_lending",
+      "policy_rate_overnight_borrowing",
+      "inflation_target_medium_term",
+      "core_inflation_outlook",
+      "services_inflation_outlook"
+    ],
+    "pages_analyzed": 1,
+    "page_limit": 90,
+    "pages_at_entity_limit": [],
+    "rejected_unanchored_candidates": 11,
+    "elapsed_seconds": 42.04,
+    "limitation": "Model-discovered entities with literal source anchors. Categories and roles are model interpretations, not independently verified. Discovery may miss entities; up to 90 candidates per page."
+  },
+  "entity_count": 21
+}
