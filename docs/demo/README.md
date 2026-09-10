@@ -33,7 +33,3 @@ Actual result JSON, discovery output, comparison fields and the source-removal o
 4. Use the scanned agreement to explore image-region retries and multi-page source navigation.
 
 The video is edited from actual UI screen captures. Pauses are shortened or held for narration, cuts join separate recorded interactions, and headings/captions are added in post-production. It is not a real-time speed benchmark. Narration is AI-generated with the standard Andrew multilingual English voice. No voice cloning, generated document data, stock footage or background music is used.
-
-## Entry preparation
-
-The [official contest page](https://developer.nvidia.com/gtc-golden-ticket-contest) asks for a short video or project link, the judge who introduced the challenge, and `#NVIDIAGTC`. Its listed entry period ends September 10, 2026. Merve's official linked X account is [@mervenoyann](https://x.com/mervenoyann). `social-posts.md` contains drafts; nothing has been posted. The public project is https://github.com/ahmetcankaraoglan/evidencedoc.
