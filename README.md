@@ -18,7 +18,9 @@ English narration and captions. The videos show actual UI interactions and NVIDI
 - Evidence Lab removes selected source text and masks corresponding pixels in a separate copy, then runs fresh extraction without supplying the previous answer.
 - All bundled inputs are original public-source PDFs with source URLs and SHA-256 hashes.
 
-![Document review](docs/reader-v5.png)
+![EvidenceDoc reviewing NVIDIA’s official English FY2026 earnings report with source bounding boxes and extracted entities](docs/reader-nvidia-fy2026.png)
+
+Source shown: [NVIDIA Q4 and FY2026 earnings report (original English PDF)](https://nvidianews.nvidia.com/_gallery/download_pdf/699f6ab43d6332ccaa689907/).
 
 ## Start
 
