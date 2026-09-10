@@ -1,6 +1,6 @@
 # EvidenceDoc: real-source GTC demo kit
 
-Two English demo videos are included: **EvidenceDoc-GTC-full-demo.mp4** (about 3:03) and **EvidenceDoc-GTC-social-cut.mp4** (about 2:01). Both have English neural narration, burned-in English captions, and separate `.en.srt` subtitle files. The shorter cut emphasizes discovery, source navigation, graph, comparison and the source-removal experiment. The full cut also shows unsupported fields, scanned documents and export.
+Two English demo videos are available in [Releases](https://github.com/ahmetcankaraoglan/evidencedoc/releases/latest): **EvidenceDoc-GTC-full-demo.mp4** (about 3:03) and **EvidenceDoc-GTC-social-cut.mp4** (about 2:01). Both have English neural narration, burned-in English captions, and separate `.en.srt` subtitle files. The shorter cut emphasizes discovery, source navigation, graph, comparison and the source-removal experiment. The full cut also shows unsupported fields, scanned documents and export.
 
 ## Original English documents
 
@@ -36,4 +36,4 @@ The video is edited from actual UI screen captures. Pauses are shortened or held
 
 ## Entry preparation
 
-The [official contest page](https://developer.nvidia.com/gtc-golden-ticket-contest) asks for a short video or project link, the judge who introduced the challenge, and `#NVIDIAGTC`. Its listed entry period ends September 10, 2026. Merve's official linked X account is [@mervenoyann](https://x.com/mervenoyann). `social-posts.md` contains drafts; nothing has been posted. Add the public repository/project URL when sharing it.
+The [official contest page](https://developer.nvidia.com/gtc-golden-ticket-contest) asks for a short video or project link, the judge who introduced the challenge, and `#NVIDIAGTC`. Its listed entry period ends September 10, 2026. Merve's official linked X account is [@mervenoyann](https://x.com/mervenoyann). `social-posts.md` contains drafts; nothing has been posted. The public project is https://github.com/ahmetcankaraoglan/evidencedoc.
